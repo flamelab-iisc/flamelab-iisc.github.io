@@ -15,7 +15,7 @@ role: Ph.D.
 # Organizations/Affiliations
 organizations:
 - name: Personal Website
-  url: "https://dashp7.gihub.io/"
+  url: "https://dashp7.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
