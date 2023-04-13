@@ -1,0 +1,14 @@
+---
+title: "Simulations of flame structure in a reheat burner: pressure scaling"
+date: 2021-01-01
+publishDate: 2021-08-08T17:57:54.238822Z
+authors: ["Akash Rodhiya", "Konduri Aditya", "Andrea Gruber", "Jacqueline H. Chen"]
+publication_types: ["1"]
+abstract: " View Video Presentation: https://doi.org/10.2514/6.2021-3448.vidThe second combustion stage in a longitudinally-staged combustion system (reheat combustion in a sequential combustor) plays an important role in ensuring stable and flexible operation while achieving desired combustion characteristics ultimately resulting in an efficient, low-emissions and fuel-flexible gas turbine engine. Of particular interest is the combustion of pure hydrogen in such a reheat combustion system, which potentially represents the best way to reduce carbon emissions in the power generation sector. The highly reactive and diffusive properties of hydrogen result in significant challenges in controlling the combustion process and require a fundamental understanding of its rate-controlling features via a detailed investigation. Recently, three-dimensional direct numerical simulation (DNS) of a premixed hydrogen flame at reheat combustion conditions, but limited to atmospheric pressure, revealed specific features of the different combustion modes that characterize different spatial locations within the combustion chamber. The present work investigates the pressure scaling characteristics of reheat flames using two-dimensional DNS. Three different pressure levels (1, 5 and 10 bar) are investigated, capturing key changes in chemical pathways in hydrogen-air combustion. The flame stabilization characteristics and its structure compared to a homologous laminar flame are discussed. Chemical Explosive Mode Analysis (CEMA) is employed as a diagnostic tool to quantify the fuel consumption between the autoignition and flame propagation modes. With increase in pressure, a significant decrease in fuel consumption due to the predominance of the autoignition mode is observed. "
+featured: false
+publication: "*AIAA Propulsion and Energy 2021 Forum*"
+url_pdf: "https://arc.aiaa.org/doi/abs/10.2514/6.2021-3448"
+doi: "10.2514/6.2021-3448"
+share: false
+---
+

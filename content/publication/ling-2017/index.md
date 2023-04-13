@@ -1,0 +1,13 @@
+---
+title: "Using feature importance metrics to detect events of interest in scientific computing applications"
+date: 2017-10-01
+publishDate: 2020-06-20T20:49:33.539751Z
+authors: ["J. Ling", "W. P. Kegelmeyer", "K. Aditya", "H. Kolla", "K. A. Reed", "T. M. Shead", "W. L. Davis"]
+publication_types: ["1"]
+abstract: "With current high performance scientific computing workflows, data are typically recorded at regular intervals spaced several hundred time steps apart. Data are not saved at every time step to prevent excessive memory usage and because data I/O is often a bottleneck in the workflow. However, in many dynamical systems, events of interest occur locally in space and time. In these cases, a global data save across all processors at regular intervals is both inefficient and ineffective: it will result in data being saved over regions where nothing of interest is occurring, and it will miss an event of interest that occurs at time steps between data saves. What is needed is a method of automatically detecting an event of interest as it occurs so that a data save can be triggered on the relevant processors. We propose a method of detecting such events of interest using feature importance metrics. This method requires very little communication between processors, thereby lending itself to implementation in a high performance computing setting."
+featured: false
+publication: "*2017 IEEE 7th Symposium on Large Data Analysis and Visualization (LDAV)*"
+doi: "10.1109/LDAV.2017.8231851"
+share: false
+---
+
