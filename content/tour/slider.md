@@ -61,7 +61,7 @@ content:
         media: async.png
 
     - title: Super-resolution of turbulent fields
-      content: 'Development of generative machine learning techniques for the reconstruction of intricate details in turbulent fields.'
+      content: 'Deep learning has been extensively used for modeling and analyzing fluid turbulence. One such application is the use of super-resolution (SR) algorithms to reconstruct small-scale structures from large-scale ones for turbulent flows. However, current SR algorithms require high-resolution reference data for training, which is not practical for most fluid flow scenarios. To address this issue, a physics-guided model has been developed using generative adversarial networks to reconstruct small-scale structures relevant to homogeneous isotropic turbulence. The quality of the reconstruction was assessed using spectra, structure functions, and probability density functions of velocity components and a passive scalar. The results showed that the outputs were in statistical agreement with the ground truth, which was excluded from the training, and that the trained network generalized well across Reynolds numbers. This work lays the foundation for reconstructing small-scale structures from large-eddy simulation data without the need for high-resolution reference data.'
       align: right
       background:
         position: center
@@ -69,7 +69,7 @@ content:
         brightness: 0.5
         media: sres.png
     - title: Detection of Extreme Events
-      content: 'Development of machine learning methods for the detection of anomalous or extreme events in scientific phenomena.'
+      content: 'With the increasing availability of data, machine/deep learning methods are becoming an important tool for modeling, analysis and prediction of several phenomena. In this work, we develop a new anomaly detection method to identify anomalous/extreme events in scientific phenomena, which are often described by multi-scale, multi-variate, smoothly varying data. The method leverages the statistical signature of anomalies hidden in the higher order statistical moments. For multi-variate data, this translates to an examination of the higher order joint moments and their association with anomalies or extreme events. Specifically, we use the direction of the principal vectors obtained from the decomposition of the fourth order joint moment tensor, in characterizing the occurrence of anomalous events. We use this method to identify the inception of auto-ignition kernels in turbulent premixed combustion and the extreme intermittent events in isotropic turbulence.'
       align: right
       background:
         position: center
