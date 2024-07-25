@@ -5,7 +5,7 @@
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
+weight: 1 # Order that this section will appear.
 # title: |
 #   **Fl**ow **A**nalysis and **M**ulti-Physics Simulations at **E**xtreme Scale
 hero_media: logo.png
