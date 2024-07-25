@@ -64,7 +64,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Principal Investigator
-- Alumni
 ---
 I work as an Assistant Professor in the Department of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India. Prior to this, I was a Postdoctoral Researcher at the Combustion Research Facility, Sandia National Laboratories, Livermore, CA, United States. 
 
