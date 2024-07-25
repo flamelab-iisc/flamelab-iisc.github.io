@@ -9439,6 +9439,35 @@ a.hero-cta-alt:hover {
   .people-widget .col-sm-auto {
     width: 20%; } }
 
+
+/*************************************************
+ *  Alumni widget
+ **************************************************/
+.alumni-widget {
+  font-size: 0.8rem;
+  text-align: center; }
+
+.alumni-widget .portrait-title h2 {
+  font-size: 1rem; }
+
+.alumni-widget .portrait-title h3 {
+  font-size: 0.7rem; }
+
+.alumni-widget .avatar {
+  width: 80%;
+  max-width: 150px;
+  height: auto; }
+
+@media (min-width: 576px) {
+  .alumni-widget .col-sm-auto {
+    width: 30%; } }
+
+@media (min-width: 992px) {
+  .alumni-widget .col-sm-auto {
+    width: 20%; } }
+
+
+
 /*************************************************
  *  Projects
  **************************************************/

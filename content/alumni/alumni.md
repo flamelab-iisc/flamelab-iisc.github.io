@@ -21,7 +21,7 @@ content:
     - M.Tech Students
     - PostDocs
     - Research Assistants
-    - Alumni
+
 design:
   show_interests: false
   show_role: true
