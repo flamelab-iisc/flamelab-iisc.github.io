@@ -17,9 +17,9 @@ main:
     url: post
     weight: 40
   
- - name: Research2
-   url: event
-   weight: 0
+#  - name: Research2
+#    url: event
+#    weight: 0
 
   - name: People
     url: people
@@ -28,6 +28,6 @@ main:
     url: contact
     weight: 60
 
-  # - name: Research2
-  #   url: research
-  #   weight: 0
+  - name: Research2
+    url: event
+    weight: 0
