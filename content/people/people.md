@@ -54,9 +54,7 @@ content:
     - M.Tech Students
     - PostDocs
     - Research Assistants
-
-<h3> Alumni </h3>
-    - Alumni
+    - All Alumni
 
 
   
