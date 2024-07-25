@@ -23,4 +23,6 @@ content:
   user_group:
    - Alumni
 
+user_groups:
+- All Alumni
 ---
