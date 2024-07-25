@@ -31,7 +31,7 @@ tags: []
 # featured: false
 
 image: 
-  caption: 'hello'
+  caption: ''
   focal_point: Right
 
 # url_code: ''
