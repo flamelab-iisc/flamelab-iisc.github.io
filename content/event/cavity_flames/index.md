@@ -30,7 +30,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
+image: scramjet.png
   caption: ''
   focal_point: Right
 
