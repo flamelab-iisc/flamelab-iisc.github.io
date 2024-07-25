@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 # featured: false
 
-image: scramjet.png
-  # caption: ''
-  # focal_point: Right
+image: 
+  caption: 'hello'
+  focal_point: Right
 
 # url_code: ''
 # url_pdf: ''
