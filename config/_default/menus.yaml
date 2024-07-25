@@ -28,6 +28,6 @@ main:
     url: contact
     weight: 60
 
-  - name: Alumni
-    url: alumni
-    weight: 0
+  # - name: Alumni
+  #   url: alumni
+  #   weight: 0

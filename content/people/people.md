@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Meet the Team
-subtitle: meet them
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
@@ -22,7 +22,6 @@ content:
     - PostDocs
     - Research Assistants
     - Alumni
-    - All Alumni
 
   
 
