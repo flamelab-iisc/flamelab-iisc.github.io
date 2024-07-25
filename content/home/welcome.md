@@ -8,7 +8,8 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 # title: |
 #   **Fl**ow **A**nalysis and **M**ulti-Physics Simulations at **E**xtreme Scale
-hero_media: logo.png
+<img src="logo.png" alt="FLAME logo" style="width:150px;">
+hero_media: FLAME logo
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
