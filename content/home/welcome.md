@@ -29,8 +29,8 @@ Our research focuses on the simulation and analysis of multi-scale multi-physics
 
 </td>
 <td>
-<!-- img src="logo.png" -->
-<img src="logo.png" alt="FLAME logo" style="width:150px;">
+<img src="logo.png">
+<!--img src="logo.png" alt="FLAME logo" style="width:150px;">
 
 </td>
 </table> -->
