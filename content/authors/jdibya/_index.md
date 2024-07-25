@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Tech Students
+- Alumni
 ---
 Hello! I am Dibya Jyoti Nayak, a final year M.Tech. (Research) student in the Department of Computational and Data Sciences, Indian Institute of Science (IISc), Bengaluru, India. Prior to this, I was working as an Assistant Manager at Bajaj Auto Ltd., Pune, India. 
 
