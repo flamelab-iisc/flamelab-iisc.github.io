@@ -2,6 +2,7 @@
 title: Gas Turbine Engine Combustion
 # date: 
 share: false
+show_date: false
 ---
 
 Staged gas turbines with two sequential combustion chambers are being developed for power generation for their ability to achieve low emissions within a wide operational range while conserving high thermal efficiency.
