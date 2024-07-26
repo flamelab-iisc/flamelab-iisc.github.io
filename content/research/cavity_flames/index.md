@@ -2,6 +2,7 @@
 title: Cavity Stabilized Flames
 date: ''
 share: false
+show_date: false
 ---
 
 Flame stabilization in scramjet combustors used in hypersonic flight is a challenge.
