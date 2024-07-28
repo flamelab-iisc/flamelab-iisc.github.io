@@ -1,6 +1,6 @@
 ---
 title: Priyabrat selected for Helmholtz Visiting Research Fellowship
-date: 
+date: 2023-06-16
 share: false
 ---
 Priyabrat was selected for the Helmholtz Visiting Research Fellowship. He visited Juelich Supercomputing Center in Juelich (Germany) for a tenure of three months. His visit initiated a collaboration focused on harnessing graph neural networks to accelerate reacting flow simulations.
