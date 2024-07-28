@@ -28,7 +28,7 @@ education:
   courses:
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
-    year: Aug 2022 - Present
+    year: Aug 2022 - Jul 2024
   - course: B.Tech in Chemical Engineering
     institution: National Institute of Technology, Durgapur
     year: Aug 2015 - May 2019
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Tech Students
+- Alumni - M.Tech Students
 ---
 Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences. 
 

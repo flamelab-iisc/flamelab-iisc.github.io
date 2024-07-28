@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Project Assistant
+role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Computational and Data Sciences
+    institution: Indian Institute of Science, Bengaluru
+    year: 2023 - Present
   - course: Dual Degree (B. Tech + M. Tech) in Aerospace Engineering
     institution: Indian Institute of Technology, Kharagpur
     year: Jul 2017 - Jul 2022
@@ -66,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+- Ph.D. Students
 ---
 I am a Project Assistant at the Flame Lab, CDS, where I am currently involved in research on dimensionality reduction for reacting flows. With a deep passion for ML and a specific interest in its applications to physics, I am excited to be contributing to this rapidly evolving field. In addition to my interest in scientific ML, I am particularly fascinated by the concept of continual learning, which I believe has a great potential for shaping the future of AI.   
 

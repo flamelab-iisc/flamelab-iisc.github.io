@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
-    year: Aug 2021 - Present
+    year: Aug 2021 - Jul 2023
   - course: B.Tech in Mechanical Engineering
     institution: College of Engineering, Pune
     year: July 2016 - Jun 2020
@@ -68,8 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Tech Students
-- Alumni
+- Alumni - M.Tech Students
 ---
 I am an M. Tech student at the department of Computational and Data Sciences, IISc and associated with FLAME Lab headed by Dr. Konduri Aditya. I am currently working on an asynchronous DG method for flow simulations. The goal of my research is to create a highly scalable DG solver.   
 

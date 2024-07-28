@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
-    year: Aug 2021 - Present
+    year: Aug 2021 - Jul 2024
   - course: B.Tech (Hons.) in Mechanical Engineering
     institution: National Institute of Technology, Trichy
     year: July 2015 - Jun 2019
@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Alumni - M.Tech Students
 ---
 Hello! I am Dibya Jyoti Nayak, a final year M.Tech. (Research) student in the Department of Computational and Data Sciences, Indian Institute of Science (IISc), Bengaluru, India. Prior to this, I was working as an Assistant Manager at Bajaj Auto Ltd., Pune, India. 
 

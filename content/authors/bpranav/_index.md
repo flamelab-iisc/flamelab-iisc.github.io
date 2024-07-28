@@ -30,7 +30,7 @@ education:
   courses:
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
-    year: Jul 2022 - Present
+    year: Jul 2022 - Jul 2024
   - course: B.Tech in Mechanical Engineering
     institution: Jabalpur Engineering College, Jabalpur
     year: Jun 2017 - Jun 2021
@@ -69,7 +69,7 @@ email: "pranavbhagat@iisc.ac.in"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Alumni - M.Tech Students
 ---
 
 As a mechanical engineering graduate with a B.Tech degree, I developed a growing interest in computational sciences  and data science. I pursued this interest by attempting GATE and I am currently pursuing an M.Tech in Computational  and Data Science from IISc. 

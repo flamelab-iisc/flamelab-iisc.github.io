@@ -21,16 +21,13 @@ content:
     - M.Tech Students
     - PostDocs
     - Research Assistants
-    - Alumni
-
-  
+    - Alumni - Ph.D. Students
+    - Alumni - M.Tech Students
+    - Alumni - Interns
 
 design:
   show_interests: false
   show_role: true
   show_social: true
-
-
-
 ---
 

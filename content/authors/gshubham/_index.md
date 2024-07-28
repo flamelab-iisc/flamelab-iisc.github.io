@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Computational and Data Sciences
     institution: Indian Institute of Science, Bengaluru
-    year: 2019 - Present
+    year: 2019 - 2024
   - course: M.Sc. in Mathematics
     institution: Indian Institute of Technology, Kharagpur
     year: 2016 - 2018
@@ -71,7 +71,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- Alumni - Ph.D. Students
 ---
 
 I am enrolled in the Ph.D. program at CDS, IISc, and associated with FLAME Lab headed by Dr. Konduri Aditya since 2019. Currently, I am working on asynchronous numerical schemes for partial differential equations. My research work includes the performance analysis of numerical methods such as finite difference and discontinuous-Galerkin and studying the effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
