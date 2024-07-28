@@ -4,7 +4,7 @@ title: Priyabrat Dash
 
 # Username (this should match the folder name)
 authors:
-- dp
+- dpriyabrat
 
 # Is this the primary user of the site?
 superuser: False
