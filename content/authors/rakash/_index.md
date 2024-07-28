@@ -72,7 +72,7 @@ user_groups:
 ---
 <!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
 
-**Tenure:** August 2019 - August 2022 \\  
+**Tenure:** August 2019 - August 2022 
 **Current Position:** Research Assistant at IIT Kanpur
 
 
