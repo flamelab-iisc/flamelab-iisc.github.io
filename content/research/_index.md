@@ -7,5 +7,5 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: slider-front.JPG
+  image: slider-front-smaller.JPG
 ---
