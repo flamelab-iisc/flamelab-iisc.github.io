@@ -77,6 +77,8 @@ user_groups:
 - Alumni - Ph.D. Students
 ---
 
-I am currently a postdoctoral researcher at Ruhr University, Bochum, Germany, working with Dr. Martin Kronbichler. I completed my PhD under the supervision of Dr. Konduri Aditya in the FLAME Lab at CDS, IISc Bangalore, in July 2024, where I worked on asynchronous numerical schemes for partial differential equations. My PhD research was focused on the development of novel asynchronous numerical schemes based on finite difference and discontinuous Galerkin methods, analyzing their numerical properties and demonstrating scalability on massively parallel supercomputers. The objective of my PhD thesis was to develop a highly scalable DG-based PDE solver for massively parallel flow simulations. Apart from research, my other interests are traveling and trekking, and I love exploring new places.
+I am currently a postdoctoral researcher at Ruhr University, Bochum, Germany, working with Dr. Martin Kronbichler. I completed my PhD under the supervision of Dr. Konduri Aditya in the FLAME Lab at CDS, IISc Bangalore, in July 2024, where I worked on asynchronous numerical schemes for partial differential equations. My PhD research was focused on the development of novel asynchronous numerical schemes based on finite difference and discontinuous Galerkin methods, analyzing their numerical properties and demonstrating scalability on massively parallel supercomputers. The objective of my PhD thesis was to develop a highly scalable DG-based PDE solver for massively parallel flow simulations. 
+
+Apart from research, my other interests are traveling and trekking, and I love exploring new places.
 
 

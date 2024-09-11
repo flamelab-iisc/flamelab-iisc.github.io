@@ -71,6 +71,6 @@ email: ""
 user_groups:
 - Ph.D. Students
 ---
-I am a Project Assistant at the Flame Lab, CDS, where I am currently involved in research on dimensionality reduction for reacting flows. With a deep passion for ML and a specific interest in its applications to physics, I am excited to be contributing to this rapidly evolving field. In addition to my interest in scientific ML, I am particularly fascinated by the concept of continual learning, which I believe has a great potential for shaping the future of AI.   
+I am a PhD student at the Flame Lab, CDS, where I am currently involved in research on dimensionality reduction for reacting flows. With a deep passion for ML and a specific interest in its applications to physics, I am excited to be contributing to this rapidly evolving field. In addition to my interest in scientific ML, I am particularly fascinated by the concept of continual learning, which I believe has a great potential for shaping the future of AI.   
 
 
