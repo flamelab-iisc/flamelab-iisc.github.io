@@ -18,12 +18,22 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-tenure: August 2019 - August 2022
+# tenure: August 2019 - August 2022
 
-current position: Research Assistant at IIT Kanpur
+# current position: Research Assistant at IIT Kanpur
+interests:
+- Fluid Mechanics
+- Combustion
+- Turbulence
+- Scientific Computing
 
+education:
+  courses:
+  - course: B tech in Mechanical Engineering
+    institution: Indian Institute of Technology (BHU) Varanasi
+    year: 2019 - 2022
 
 # education:
 #   courses:
@@ -34,7 +44,22 @@ current position: Research Assistant at IIT Kanpur
 #     institution: National Institute of Technology, Durgapur
 #     year: Aug 2015 - May 2019
 
-
+social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:akashrodhiya@iisc.ac.in".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/Akazzzzzzzzz
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/Rodhiya
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/akash-rodhiya-26057185/
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -72,7 +97,12 @@ user_groups:
 ---
 <!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
 
-**Tenure:** August 2019 - August 2022<br>**Current Position:** Research Assistant at IIT Kanpur
+My work focuses on Combustion Concepts that are relevent to low emissions, high efficiency and fuel flexibility of stationary gas turbines for power generation. I study the auto-ignition control mode using massively parallel Direct Numerical Simulations. These simulations generate huge data. So, I use different analyzing and visualization techniques to understand the flow physics.
+
+Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket
+in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.
+
+**Current Position:** Research Assistant at IIT Kanpur
 
 
 

@@ -23,6 +23,16 @@ bio:
 # tenure: August 2019 - August 2022
 
 # current position: Research Assistant at IIT Kanpur
+interests:
+- Numerical Methods
+- HPC
+
+education:
+  courses:
+  - course: B.Tech (Mechanical Engineering)
+    institution: National Institute Of Technology Karnataka, Surathkal
+    year: 2019 - 2022
+
 
 
 # education:
@@ -34,6 +44,13 @@ bio:
 #     institution: National Institute of Technology, Durgapur
 #     year: Aug 2015 - May 2019
 
+social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/vinodjam
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/vinodjam
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,9 +87,11 @@ email: ""
 user_groups:
 - Alumni - M.Tech Students
 ---
-<!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
+My current research focus is on studying asynchronous numerical methods primarily on GPUs. This will help deal with the looming challenges of scaling as we approach larger and larger supercomputers.
 
-**Tenure:** August 2019 - July 2022<br>**Current Position:** Software Developer at nference
+On the personal side, I am a big Linux fan. I also enjoy spending my free time gaming and reading novels.
+
+**Current Position:** Software Developer at nference
 
 
 

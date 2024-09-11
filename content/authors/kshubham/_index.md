@@ -95,6 +95,7 @@ user_groups:
 <!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
 
 I am an MTech student in the FLAME lab at CDS, IISc.
+
 **Current Position:** AI Research Scientist, Sony Tokyo
 
 
