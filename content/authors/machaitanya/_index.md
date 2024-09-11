@@ -1,6 +1,6 @@
 ---
 # Display name
-title: M A Chaitanya
+title: Chaitanya Mamatha Ananda
 
 # Username (this should match the folder name)
 authors:
@@ -18,12 +18,21 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # tenure: August 2019 - August 2022
 
 # current position: Research Assistant at IIT Kanpur
 
+interests:
+- Parallel Programming
+- Machine Learning
+- Cloud Computing
+
+education:
+  courses:
+  - course: B.E. in Computer Science and Engineering
+    institution: Bangalore Institute of Technology (BIT) Bengaluru
 
 # education:
 #   courses:
@@ -72,7 +81,14 @@ user_groups:
 ---
 <!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
 
-**Tenure:** May 2019- May 2022<br>**Current Position:** Ph.D. student at UC Riverside
+I am an undergraduate student, persuing B.E. in Computer Science and Engineering from Bangalore Institute of Technology(BIT) Benagluru. 
+I am working as an Intern at FlAME lab at CDS, IISc.
+
+My work focuses on Parallel Programming Concepts using Regent for developing Asynchronous schemes for Partial Differential Equations and Machine-Learning concepts for detecting the anomalies.
+My interest also lies on Cloud Computing. 
+
+Apart from research, my other interests are playing cricket, nature photography and traveling. 
+**Current Position:** Ph.D. student at UC Riverside
 
 
 
