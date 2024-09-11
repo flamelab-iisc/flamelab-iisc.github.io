@@ -18,24 +18,11 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
-interests:
-- Fluid Mechanics
-- Combustion
-- Turbulence
-- Scientific Computing
+tenure: August 2019 - August 2022
 
-education:
-  courses:
-  - course: B tech in Mechanical Engineering
-    institution: Indian Institute of Technology (BHU) Varanasi
-    year: 2019 - 2022
-
-# tenure: August 2019 - August 2022
-
-# current position: Research Assistant at IIT Kanpur
+current position: Research Assistant at IIT Kanpur
 
 
 # education:
@@ -68,22 +55,6 @@ education:
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/tanaya-mallik-9010b4145
-social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:akashrodhiya@iisc.ac.in".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/Akazzzzzzzzz
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.com/Rodhiya
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/akash-rodhiya-26057185/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -99,12 +70,9 @@ email: ""
 user_groups:
 - Alumni - M.Tech Students
 ---
-My work focuses on Combustion Concepts that are relevent to low emissions, high efficiency and fuel flexibility of stationary gas turbines for power generation. I study the auto-ignition control mode using massively parallel Direct Numerical Simulations. These simulations generate huge data. So, I use different analyzing and visualization techniques to understand the flow physics.
+<!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
 
-Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket
-in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.
-
-**Current Position:** Research Assistant at IIT Kanpur
+**Tenure:** August 2019 - August 2022<br>**Current Position:** Research Assistant at IIT Kanpur
 
 
 
