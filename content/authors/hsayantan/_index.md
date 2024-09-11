@@ -14,16 +14,29 @@ role: M.Tech Coursework
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
+- name: Indian Institute of Science
+  url: "https://www.iisc.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Interested in Scalable Parallel Solvers, Discontinuous Numerical Techniques and Reinforcement Learning.
 
 # tenure: August 2019 - August 2022
 
 # current position: Research Assistant at IIT Kanpur
 
+interests:
+- High Performance Computing
+- Solver Development
+- Reinforcement Learning
+
+education:
+  courses:
+  - course: M.Tech in Computational and Data Sciences
+    institution: Indian Institute of Science 
+    year: 2019 - 2021
+  - course: B.E in Mechanical Engineering
+    institution: Jadavpur University
+    year: 2014 - 2018
 
 # education:
 #   courses:
@@ -34,6 +47,19 @@ bio:
 #     institution: National Institute of Technology, Durgapur
 #     year: Aug 2015 - May 2019
 
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:sayantanh@iisc.ac.in".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sayantan-halder-823391146/
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sayantan-96
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,9 +96,11 @@ email: ""
 user_groups:
 - Alumni - M.Tech Students
 ---
-<!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
+I'm working in developing a Discontinuous Galerkin based scalable solver for the Navier Stokes Equations. My interest lies in discontinuous numerical techniques, High Performance Computing and Reinforcement Learning.
+          
+Outside of academics I have a passion for photography and trekking.
 
-**Tenure:** August 2019 - July 2021<br>**Current Position:** Data Scientist at ZS Associates
+**Current Position:** Data Scientist at ZS Associates
 
 
 

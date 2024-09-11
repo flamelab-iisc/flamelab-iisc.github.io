@@ -31,7 +31,7 @@ education:
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
     year: Aug 2023 - Present
-  - course: B. Tech. in Aerospace Engineering, 2019-2023
+  - course: B. Tech. in Aerospace Engineering
     institution: Amrita Vishwa Vidyapeetham, Coimbatore
     year: July 2019 - Jun 2023
 
