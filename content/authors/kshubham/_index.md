@@ -18,12 +18,18 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# tenure: August 2019 - August 2022
 
-# current position: Research Assistant at IIT Kanpur
+interests:
+- Anomaly Detection
+- Super Resolution
 
+education:
+  courses:
+  - course: MTech in Computation and data Sciences
+    institution: Indian Institute of Science, Bengaluru
+    year: 2019 - Present
 
 # education:
 #   courses:
@@ -34,6 +40,19 @@ bio:
 #     institution: National Institute of Technology, Durgapur
 #     year: Aug 2015 - May 2019
 
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,9 +89,9 @@ email: ""
 user_groups:
 - Alumni - M.Tech Students
 ---
-<!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
+I was an MTech student in the FLAME lab at CDS, IISc.
 
-**Tenure:** August 2019 - July 2021<br>**Current Position:** AI Research Scientist, Sony Tokyo
+**Current Position:** AI Research Scientist, Sony Tokyo
 
 
 
