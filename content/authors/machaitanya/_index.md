@@ -88,6 +88,7 @@ My work focuses on Parallel Programming Concepts using Regent for developing Asy
 My interest also lies on Cloud Computing. 
 
 Apart from research, my other interests are playing cricket, nature photography and traveling. 
+
 **Current Position:** Ph.D. student at UC Riverside
 
 
