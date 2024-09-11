@@ -14,20 +14,23 @@ role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Science
-  url: "https://www.iisc.ac.in/"
-
+- name: Personal Website
+  url: "https://gshubhamk.github.io/"
 # Short bio (displayed in user profile at end of posts)
 bio: My reserach work focuses on the development of a scalable DG-based PDE solver for massively parallel computing systems.
 
 interests:
-- Computational Mathematics
 - Numerical Methods for PDEs
 - High Performance Computing
+- Asynchronous computing
+- Parallel PDE solvers
 
 
 education:
   courses:
+  - course: Postdoctoral Researcher
+    institution: Ruhr University, Bochum, Germany
+    year: 2024 - Present
   - course: Ph.D. in Computational and Data Sciences
     institution: Indian Institute of Science, Bengaluru
     year: 2019 - 2024
@@ -48,7 +51,7 @@ social:
 #  link: 'shubhamkg@iisc.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/shubhamtweets2?s=09
+  link: https://x.com/shubhamtweets2
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -57,7 +60,7 @@ social:
   link: https://github.com/gshubhamk
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
+  link: https://www.linkedin.com/in/shubham-kumar-goswami/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -74,6 +77,6 @@ user_groups:
 - Alumni - Ph.D. Students
 ---
 
-I am enrolled in the Ph.D. program at CDS, IISc, and associated with FLAME Lab headed by Dr. Konduri Aditya since 2019. Currently, I am working on asynchronous numerical schemes for partial differential equations. My research work includes the performance analysis of numerical methods such as finite difference and discontinuous-Galerkin and studying the effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
+I am currently a postdoctoral researcher at Ruhr University, Bochum, Germany, working with Dr. Martin Kronbichler. I completed my PhD under the supervision of Dr. Konduri Aditya in the FLAME Lab at CDS, IISc Bangalore, in July 2024, where I worked on asynchronous numerical schemes for partial differential equations. My PhD research was focused on the development of novel asynchronous numerical schemes based on finite difference and discontinuous Galerkin methods, analyzing their numerical properties and demonstrating scalability on massively parallel supercomputers. The objective of my PhD thesis was to develop a highly scalable DG-based PDE solver for massively parallel flow simulations. Apart from research, my other interests are traveling and trekking, and I love exploring new places.
 
-Apart from research, my other interests include traveling, trekking, and nature photography. I am incredibly fond of nature and its beauty and love to explore new places.
+
