@@ -1,6 +1,6 @@
 ---
 title: "An asynchronous discontinuous Galerkin method for massively parallel PDE solvers"
-date: 2024-10-01
+date: 2024-09-01
 publishDate: 2024-10-01T20:49:33.542875Z
 authors: ["Shubham K. Goswami", "Konduri Aditya"]
 publication_types: ["1"]
