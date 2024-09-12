@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Multiscale modelling
+- Multiscale modeling
 - Reactive molecular dynamics
 - Combustion physics
 - Machine learning 
