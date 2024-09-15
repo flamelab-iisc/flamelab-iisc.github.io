@@ -4,7 +4,7 @@ title: Raj Maddipati
 
 # Username (this should match the folder name)
 authors:
-- mraj
+- raj
 
 # Is this the primary user of the site?
 superuser: False
