@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Raj Maddipati
+title: Surya Datta Sudhakar
 
 # Username (this should match the folder name)
 authors:
-- raj
+- sudhakars
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Ph.D.
+role: M.Tech Research
 
 # Organizations/Affiliations
-organizations:
+# organizations:
 # - name: Personal Website
-#   url: "https://dashp7.gihub.io/"
+#   url: https://sites.google.com/view/dibyajyoti-nayak/home
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Multiscale modeling
-- Reactive molecular dynamics
-- Combustion physics
-- Machine learning 
+interests: 
+- Fluid dynamics  
+- Heat Transfer
+- Machine Learning
 
 education:
   courses:
-  - course: Ph.D. in Computational and Data Sciences
+  - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
-    year: Oct 2020 - Present
-  - course: MTech in Aerospace Engineering
-    institution: Indian Institute of Technology, Kanpur
-    year: Jun 2018 - Jun 2020
+    year: Aug 2024 - Present
+  - course: B. Tech. in Mechanical Engineering
+    institution: Osmania University
+    year: Aug 2016 - Jun 2020
 
 
 # Social/Academic Networking
@@ -43,19 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mraj@iisc.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:suryas@iisc.ac.in'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/pdash07
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rajmaddipati95 
+# - icon: github
+#   icon_pack: fab
+#   link: ttps://github.com/VidyeshDapse/ 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/raj-maddipati-a2a42b104/
+  link: https://www.linkedin.com/in/surya-datta-sudhakar
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -69,9 +68,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- M.Tech Students
 ---
-I am a person who likes to live a simple life but in a fascinating way. I try to be friendly and generous to everyone I meet. I have an outgoing personality and enjoy hanging out with people that aren't self-centred. I kind of love adventures like trekking in Himalayas or long bike ride to hill stations or marathon running etc., thanks to adventure club in IITK.
-
-
-
+Working on problems related to combustion data. Like to play table tennis or go around walking in my free time.
