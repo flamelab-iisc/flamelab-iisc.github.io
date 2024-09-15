@@ -81,8 +81,8 @@ user_groups:
 ---
 <!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  -->
 
-I am an undergraduate student, persuing B.E. in Computer Science and Engineering from Bangalore Institute of Technology(BIT) Benagluru. 
-I am working as an Intern at FlAME lab at CDS, IISc.
+I was an undergraduate student, pursued B.E. in Computer Science and Engineering from Bangalore Institute of Technology(BIT) Benagluru. 
+I worked as an Intern at FlAME lab at CDS, IISc.
 
 My work focuses on Parallel Programming Concepts using Regent for developing Asynchronous schemes for Partial Differential Equations and Machine-Learning concepts for detecting the anomalies.
 My interest also lies on Cloud Computing. 
