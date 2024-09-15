@@ -24,7 +24,6 @@ interests:
 - Multiscale modeling
 - Reactive molecular dynamics
 - Combustion physics
-- Machine learning 
 
 education:
   courses:
