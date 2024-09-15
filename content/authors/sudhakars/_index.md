@@ -22,8 +22,8 @@ bio:
 
 interests: 
 - Fluid dynamics  
-- Heat Transfer
-- Machine Learning
+- Heat transfer
+- Machine learning
 
 education:
   courses:

@@ -96,7 +96,7 @@ email: ""
 user_groups:
 - Alumni - M.Tech Students
 ---
-I'm working in developing a Discontinuous Galerkin based scalable solver for the Navier Stokes Equations. My interest lies in discontinuous numerical techniques, High Performance Computing and Reinforcement Learning.
+I worked in developing a Discontinuous Galerkin based scalable solver for the Navier Stokes Equations. My interest lies in discontinuous numerical techniques, High Performance Computing and Reinforcement Learning.
           
 Outside of academics I have a passion for photography and trekking.
 

@@ -70,7 +70,7 @@ email: ""
 user_groups:
 - Alumni - M.Tech Students
 ---
-I am an M. Tech student at the department of Computational and Data Sciences, IISc and associated with FLAME Lab headed by Dr. Konduri Aditya. I am currently working on an asynchronous DG method for flow simulations. The goal of my research is to create a highly scalable DG solver.   
+I was an M. Tech student at the department of Computational and Data Sciences, IISc and associated with FLAME Lab headed by Dr. Konduri Aditya. I worked on an asynchronous DG method for flow simulations. The goal of my research is to create a highly scalable DG solver.   
 
 Apart from this, my interests include reading books and photography. I like to play Cricket.   
 

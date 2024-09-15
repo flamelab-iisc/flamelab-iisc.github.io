@@ -70,7 +70,7 @@ email: ""
 user_groups:
 - Alumni - M.Tech Students
 ---
-Hello! I am Dibya Jyoti Nayak, a final year M.Tech. (Research) student in the Department of Computational and Data Sciences, Indian Institute of Science (IISc), Bengaluru, India. Prior to this, I was working as an Assistant Manager at Bajaj Auto Ltd., Pune, India. 
+Hello! I am Dibya Jyoti Nayak, I was an M.Tech. (Research) student in the Department of Computational and Data Sciences, Indian Institute of Science (IISc), Bengaluru, India. Prior to that, I was working as an Assistant Manager at Bajaj Auto Ltd., Pune, India. 
 
 
-My primary research interests lie in Scientific Machine Learning, Computational Fluid Dynamics, and High-Performance Computing. Currently, I am working on the development of statistical learning-based algorithms for detection of anomalous/extreme events in scientific phenomena. 
+My primary research interests lie in Scientific Machine Learning, Computational Fluid Dynamics, and High-Performance Computing. Currently, I worked on the development of statistical learning-based algorithms for detection of anomalous/extreme events in scientific phenomena. 
