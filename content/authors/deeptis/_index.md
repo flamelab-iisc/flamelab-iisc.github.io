@@ -29,7 +29,7 @@ education:
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
     year: Aug 2024 - Present
-  - course: BS (Res.) in Chemistry,
+  - course: BS (Res.) in Chemistry
     institution: Indian Institute of Science, Bangalore
     year: Aug 2020 - April 2024
 

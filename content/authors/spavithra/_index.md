@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Raj Maddipati
+title: Pavithra S
 
 # Username (this should match the folder name)
 authors:
-- mraj
+- spavithra
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Ph.D.
+role: Project Associate
 
 # Organizations/Affiliations
 organizations:
@@ -21,19 +21,16 @@ organizations:
 bio: 
 
 interests:
-- Multiscale modeling
-- Reactive molecular dynamics
-- Combustion physics
-- Machine learning 
+- Python
 
 education:
   courses:
-  - course: Ph.D. in Computational and Data Sciences
-    institution: Indian Institute of Science, Bangalore
-    year: Oct 2020 - Present
-  - course: MTech in Aerospace Engineering
-    institution: Indian Institute of Technology, Kanpur
-    year: Jun 2018 - Jun 2020
+#   - course: Ph.D. in Computational and Data Sciences
+#     institution: Indian Institute of Science, Bangalore
+#     year: Oct 2020 - Present
+  - course: B. Tech. in Electronics & Communication Engineering
+    institution: Visvesvaraya Technological University
+    year: Aug 2014 - Jun 2018
 
 
 # Social/Academic Networking
@@ -50,12 +47,12 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rajmaddipati95 
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/rajmaddipati95 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/raj-maddipati-a2a42b104/
+  link: https://www.linkedin.com/in/pavithra-s-69ab83304/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -69,9 +66,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- Project Associates
 ---
-I am a person who likes to live a simple life but in a fascinating way. I try to be friendly and generous to everyone I meet. I have an outgoing personality and enjoy hanging out with people that aren't self-centred. I kind of love adventures like trekking in Himalayas or long bike ride to hill stations or marathon running etc., thanks to adventure club in IITK.
+I am working as Project Associate at FLAME Lab, Department of Computational and Data Sciences, IISc. Prior to joining IISc, I worked at HCL Technologies as an IAM analyst. I hold a Bachelor's Degree in Electronics and Communication from Visvesvaraya Technological University.
 
 
 

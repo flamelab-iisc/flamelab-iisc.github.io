@@ -21,6 +21,7 @@ content:
     - M.Tech Students
     - PostDocs
     - Research Assistants
+    - Project Associates
     - Alumni - Ph.D. Students
     - Alumni - M.Tech Students
     - Alumni - Interns
