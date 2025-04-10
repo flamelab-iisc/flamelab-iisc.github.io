@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: AI Research Scientist, Sony Tokyo
+role: AI research scientist, Sony Tokyo
 
 # Organizations/Affiliations
 organizations:
