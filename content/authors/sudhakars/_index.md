@@ -68,6 +68,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Tech Students
+- M.Tech Research Students
 ---
 Working on problems related to combustion data. Like to play table tennis or go around walking in my free time.
