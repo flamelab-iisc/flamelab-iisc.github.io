@@ -85,7 +85,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni - M.Tech Students
+- Alumni - M.Tech Research Students
 ---
 My current research focus is on studying asynchronous numerical methods primarily on GPUs. This will help deal with the looming challenges of scaling as we approach larger and larger supercomputers.
 
