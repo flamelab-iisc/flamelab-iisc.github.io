@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D., currently a PostDoc at Ruhr University, Germany
+role: PostDoc at Ruhr University, Germany
 
 # Organizations/Affiliations
 organizations:
