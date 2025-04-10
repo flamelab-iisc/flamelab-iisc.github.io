@@ -94,7 +94,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni - M.Tech Students
+- Alumni - M.Tech Coursework Students
 ---
 I worked in developing a Discontinuous Galerkin based scalable solver for the Navier Stokes Equations. My interest lies in discontinuous numerical techniques, High Performance Computing and Reinforcement Learning.
           
