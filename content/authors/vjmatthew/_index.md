@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Research
+role: Software developer at nference
 
 # Organizations/Affiliations
 organizations:
