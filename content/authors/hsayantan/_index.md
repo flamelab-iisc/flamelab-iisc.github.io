@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Data Scientist at ZS Associates
+role: Data scientist at ZS Associates
 
 # Organizations/Affiliations
 organizations:
