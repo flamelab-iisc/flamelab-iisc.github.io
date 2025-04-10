@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Tech Students
+- M.Tech Coursework Students
 ---
 Hi! I am Dhruthi, an inquisitive second-year M.Tech student working on multiscale modeling. I am keen on exploring new ideas, with molecular dynamics being my current interest. I have a deep passion for science and I truly believe in its potential to benefit society. 
 

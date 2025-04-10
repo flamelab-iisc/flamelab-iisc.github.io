@@ -19,11 +19,16 @@ content:
     - Principal Investigator
     - Ph.D. Students
     - M.Tech Students
+    - M.Tech Coursework Students
+    - M.Tech Research Students
     - PostDocs
     - Research Assistants
     - Project Associates
     - Alumni - Ph.D. Students
     - Alumni - M.Tech Students
+    - Alumni - M.Tech Coursework Students
+    - Alumni - M.Tech Research Students
+    - Alumni - PostDocs
     - Alumni - Interns
 
 design:

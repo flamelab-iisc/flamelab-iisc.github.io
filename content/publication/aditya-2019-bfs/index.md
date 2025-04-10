@@ -8,6 +8,5 @@ abstract: ""
 featured: false
 publication: "*11th U.S. National Combustion Meeting*"
 url_pdf: "2019-usncm-bfs.pdf"
-share: false
 ---
 

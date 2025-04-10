@@ -16,7 +16,7 @@ design:
   css_style:
   css_class:
 ---
-Our research focuses on leveraging high performance computing (HPC) platforms (towards millions of computing units) and machine learning (ML) techniques to accelerate simulations and analysis of multi-scale multi-physics fluid flow problems. 
+Our research focuses on leveraging high performance computing (HPC) platforms (towards millions of computing units) and machine learning (ML) techniques to accelerate simulations and analysis of multi-scale multi-physics fluid flow problems.
 
 *Our lab has **three open research positions** including Ph.D. and M.Tech. (Research) for May 2025 admissions. We welcome applications from highly motivated individuals with a passion for research. Interested candidates can apply through [IISc admissions](https://admissions.iisc.ac.in/). We look forward to receiving your application!*
 

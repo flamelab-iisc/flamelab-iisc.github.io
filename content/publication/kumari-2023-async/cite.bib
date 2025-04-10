@@ -1,0 +1,14 @@
+@article{kumari2023async,
+ abstract = {Next-generation exascale machines with extreme levels of parallelism will provide massive computing resources for large scale numerical simulations of complex physical systems at unprecedented parameter ranges. However, novel numerical methods, scalable algorithms and re-design of current state-of-the art numerical solvers are required for scaling to these machines with minimal overheads. One such approach for partial differential equations based solvers involves computation of spatial derivatives with possibly delayed or asynchronous data using high-order asynchrony-tolerant (AT) schemes to facilitate mitigation of communication and synchronization bottlenecks without affecting the numerical accuracy. In the present study, an effective methodology of implementing temporal discretization using a multi-stage Runge-Kutta method with AT schemes is presented. Together these schemes are used to perform asynchronous simulations of canonical reacting flow problems, demonstrated in one-dimension including auto-ignition of a premixture, premixed flame propagation and non-premixed autoignition. Simulation results show that the AT schemes incur very small numerical errors in all key quantities of interest including stiff intermediate species despite delayed data at processing element (PE) boundaries. For simulations of supersonic flows, the degraded numerical accuracy of well-known shock-resolving WENO (weighted essentially non-oscillatory) schemes when used with relaxed synchronization is also discussed. To overcome this loss of accuracy, high-order AT-WENO schemes are derived and tested on linear and non-linear equations. Finally the novel AT-WENO schemes are demonstrated in the propagation of a detonation wave with delays at PE boundaries.},
+ author = {Komal Kumari and Emmet Cleary and Swapnil Desai and Diego A. Donzis and Jacqueline H. Chen and Konduri Aditya},
+ doi = {https://doi.org/10.1016/j.jcp.2023.111906},
+ issn = {0021-9991},
+ journal = {Journal of Computational Physics},
+ keywords = {Asynchronous computing, DNS, Combustion, Exascale, WENO, Finite-difference},
+ pages = {111906},
+ title = {Evaluation of finite difference based asynchronous partial differential equations solver for reacting flows},
+ url = {https://www.sciencedirect.com/science/article/pii/S0021999123000013},
+ volume = {477},
+ year = {2023}
+}
+
