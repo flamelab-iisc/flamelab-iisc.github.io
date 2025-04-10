@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Research
+role: Ph.D. at Johns Hopkins, USA
 
 # Organizations/Affiliations
 organizations:
