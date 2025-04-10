@@ -69,5 +69,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - M.Tech Students
+- M.Tech Research Students
 ---
 I joined the FLAME lab as an M. Tech. (research) student in summer 2024. I work on asynchrony tolerant schemes that can help design highly scalable discontinuous Galerkin method-based solvers for reacting flows. My interests outside of academics include watching cinema and sports.
