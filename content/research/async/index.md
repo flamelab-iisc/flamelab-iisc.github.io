@@ -1,5 +1,5 @@
 ---
-title: Asynchronous Numerical Schemes
+title: Asynchronous PDE Solvers
 date: ''
 share: false
 show_date: false
