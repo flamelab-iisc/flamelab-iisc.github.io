@@ -69,7 +69,7 @@ email: "pranavbhagat@iisc.ac.in"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni - M.Tech Students
+- Alumni - M.Tech Coursework Students
 ---
 
 As a mechanical engineering graduate with a B.Tech degree, I developed a growing interest in computational sciences  and data science. I pursued this interest by attempting GATE and I am currently pursuing an M.Tech in Computational  and Data Science from IISc. 
