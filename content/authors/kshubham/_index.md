@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Coursework
+role: AI Research Scientist, Sony Tokyo
 
 # Organizations/Affiliations
 organizations:
