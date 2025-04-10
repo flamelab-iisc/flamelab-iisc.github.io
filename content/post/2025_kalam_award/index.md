@@ -1,5 +1,5 @@
 ---
-title: Dr.Aditya received the prestigious Dr.APJ Abdul Kalam HPC Award 2025
+title: Dr. Aditya received the prestigious Dr. APJ Abdul Kalam HPC Award 2025
 date: 2025-02-24
 share: false
 ---
