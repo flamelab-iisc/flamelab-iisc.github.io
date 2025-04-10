@@ -67,6 +67,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Tech Students
+- M.Tech Coursework Students
 ---
 I’ve recently embarked on my MTech journey in CDS, building on my background in chemistry. I’m particularly passionate about exploring multiscale modeling and Reactive Molecular Dynamics. Outside of academics, I’m a lively and fun person, who enjoys dancing, playing badminton, and organizing events. 
