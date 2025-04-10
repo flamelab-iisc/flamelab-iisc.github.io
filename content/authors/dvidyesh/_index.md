@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Coursework
+role: Associate data scientist at Tekion Corp.
 
 # Organizations/Affiliations
 organizations:
