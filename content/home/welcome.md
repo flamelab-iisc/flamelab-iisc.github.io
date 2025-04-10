@@ -18,7 +18,7 @@ design:
 ---
 Our research focuses on the simulation and analysis of multi-scale multi-physics fluid flow problems that leverage high performance computing (HPC) platforms (upto millions of computing units). 
 
-*Our lab has **three open research positions** including Ph.D. and M.Tech. (Research). We welcome applications from highly motivated individuals with a passion for research. Interested candidates can apply through [IISc admissions](https://admissions.iisc.ac.in/) conducted twice a year. We look forward to receiving your application!*
+*Our lab has **three open research positions** including Ph.D. and M.Tech. (Research) for May 2025 admissions. We welcome applications from highly motivated individuals with a passion for research. Interested candidates can apply through [IISc admissions](https://admissions.iisc.ac.in/). We look forward to receiving your application!*
 
 <!-- <!-- <table>
 <tr>
