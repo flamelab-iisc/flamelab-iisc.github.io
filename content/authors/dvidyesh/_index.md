@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni - M.Tech Students
+- Alumni - M.Tech Coursework Students
 ---
 I was an M. Tech student at the department of Computational and Data Sciences, IISc and associated with FLAME Lab headed by Dr. Konduri Aditya. I worked on an asynchronous DG method for flow simulations. The goal of my research is to create a highly scalable DG solver.   
 
