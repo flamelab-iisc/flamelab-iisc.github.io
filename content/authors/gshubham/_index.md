@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PostDoc at Ruhr University, Germany
+role: Postdoc at Ruhr University, Germany
 
 # Organizations/Affiliations
 organizations:
