@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Research
+role: Ph.D at NYU, USA
 
 # Organizations/Affiliations
 organizations:
@@ -102,7 +102,7 @@ My work focuses on Combustion Concepts that are relevent to low emissions, high 
 Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket
 in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.
 
-**Current Position:** Research Assistant at IIT Kanpur
+**Current Position:** Ph.D. student at New York University, USA
 
 
 
