@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni - M.Tech Students
+- Alumni - M.Tech Coursework Students
 ---
 Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences. 
 
