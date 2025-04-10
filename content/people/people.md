@@ -24,6 +24,7 @@ content:
     - Project Associates
     - Alumni - Ph.D. Students
     - Alumni - M.Tech Students
+    - Alumni - PostDocs
     - Alumni - Interns
 
 design:
