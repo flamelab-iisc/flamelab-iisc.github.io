@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Coursework
+role: Data Scientist at ZS Associates
 
 # Organizations/Affiliations
 organizations:
