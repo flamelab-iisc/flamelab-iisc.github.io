@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Ph.D at NYU, USA
+role: Ph.D. at NYU, USA
 
 # Organizations/Affiliations
 organizations:
