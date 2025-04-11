@@ -9,9 +9,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-banner:
-  image: slider-front-smaller2.jpg
-
 title: Meet the Team
 subtitle: 
 
