@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Project Assistant/ Research Intern
+role: Ph.D. at UCR, USA
 
 # Organizations/Affiliations
 organizations:
