@@ -6,8 +6,10 @@ share: false
 Shiva Sai, Priyabrat Dash, Raj Maddipati attended the Indo-German Workshop on Hardware Aware Scientific Computing (IGWHASC).
 
 <!--more-->
-Shiva Sai presented the poster on "An a-posteriori analysis of co-kurtosis PCA based dimensionality reduction using Neural ODE". 
+Raj presented on "Novel multi-scale modeling methodology for chemical kinetic modeling of fuel oxidation using atomistic calculations". He was awarded the Best Poster Presentation Award.
 
-Raj presented on "Novel multi-scale modeling methodology for chemical kinetic modeling of fuel oxidation using atomistic calculations".
+Shiva presented the poster on "An a-posteriori analysis of co-kurtosis PCA based dimensionality reduction using Neural ODE". 
 
-Raj was awarded the Best Poster Award.
+Priyabrat presented the poster on "Super-Resolution of Turbulent Fields Using Deep Learning, with an emphasis on physics-guided self-supervised models".
+
+
