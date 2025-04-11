@@ -42,6 +42,4 @@ user_groups:
 - Alumni - PostDocs
 ---
 
-# Brief bio
-
 
