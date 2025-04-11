@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Coursework
+role: Data scientist at Fujitsu
 
 # Organizations/Affiliations
 organizations:
