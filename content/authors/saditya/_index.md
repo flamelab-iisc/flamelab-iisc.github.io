@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Coursework
+role: Program associate at Wells Fargo
 
 # Organizations/Affiliations
 organizations:
