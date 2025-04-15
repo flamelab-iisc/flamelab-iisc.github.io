@@ -4,7 +4,7 @@
 
 {{ range $group := $user_groups }}
   {{ $people := where site.RegularPages "Params.user_groups" "intersect" (slice $group) }}
-{{*
+{{/*
   {{ if gt (len $people) 0 }}
     <div class="pt-4">
       <h2>{{ $group }}</h2>
@@ -19,13 +19,13 @@
           {{ end }}
         </ul>
       {{ else }}
-*}}
+*/}}
         <div class="row justify-center">
           {{ range $people }}
             {{ partial "people/person.html" . }}
           {{ end }}
         </div>
-{{*      {{ end }} *}}
+{{/*      {{ end }} */}}
     </div>
   {{ end }}
 {{ end }}
