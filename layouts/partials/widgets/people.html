@@ -1,8 +1,1 @@
-{{ range $group := .Params.user_groups }}
-  <h2>{{ $group }}</h2>
-  <div class="row">
-    {{ range where site.RegularPages "Params.user_groups" "intersect" (slice $group) }}
-      {{ partial "people/person.html" . }}
-    {{ end }}
-  </div>
-{{ end }}
+
