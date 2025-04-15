@@ -1,31 +1,8 @@
-<!-- CUSTOM PEOPLE WIDGET ACTIVE -->
-{{ $widget := . }}
-{{ $user_groups := $widget.Params.user_groups }}
-
-{{ range $group := $user_groups }}
-  {{ $people := where site.RegularPages "Params.user_groups" "intersect" (slice $group) }}
-{{/*
-  {{ if gt (len $people) 0 }}
-    <div class="pt-4">
-      <h2>{{ $group }}</h2>
-
-      {{ if eq $group "Alumni - Interns" }}
-        <ul class="list-disc list-inside">
-          {{ range $people }}
-            <li>
-              <a href="{{ .RelPermalink }}">{{ .Params.name }}</a>
-              {{ with .Params.role }} – {{ . }}{{ end }}
-            </li>
-          {{ end }}
-        </ul>
-      {{ else }}
-*/}}
-        <div class="row justify-center">
-          {{ range $people }}
-            {{ partial "people/person.html" . }}
-          {{ end }}
-        </div>
-{{/*      {{ end }} */}}
-    </div>
-  {{ end }}
+{{ range $group := .Params.user_groups }}
+  <h2>{{ $group }}</h2>
+  <div class="row">
+    {{ range where site.RegularPages "Params.user_groups" "intersect" (slice $group) }}
+      {{ partial "people/person.html" . }}
+    {{ end }}
+  </div>
 {{ end }}
