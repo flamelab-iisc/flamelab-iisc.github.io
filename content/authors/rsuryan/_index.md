@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Research Intern
+role: PhD at UMN Twin Cities, USA
 
 # Organizations/Affiliations
 organizations:
