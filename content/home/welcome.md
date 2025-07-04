@@ -18,7 +18,9 @@ design:
 ---
 Our research focuses on leveraging high performance computing (HPC) platforms (towards millions of computing units) and machine learning (ML) techniques to accelerate simulations and analysis of multi-scale multi-physics fluid flow problems.
 
-*Our lab has **three open research positions** including Ph.D. and M.Tech. (Research) for May 2025 admissions. We welcome applications from highly motivated individuals with a passion for research. Interested candidates can apply through [IISc admissions](https://admissions.iisc.ac.in/). We look forward to receiving your application!*
+# *Our lab has **three open research positions** including Ph.D. and M.Tech. (Research) for May 2025 admissions. We welcome applications from highly motivated individuals with a passion for research. Interested candidates can apply through [IISc admissions](https://admissions.iisc.ac.in/). We look forward to receiving your application!*
+
+*Our lab has **two open positions**: one postdoctoral researcher and one project assistant. We welcome applications from highly motivated individuals with a passion for research. Additional details for application are available at [project assistant](https://github.com/flamelab-iisc/flamelab-iisc.github.io/blob/0371792c9efba914fc0f8f4a58a9ac39792888e6/assets/media/pa-2025.pdf) and [postdoc](https://github.com/flamelab-iisc/flamelab-iisc.github.io/blob/0371792c9efba914fc0f8f4a58a9ac39792888e6/assets/media/pd-2025.pdf). We look forward to receiving your application!*
 
 <!-- <!-- <table>
 <tr>
