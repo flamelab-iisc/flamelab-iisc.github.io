@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc at Istituto Italiano di Technologia
+role: Postdoc at Istituto Italiano di Tecnologia
 
 # interests:
 
