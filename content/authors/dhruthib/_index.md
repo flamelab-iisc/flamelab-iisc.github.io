@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Coursework
+role: Data scientist at Lam Research
 
 # Organizations/Affiliations
 # organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
-    year: Aug 2023 - Present
+    year: Aug 2023 - Jul 2025
   - course: B.Tech in Chemical Engineering
     institution: Andhra University, Visakhapatnam
     year: July 2019 - June 2023
@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Tech Coursework Students
+- Alumni - M.Tech Coursework Students
 ---
 Hi! I am Dhruthi, an inquisitive second-year M.Tech student working on multiscale modeling. I am keen on exploring new ideas, with molecular dynamics being my current interest. I have a deep passion for science and I truly believe in its potential to benefit society. 
 
