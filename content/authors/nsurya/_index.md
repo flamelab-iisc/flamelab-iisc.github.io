@@ -28,9 +28,12 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Computational and Data Sciences
+    institution: Indian Institute of Science, Bangalore
+    uear: Aug 2025 - Present
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
-    year: Aug 2023 - Present
+    year: Aug 2023 - Jul 2025
   - course: B. Tech. in Aerospace Engineering
     institution: Amrita Vishwa Vidyapeetham, Coimbatore
     year: July 2019 - Jun 2023
