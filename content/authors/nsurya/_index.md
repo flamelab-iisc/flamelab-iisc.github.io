@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Coursework
+role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -69,6 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Tech Coursework Students
+- Ph.D. Students
+- Alumni - M.Tech Coursework Students
 ---
 I believe in science, sarcasm and myself. I work on aircraft design problems as a way of keeping myself somewhat sane. You can catch me playing chess obsessively or binge-watching content in my "free time". I would like to get to know you, so reach me through any of my socials.
