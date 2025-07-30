@@ -30,10 +30,14 @@ content:
     - Alumni - PostDocs
     - Alumni - Interns
 
-Testing extra content: AKA July 30
-
 design:
   show_interests: false
   show_role: true
   show_social: true
 ---
+Testing table entry:
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Entry 1  | Entry 2  | Entry 3  |
+| Entry 4  | Entry 5  | Entry 6  |
