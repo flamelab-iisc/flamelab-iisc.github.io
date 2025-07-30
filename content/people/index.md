@@ -4,10 +4,10 @@
 # headless: true
 
 # Order that this section appears on the page.
-# weight: 68
+weight: 68
 
 title: People
-type: landing
+type: widget_page
 
 sections:
   - block: people
