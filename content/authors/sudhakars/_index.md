@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: M.Tech in Computational and Data Sciences
+  - course: M.Tech (Res) in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
     year: Aug 2024 - Present
-  - course: B. Tech. in Mechanical Engineering
+  - course: B.Tech in Mechanical Engineering
     institution: Osmania University
     year: Aug 2016 - Jun 2020
 
