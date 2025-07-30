@@ -35,6 +35,9 @@ design:
   show_role: true
   show_social: true
 ---
+
+<!-- Page content starts here -->
+
 Testing table entry:
 
 | Column 1 | Column 2 | Column 3 |
