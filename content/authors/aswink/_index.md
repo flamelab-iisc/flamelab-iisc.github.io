@@ -54,7 +54,7 @@ social:
 #   link: ttps://github.com/VidyeshDapse/ 
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/aswinkumar-24417-cfd
+  link: https://www.linkedin.com/in/aswinkumar-24417-cfd
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
