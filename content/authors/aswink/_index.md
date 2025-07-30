@@ -30,9 +30,9 @@ education:
   - course: M.Tech in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
     year: Aug 2024 - Present
-  - course: B. Tech. in Aerospace Engineering
+  - course: B.Tech in Aerospace Engineering
     institution: Indian Institute of Technology, Madras
-    year: Aug 2020 - Jun 2024
+    year: Nov 2020 - Jun 2024
 
 
 # Social/Academic Networking
