@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: M.Tech in Computational and Data Sciences
+  - course: M.Tech (Res) in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
     year: Aug 2024 - Present
   - course: B.Tech in Aerospace Engineering
@@ -46,9 +46,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/pdash07
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=794tqukAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: ttps://github.com/VidyeshDapse/ 
