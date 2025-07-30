@@ -29,11 +29,10 @@ content:
     - Alumni - M.Tech Research Students
     - Alumni - PostDocs
     - Alumni - Interns
+  Testing extra content: AKA July 30
 
 design:
   show_interests: false
   show_role: true
   show_social: true
 ---
-
-Testing extra content: AKA July 30
