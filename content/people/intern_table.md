@@ -1,10 +1,7 @@
 ---
-widget: feature
+widget: hero
 
 weight: 70
 
-content:
-  markdown: |
-    Checking markdown text
-
 ---
+Checking text here
