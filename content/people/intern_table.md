@@ -4,7 +4,7 @@ weight: 70
 ---
 
 <div style="text-align: center;">
-  <h2>Intern Table</h2>
+  <h2>Intern Table [under construction]</h2>
 </div>
 
 <table style="width: 100%; border-collapse: collapse; font-size: 1.1rem; margin-top: 1rem;">
