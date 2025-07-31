@@ -1,36 +1,26 @@
 ---
-widget: blank
-
+title: Intern Table
 weight: 70
-
-content:
-  body: |
-    <table>
-      <thead>
-        <tr>
-          <th>Project</th>
-          <th>Lead</th>
-          <th>Status</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Project A</td>
-          <td>Dr. Smith</td>
-          <td>Ongoing</td>
-        </tr>
-        <tr>
-          <td>Project B</td>
-          <td>Prof. Lee</td>
-          <td>Completed</td>
-        </tr>
-      </tbody>
-    </table>
-
 ---
-Checking text here
 
-    | Project     | Lead         | Status     |
-    |-------------|--------------|------------|
-    | Project A   | Dr. Smith    | Ongoing    |
-    | Project B   | Prof. Lee    | Completed  |
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="text-align: left; padding: 8px;">Project</th>
+      <th style="text-align: left; padding: 8px;">Lead</th>
+      <th style="text-align: left; padding: 8px;">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;">Project A</td>
+      <td style="padding: 8px;">Dr. Smith</td>
+      <td style="padding: 8px;">Ongoing</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Project B</td>
+      <td style="padding: 8px;">Prof. Lee</td>
+      <td style="padding: 8px;">Completed</td>
+    </tr>
+  </tbody>
+</table>
