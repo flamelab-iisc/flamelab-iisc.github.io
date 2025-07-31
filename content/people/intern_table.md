@@ -1,11 +1,11 @@
 ---
 title: Intern table
-widget: markdown
+widget: blank
 
 weight: 70
 
 content:
-  markdown: |
+  body: |
     ## Ongoing Projects
 
     | Project     | Lead         | Status     |
