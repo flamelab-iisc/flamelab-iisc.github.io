@@ -1,6 +1,6 @@
 ---
 title: Intern table
-widget: intern_table
+widget: markdown
 
 weight: 70
 
