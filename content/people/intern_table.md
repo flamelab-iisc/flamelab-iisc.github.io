@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: feature
 
 weight: 70
 
