@@ -1,5 +1,5 @@
 ---
-title: Intern table
+# title: Intern table
 widget: blank
 
 weight: 70
