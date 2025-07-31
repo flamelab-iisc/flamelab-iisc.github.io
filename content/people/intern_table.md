@@ -4,7 +4,8 @@ widget: blank
 
 weight: 70
 design:
-  background: light
+  background:
+    color: light
 content:
   body: |
     ## Ongoing Projects
