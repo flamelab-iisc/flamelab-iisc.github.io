@@ -7,7 +7,7 @@ design:
   background:
     color: light
 content:
-  body: |
+  markdown: |
     ## Ongoing Projects
 
     | Project     | Lead         | Status     |
