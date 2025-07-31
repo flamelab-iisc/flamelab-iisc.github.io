@@ -1,5 +1,5 @@
 ---
-widget: people
+widget: blank
 
 weight: 70
 
