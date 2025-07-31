@@ -3,9 +3,7 @@ title: Intern table
 widget: blank
 
 weight: 70
-design:
-  background:
-    color: light
+
 content:
   markdown: |
     ## Ongoing Projects
@@ -15,4 +13,5 @@ content:
     | Project A   | Dr. Smith    | Ongoing    |
     | Project B   | Prof. Lee    | Completed  |
 
+    Checking markdown text
 ---
