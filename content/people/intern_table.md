@@ -3,7 +3,8 @@ title: Intern table
 widget: blank
 
 weight: 70
-
+design:
+  background: light
 content:
   body: |
     ## Ongoing Projects
