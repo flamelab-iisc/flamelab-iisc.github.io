@@ -1,5 +1,5 @@
 ---
-title: FLAME lab members attended the 15th Asia-Pacific Conference on Combustion
+title: FLAME lab members attended the 26th AeSI CFD symposium
 date: 2025-08-11
 share: false
 ---
