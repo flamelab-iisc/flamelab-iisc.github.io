@@ -1,5 +1,5 @@
 ---
-title: Aritra presents paper in IMECE India 2025
+title: Aritra presents paper at IMECE India 2025
 date: 2025-09-13
 share: false
 ---
