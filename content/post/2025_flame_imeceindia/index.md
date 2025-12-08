@@ -7,4 +7,4 @@ share: false
 Aritra presented his work at ASME's International Mechanical Engineering Congress & Exposition (IMECE) India, held in Hyderabad from September 11 to 13, 2025. 
 
 <!--more-->
-The inaugural edition of ASME's International Mechanical Engineering Congress & Exposition (IMECE) India edition happened in Hyderabad, with researchers coming from various disciplines related to mechanical engineering. Aritra provided an oral presentation titled "Effects of Hydrogen Blending in Trapped Vortex Combustor", based on a paper submitted to the conference for peer review.
+The inaugural edition of ASME's International Mechanical Engineering Congress & Exposition (IMECE) India happened in Hyderabad, with researchers coming from various disciplines related to mechanical engineering. Aritra provided an oral presentation titled "Effects of Hydrogen Blending in Trapped Vortex Combustor", based on a paper submitted and accepted at the conference through peer review.
