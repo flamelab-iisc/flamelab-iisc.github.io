@@ -19,7 +19,7 @@ weight: 70
   <tbody>
     <tr>
       <td style="padding: 8px 10px; text-align: center;">
-        <img src="content/people/intern_photos/machaitanya.jpg"
+        <img src="./intern_photos/machaitanya.jpg"
              style="width: 70px; height: 70px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Chaitanya Mamatha Ananda</td>
@@ -28,7 +28,7 @@ weight: 70
     </tr>
     <tr>
       <td style="padding: 8px 10px; text-align: center;">
-        <img src="content/people/intern_photos/machaitanya.jpg"
+        <img src="./intern_photos/machaitanya.jpg"
              style="width: 70px; height: 70px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Surya Narayanan R</td>
