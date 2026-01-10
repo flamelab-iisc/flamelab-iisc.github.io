@@ -10,7 +10,7 @@ weight: 70
 <table style="width: 100%; border-collapse: collapse; font-size: 1.1rem; margin-top: 1rem;">
   <thead>
     <tr>
-      <th style="width: 90px;"></th>
+      <th style="width: 130px;"></th>
       <th style="text-align: left; padding: 8px 20px;">Name</th>
       <th style="text-align: left; padding: 8px 20px;">Duration</th>
       <th style="text-align: left; padding: 8px 20px;">Current position</th>
@@ -18,18 +18,18 @@ weight: 70
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 8px 10px; text-align: center;">
+      <td style="padding: 10px; text-align: center;">
         <img src="./intern_photos/machaitanya.jpg"
-             style="width: 70px; height: 70px; object-fit: cover; border-radius: 50%;">
+             style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Chaitanya Mamatha Ananda</td>
       <td style="padding: 8px 20px;">2019-2022</td>
       <td style="padding: 8px 20px;">Ph.D. at UC Riverside, USA</td>
     </tr>
     <tr>
-      <td style="padding: 8px 10px; text-align: center;">
+      <td style="padding: 10px; text-align: center;">
         <img src="./intern_photos/machaitanya.jpg"
-             style="width: 70px; height: 70px; object-fit: cover; border-radius: 50%;">
+             style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Surya Narayanan R</td>
       <td style="padding: 8px 20px;">2020-2022</td>
