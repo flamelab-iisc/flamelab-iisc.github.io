@@ -28,7 +28,7 @@ weight: 70
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
-        <img src="./intern_photos/machaitanya.jpg"
+        <img src="./intern_photos/default.webp"
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Surya Narayanan R</td>
