@@ -25,6 +25,13 @@ Our research focuses on leveraging high performance computing (HPC) platforms (t
 
 *Our lab has **open research positions** including Ph.D. and M.Tech. (Research) programs, and Post Docs. We welcome applications from highly motivated individuals with a passion for research. Candidates interested in the degree programs can apply through [IISc admissions](https://admissions.iisc.ac.in/) while prospective Post Doc candidates can visit the [IISc Post-Doctoral Fellowship page](https://iisc.ac.in/careers/post-doctoral-fellowship/) for more details. We look forward to receiving your application!*
 
+Prospective candidates will be working on the following projects:
+- Discontinuous Galerkin method-based flow solvers
+- Modeling and forecasting of extreme events using ML techniques
+- Multi-scale modeling of reacting flows (atomistic to continuum)
+- ML-based reduced-order models for aerospace applications
+- HPC-centric algorithms for flow solvers
+
 <!-- <!-- <table>
 <tr>
 </tr>
