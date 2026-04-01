@@ -13,15 +13,15 @@ content:
   user_groups:
       - Principal Investigator
       - Ph.D. Students
-      - M.Tech Coursework Students
       - M.Tech Research Students
+      - M.Tech Coursework Students
       - PostDocs
       - Research Assistants
       - Project Associates
       - Interns
       - Alumni - Ph.D. Students
-      - Alumni - M.Tech Coursework Students
       - Alumni - M.Tech Research Students
+      - Alumni - M.Tech Coursework Students
       - Alumni - PostDocs
       - Alumni - Interns
 design:
