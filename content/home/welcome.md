@@ -27,8 +27,8 @@ Our research focuses on leveraging high performance computing (HPC) platforms (t
 
 Prospective candidates will be working on the following projects:
 - Discontinuous Galerkin method-based flow solvers
-- Modeling and forecasting of extreme events using ML techniques
-- Multi-scale modeling of reacting flows (atomistic to continuum)
+- Modeling and forecasting of extreme events using ML
+- Multi-scale modeling of reacting flows
 - ML-based reduced-order models for aerospace applications
 - HPC-centric algorithms for flow solvers
 
