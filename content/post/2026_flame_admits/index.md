@@ -1,5 +1,5 @@
 ---
-title: FLAME lab members get PhD admits at US universities
+title: FLAME lab members get PhD admits at Stanford, Georgia Tech, Purdue
 date: 2026-04-01
 share: false
 ---
