@@ -1,5 +1,5 @@
 ---
-title: Neha Yedala Receives National Post Doctoral Fellowship
+title: Neha Yedala receives National Post Doctoral Fellowship
 date: 2025-12-01
 share: false
 ---
