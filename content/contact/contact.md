@@ -54,4 +54,4 @@ design:
   columns: '1'
 ---
 
-We are looking for highly motivated individuals including PostDocs, Ph.D.s, Masters students and research interns. To know more about us, please feel free to reach out at: 
+We are looking for highly motivated individuals including PostDocs, Ph.D.s, Masters students and research interns. Interested candidates can visit [IISc admissions](https://admissions.iisc.ac.in/) and [IISc Post-Doctoral Fellowship page](https://iisc.ac.in/careers/post-doctoral-fellowship/) for more details. To know more about us, please feel free to reach out at: 
