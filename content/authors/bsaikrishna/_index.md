@@ -7,7 +7,7 @@ authors:
 - bsaikrishna
 
 # Is this the primary user of the site?
-superuser: False
+superuser: false
 
 # Role/position
 role: Project Associate
@@ -46,9 +46,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=794tqukAAAAJ
- - icon: github
-   icon_pack: fab
-   link: https://github.com/bnskrishna
+- icon: github
+  icon_pack: fab
+  link: https://github.com/bnskrishna
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sai-krishna-bandi-0ab91a280
@@ -67,6 +67,7 @@ email: ""
 user_groups:
 - Project Associates
 ---
+
 I am a Project Associate at FLAME lab, Department of Computational and Data Sciences, IISc Bangalore, working on combustion and CFD simulations. I completed my B.Tech in Mechanical Engineering in 2024.
 
 My interests include design, CAD modeling, and simulation-based analysis. I have worked on multiple projects involving CFD and engineering design, including the development of a portable hybrid vehicle during my undergraduate studies.
