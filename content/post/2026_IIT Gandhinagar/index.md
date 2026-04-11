@@ -1,5 +1,5 @@
 ---
-title: Nithin and Sudhakar recognized for excellence in poster presentation at CFDxML, IIT Gandhinagar
+title: Nithin and Sudhakar win best poster awards at CFDxML, IIT Gandhinagar
 date: 2026-01-10
 share: false
 ---
