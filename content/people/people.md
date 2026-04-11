@@ -18,7 +18,7 @@ content:
       - PostDocs
       - Research Assistants
       - Project Associates
-      - Interns
+#      - Interns
       - Alumni - Ph.D. Students
       - Alumni - M.Tech Research Students
       - Alumni - M.Tech Coursework Students
