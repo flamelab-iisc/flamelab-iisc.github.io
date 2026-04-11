@@ -3,8 +3,8 @@
 title: Shubham Kumar Goswami
 
 # Username (this should match the folder name)
-authors:
-- gshubham
+# authors:
+# - gshubham
 
 # Is this the primary user of the site?
 superuser: false
