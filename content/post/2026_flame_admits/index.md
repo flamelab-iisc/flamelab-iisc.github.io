@@ -7,5 +7,5 @@ Aswin, Dhruthi and Shabarish from our lab have received PhD admission at univers
 
 <!--more-->
 - Aswin will be joining the mechanical engineering department at Georgia Institute of Technology
-- Dhruthi will be joining the chemical engineering department at Stanford University
+- Dhruthi will be joining the mechanical engineering department at Stanford University
 - Shabarish will be joining the mechanical engineering department at Purdue University
