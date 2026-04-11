@@ -1,4 +1,3 @@
-
 ---
 # Display name
 title: Naga Sai Krishna Bandi
@@ -14,9 +13,9 @@ superuser: False
 role: Project Associate
 
 # Organizations/Affiliations
-# organizations:
-# - name: Personal Website
-#   url: https://sites.google.com/view/dibyajyoti-nayak/home
+organizations:
+- name: Personal Website
+  url: https://bnskrishna.github.io/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -47,12 +46,12 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=794tqukAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: ttps://github.com/VidyeshDapse/ 
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/aswinkumar-24417-cfd
+ - icon: github
+   icon_pack: fab
+   link: https://github.com/bnskrishna
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sai-krishna-bandi-0ab91a280
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
