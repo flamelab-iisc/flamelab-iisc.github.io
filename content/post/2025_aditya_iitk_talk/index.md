@@ -1,5 +1,5 @@
 ---
-title: Dr. Aditya delivered a talk at the Indo-Japanese collaborative workshop on CFD-based AI and High-Performance Computing (HPC) held at IIT Kanpur.
+title: Dr. Aditya delivered a talk at the Indo-Japanese CFD-based AI and HPC workshop held at IIT Kanpur.
 date: 2025-12-21
 share: false
 ---
