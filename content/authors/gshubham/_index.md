@@ -13,9 +13,9 @@ superuser: false
 role: Postdoc at Ruhr University, Germany
 
 # Organizations/Affiliations
-organizations:
-- name: Personal Website
-  url: "https://gshubhamk.github.io/"
+# organizations:
+# - name: Personal Website
+#   url: "https://gshubhamk.github.io/"
 # Short bio (displayed in user profile at end of posts)
 bio: My reserach work focuses on the development of a scalable DG-based PDE solver for massively parallel computing systems.
 
