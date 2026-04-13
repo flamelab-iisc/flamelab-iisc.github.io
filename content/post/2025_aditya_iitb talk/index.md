@@ -1,5 +1,5 @@
 ---
-title: Dr. Aditya delivered a talk at Indo-French Workshop on Hydrogen and Ammonia for Green Energy Transition, IIT Bombay
+title: Dr. Aditya delivered a talk at Indo-French workshop on Hydrogen and Ammonia for Green Energy Transition, IIT Bombay
 date: 2025-09-22
 share: false
 ---
