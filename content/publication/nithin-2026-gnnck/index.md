@@ -34,7 +34,7 @@ publishDate: '2026-04-01T10:11:54.000000Z'
 publication_types:
 - '3'
 abstract: ''
-publication: '*arXiv*'
+publication: '*arXiv*, currently under review for *Proceedings of the Combustion Institute*'
 doi: 10.48550/ARXIV.2603.22318
 links:
 - name: URL
