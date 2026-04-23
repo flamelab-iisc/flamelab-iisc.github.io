@@ -4,7 +4,7 @@ weight: 70
 ---
 
 <div style="text-align: center;">
-  <h2>Research Interns/External Students [under construction]</h2>
+  <h2>Research Interns and External Students</h2>
 </div>
 
 <table style="width: 100%; border-collapse: collapse; font-size: 1.1rem; margin-top: 1rem;">
@@ -23,7 +23,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Chaitanya Mamatha Ananda</td>
-      <td style="padding: 8px 20px;">2019-2022</td>
+      <td style="padding: 8px 20px;">July 2019 - May 2022</td>
       <td style="padding: 8px 20px;">Ph.D. at UC Riverside, USA</td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Surya Narayanan R</td>
-      <td style="padding: 8px 20px;">2020-2022</td>
+      <td style="padding: 8px 20px;">December 2020 - May 2022</td>
       <td style="padding: 8px 20px;">Ph.D. at UMN Twin Cities, USA</td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Ranjan Bhat</td>
-      <td style="padding: 8px 20px;">2023-2024</td>
+      <td style="padding: 8px 20px;">January 2023 - July 2024</td>
       <td style="padding: 8px 20px;">M.S. at Georgia Tech, USA</td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ weight: 70
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
-        <img src="./intern_photos/default.webp"
+        <img src="./intern_photos/anushkavenkatesh.jpeg"
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Anushka V</td>
@@ -82,7 +82,7 @@ weight: 70
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
-        <img src="./intern_photos/default.webp"
+        <img src="./intern_photos/ominamdar.jpeg"
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Om Inamdar</td>

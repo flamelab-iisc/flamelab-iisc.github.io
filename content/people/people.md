@@ -23,7 +23,7 @@ content:
       - Alumni - M.Tech Research Students
       - Alumni - M.Tech Coursework Students
       - Alumni - PostDocs
-      - Alumni - Interns
+#      - Alumni - Interns
 design:
   show_interests: false
   show_role: true

@@ -5,26 +5,18 @@
     <link>//localhost:1313/author/anirudh-jonnalagadda/</link>
       <atom:link href="//localhost:1313/author/anirudh-jonnalagadda/index.xml" rel="self" type="application/rss+xml" />
     <description>Anirudh Jonnalagadda</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <url>//localhost:1313/author/anirudh-jonnalagadda/avatar_hu4ae7e92c8960a8e6fec213f5d737df43_10772_270x270_fill_q75_h2_lanczos_center_2.webp</url>
       <title>Anirudh Jonnalagadda</title>
       <link>//localhost:1313/author/anirudh-jonnalagadda/</link>
     </image>
     
     <item>
-      <title>A co-kurtosis PCA based dimensionality reduction with nonlinear reconstruction using neural networks</title>
-      <link>//localhost:1313/publication/nayak-2024-cokpca/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/nayak-2024-cokpca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A co-kurtosis based dimensionality reduction method for combustion datasets</title>
-      <link>//localhost:1313/publication/jonnalagadda-2023-cokpca/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jonnalagadda-2023-cokpca/</guid>
+      <title>Anirudh Jonnalagadda</title>
+      <link>//localhost:1313/author/anirudh-jonnalagadda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/anirudh-jonnalagadda/</guid>
       <description></description>
     </item>
     
