@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suriyah R K | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/suriyah-r-k/</link>
+      <atom:link href="//localhost:1313/author/suriyah-r-k/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suriyah R K</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/suriyah-r-k/avatar_hu4ae7e92c8960a8e6fec213f5d737df43_10772_270x270_fill_q75_h2_lanczos_center_2.webp</url>
+      <title>Suriyah R K</title>
+      <link>//localhost:1313/author/suriyah-r-k/</link>
+    </image>
+    
+  </channel>
+</rss>

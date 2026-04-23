@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suriyah | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/suriyah/</link>
+      <atom:link href="//localhost:1313/author/suriyah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suriyah</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Suriyah</title>
+      <link>//localhost:1313/author/suriyah/</link>
+    </image>
+    
+    <item>
+      <title>Suriyah R K</title>
+      <link>//localhost:1313/author/suriyah-r-k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/suriyah-r-k/</guid>
+      <description>&lt;!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  --&gt;
+&lt;p&gt;&lt;strong&gt;Tenure:&lt;/strong&gt; June 2022 - July 2022&lt;br&gt;&lt;strong&gt;Current Position:&lt;/strong&gt; B.S. at IISc&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

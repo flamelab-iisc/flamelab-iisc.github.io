@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/publication-type/6/</link>
+      <atom:link href="//localhost:1313/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>6</title>
+      <link>//localhost:1313/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>An Analysis of Lean Premixed Ethylene-Air Flame Stabilization over a Backward Facing Step</title>
+      <link>//localhost:1313/publication/dash-2023-bfs/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2023-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous discontinuous-Galerkin method for solving PDEs at extreme scales</title>
+      <link>//localhost:1313/publication/goswami-2022-asyncdg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/goswami-2022-asyncdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulations of flame structure in a reheat burner: pressure scaling</title>
+      <link>//localhost:1313/publication/rodhiya-2021-reheat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodhiya-2021-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher Order Tensors for DNS Data Analysis and Compression</title>
+      <link>//localhost:1313/publication/kolla-2020-cokpca/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/kolla-2020-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS Investigation of Cavity Stabilized Premixed Turbulent Ethylene-Air Flame</title>
+      <link>//localhost:1313/publication/rauch-2018-cavity/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rauch-2018-cavity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of Strouhal Number Effect on Flapping Wing Micro Air Vehicle</title>
+      <link>//localhost:1313/publication/aditya-2007-mav/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2007-mav/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

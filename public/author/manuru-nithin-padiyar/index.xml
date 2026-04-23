@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuru Nithin Padiyar | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/manuru-nithin-padiyar/</link>
+      <atom:link href="//localhost:1313/author/manuru-nithin-padiyar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuru Nithin Padiyar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/manuru-nithin-padiyar/avatar_hue5ba748840861e8ebb669e2455354bf5_294618_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Manuru Nithin Padiyar</title>
+      <link>//localhost:1313/author/manuru-nithin-padiyar/</link>
+    </image>
+    
+    <item>
+      <title>Manuru Nithin Padiyar</title>
+      <link>//localhost:1313/author/manuru-nithin-padiyar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/manuru-nithin-padiyar/</guid>
+      <description>&lt;p&gt;Machine Learning and Mathematics enthusiast with a foundation in Mechanical Engineering. I am currently working on problems related to the characterization and prediction of extreme events in turbulence as well as chemical mechanism optimization using deep learning methods.
+My interests and hobbies are as erratic as my sleep schedule. If you see me (or don&amp;rsquo;t) around, feel free to talk to me about literally anything.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

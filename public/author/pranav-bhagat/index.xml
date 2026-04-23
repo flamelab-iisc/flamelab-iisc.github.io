@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pranav Bhagat | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/pranav-bhagat/</link>
+      <atom:link href="//localhost:1313/author/pranav-bhagat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pranav Bhagat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/pranav-bhagat/avatar_hu13b4352168ce5086e88e01ed1c54e2eb_243288_270x270_fill_lanczos_center_3.png</url>
+      <title>Pranav Bhagat</title>
+      <link>//localhost:1313/author/pranav-bhagat/</link>
+    </image>
+    
+    <item>
+      <title>Pranav Bhagat</title>
+      <link>//localhost:1313/author/pranav-bhagat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/pranav-bhagat/</guid>
+      <description>&lt;p&gt;As a mechanical engineering graduate with a B.Tech degree, I developed a growing interest in computational sciences  and data science. I pursued this interest by attempting GATE and I am currently pursuing an M.Tech in Computational  and Data Science from IISc.
+My focus on deep learning and machine learning has led me to explore how these technologies can be leveraged to improve scientific research. With my educational background and passion for data science, I am dedicated to using my skills and knowledge to contribute to the field and make a positive impact on scientific progress.
+In addition to my academic pursuits, I enjoy staying up-to-date with the latest developments in the field and am always eager to learn and grow. I am excited about the future of data science and its potential to drive progress and innovation in a wide range of areas, from healthcare to energy to finance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

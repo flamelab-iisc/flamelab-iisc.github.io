@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jagannath Mahato | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/jagannath-mahato/</link>
+      <atom:link href="//localhost:1313/author/jagannath-mahato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jagannath Mahato</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Jagannath Mahato</title>
+      <link>//localhost:1313/author/jagannath-mahato/</link>
+    </image>
+    
+    <item>
+      <title>Laminar line source starting plumes and their interaction with energy expulsion events</title>
+      <link>//localhost:1313/publication/uc-2024-plume/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/uc-2024-plume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

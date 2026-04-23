@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vinod Jacob Matthew | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/vinod-jacob-matthew/</link>
+      <atom:link href="//localhost:1313/author/vinod-jacob-matthew/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vinod Jacob Matthew</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/vinod-jacob-matthew/avatar_hude65be885faca1b7794a294c73e27b61_37301_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Vinod Jacob Matthew</title>
+      <link>//localhost:1313/author/vinod-jacob-matthew/</link>
+    </image>
+    
+    <item>
+      <title>Vinod Jacob Matthew</title>
+      <link>//localhost:1313/author/vinod-jacob-matthew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/vinod-jacob-matthew/</guid>
+      <description>&lt;p&gt;My current research focus is on studying asynchronous numerical methods primarily on GPUs. This will help deal with the looming challenges of scaling as we approach larger and larger supercomputers.&lt;/p&gt;
+&lt;p&gt;On the personal side, I am a big Linux fan. I also enjoy spending my free time gaming and reading novels.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current Position:&lt;/strong&gt; Software Developer at nference&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

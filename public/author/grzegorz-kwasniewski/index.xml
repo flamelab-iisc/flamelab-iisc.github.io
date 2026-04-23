@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grzegorz Kwasniewski | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/grzegorz-kwasniewski/</link>
+      <atom:link href="//localhost:1313/author/grzegorz-kwasniewski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grzegorz Kwasniewski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Grzegorz Kwasniewski</title>
+      <link>//localhost:1313/author/grzegorz-kwasniewski/</link>
+    </image>
+    
+    <item>
+      <title>A scalable weakly-synchronous algorithm for solving partial differential equations</title>
+      <link>//localhost:1313/publication/aditya-2019-scalable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-scalable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

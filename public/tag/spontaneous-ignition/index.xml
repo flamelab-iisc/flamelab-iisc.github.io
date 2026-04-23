@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spontaneous Ignition | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/tag/spontaneous-ignition/</link>
+      <atom:link href="//localhost:1313/tag/spontaneous-ignition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spontaneous Ignition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Spontaneous Ignition</title>
+      <link>//localhost:1313/tag/spontaneous-ignition/</link>
+    </image>
+    
+    <item>
+      <title>Spontaneous ignition and flame propagation in hydrogen/methane wrinkled laminar flames at reheat conditions: Effect of pressure and hydrogen fraction</title>
+      <link>//localhost:1313/publication/rodhiya-2024-reheat/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodhiya-2024-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Numerical Simulation of hydrogen combustion at auto-ignitive conditions: Ignition, stability and turbulent reaction-front velocity</title>
+      <link>//localhost:1313/publication/gruber-2021-reheat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gruber-2021-reheat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

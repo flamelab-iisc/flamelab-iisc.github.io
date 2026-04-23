@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/publication-type/3/</link>
+      <atom:link href="//localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>3</title>
+      <link>//localhost:1313/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>A graph neural network based chemical mechanism reduction method for combustion applications</title>
+      <link>//localhost:1313/publication/nithin-2026-gnnck/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/nithin-2026-gnnck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling subgrid scale production rates on complex meshes using graph neural networks</title>
+      <link>//localhost:1313/publication/dash-2026-sgs/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2026-sgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-resolution of turbulent reacting flows on complex meshes using graph neural networks</title>
+      <link>//localhost:1313/publication/dash-2026-sr/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2026-sr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

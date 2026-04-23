@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pdash | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/pdash/</link>
+      <atom:link href="//localhost:1313/author/pdash/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pdash</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Pdash</title>
+      <link>//localhost:1313/author/pdash/</link>
+    </image>
+    
+    <item>
+      <title>Priyabrat Dash</title>
+      <link>//localhost:1313/author/priyabrat-dash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/priyabrat-dash/</guid>
+      <description>&lt;p&gt;Hi! I am a PhD student in the Department of Computational and Data Sciences at IISc Bangalore. I am a member of the FLAME lab, supervised by Dr. Konduri Aditya. My work primarily involves numerical simulations of turbulent reacting flows using high-performance computing architecture and the relevant data analysis. Prior to IISc, I had a brief stint as a Management Trainee in Tata Steel.&lt;/p&gt;
+&lt;p&gt;I have received my undergraduate degree from IIT(ISM) Dhanbad. My bachelors&amp;rsquo; thesis was based on the modeling and simulation of dissimilar friction stir welding. Apart from research, I spend my time playing badminton or watching sports/sitcoms/anime.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

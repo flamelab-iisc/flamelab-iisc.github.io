@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaitanya Mamatha Ananda | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/chaitanya-mamatha-ananda/</link>
+      <atom:link href="//localhost:1313/author/chaitanya-mamatha-ananda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaitanya Mamatha Ananda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/chaitanya-mamatha-ananda/avatar_huaae620a562718a6fff9fb9903dba4e02_587718_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chaitanya Mamatha Ananda</title>
+      <link>//localhost:1313/author/chaitanya-mamatha-ananda/</link>
+    </image>
+    
+    <item>
+      <title>Chaitanya Mamatha Ananda</title>
+      <link>//localhost:1313/author/chaitanya-mamatha-ananda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/chaitanya-mamatha-ananda/</guid>
+      <description>&lt;!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  --&gt;
+&lt;p&gt;I was an undergraduate student, pursued B.E. in Computer Science and Engineering from Bangalore Institute of Technology(BIT) Benagluru.
+I worked as an Intern at FlAME lab at CDS, IISc.&lt;/p&gt;
+&lt;p&gt;My work focuses on Parallel Programming Concepts using Regent for developing Asynchronous schemes for Partial Differential Equations and Machine-Learning concepts for detecting the anomalies.
+My interest also lies on Cloud Computing.&lt;/p&gt;
+&lt;p&gt;Apart from research, my other interests are playing cricket, nature photography and traveling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current Position:&lt;/strong&gt; Ph.D. student at UC Riverside&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

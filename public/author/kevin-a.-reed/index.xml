@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin A. Reed | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/kevin-a.-reed/</link>
+      <atom:link href="//localhost:1313/author/kevin-a.-reed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin A. Reed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Kevin A. Reed</title>
+      <link>//localhost:1313/author/kevin-a.-reed/</link>
+    </image>
+    
+    <item>
+      <title>Using feature importance metrics to detect events of interest in scientific computing applications</title>
+      <link>//localhost:1313/publication/ling-2017-isml/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/ling-2017-isml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

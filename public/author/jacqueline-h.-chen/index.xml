@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacqueline H. Chen | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/jacqueline-h.-chen/</link>
+      <atom:link href="//localhost:1313/author/jacqueline-h.-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacqueline H. Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Jacqueline H. Chen</title>
+      <link>//localhost:1313/author/jacqueline-h.-chen/</link>
+    </image>
+    
+    <item>
+      <title>Spontaneous ignition and flame propagation in hydrogen/methane wrinkled laminar flames at reheat conditions: Effect of pressure and hydrogen fraction</title>
+      <link>//localhost:1313/publication/rodhiya-2024-reheat/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodhiya-2024-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Lean Premixed Ethylene-Air Flame Stabilization over a Backward Facing Step</title>
+      <link>//localhost:1313/publication/dash-2023-bfs/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2023-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of finite difference based asynchronous partial differential equations solver for reacting flows</title>
+      <link>//localhost:1313/publication/kumari-2023-async/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/kumari-2023-async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Numerical Simulation of hydrogen combustion at auto-ignitive conditions: Ignition, stability and turbulent reaction-front velocity</title>
+      <link>//localhost:1313/publication/gruber-2021-reheat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gruber-2021-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulations of flame structure in a reheat burner: pressure scaling</title>
+      <link>//localhost:1313/publication/rodhiya-2021-reheat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodhiya-2021-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIVA: A Declarative and Reactive Language for in situ Visualization</title>
+      <link>//localhost:1313/publication/wu-2020-viz/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/wu-2020-viz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher Order Tensors for DNS Data Analysis and Compression</title>
+      <link>//localhost:1313/publication/kolla-2020-cokpca/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/kolla-2020-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS of a turbulent premixed flame stabilized over a backward facing step</title>
+      <link>//localhost:1313/publication/aditya-2019-bfs/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scalable weakly-synchronous algorithm for solving partial differential equations</title>
+      <link>//localhost:1313/publication/aditya-2019-scalable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct numerical simulation of flame stabilization assisted by autoignition in a reheat gas turbine combustor</title>
+      <link>//localhost:1313/publication/aditya-2019-reheat/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regimes of premixed turbulent spontaneous ignition and deflagration under gas-turbine reheat combustion conditions</title>
+      <link>//localhost:1313/publication/savard-2019-reheat/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/savard-2019-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct numerical simulations of premixed and stratified flame propagation in turbulent channel flow</title>
+      <link>//localhost:1313/publication/gruber-2018-channel/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gruber-2018-channel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Surya | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/n-surya/</link>
+      <atom:link href="//localhost:1313/author/n-surya/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Surya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/n-surya/avatar_hu33d8f2710ea4928d295bd08cdc05f6eb_547978_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>N Surya</title>
+      <link>//localhost:1313/author/n-surya/</link>
+    </image>
+    
+    <item>
+      <title>N Surya</title>
+      <link>//localhost:1313/author/n-surya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/n-surya/</guid>
+      <description>&lt;p&gt;I believe in science, sarcasm and myself. I work on aircraft design problems as a way of keeping myself somewhat sane. You can catch me playing chess obsessively or binge-watching content in my &amp;ldquo;free time&amp;rdquo;. I would like to get to know you, so reach me through any of my socials.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

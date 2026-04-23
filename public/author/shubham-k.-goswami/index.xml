@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubham K. Goswami | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/shubham-k.-goswami/</link>
+      <atom:link href="//localhost:1313/author/shubham-k.-goswami/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shubham K. Goswami</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Shubham K. Goswami</title>
+      <link>//localhost:1313/author/shubham-k.-goswami/</link>
+    </image>
+    
+    <item>
+      <title>An asynchronous discontinuous Galerkin method for massively parallel PDE solvers</title>
+      <link>//localhost:1313/publication/goswami-2024-asyncdg/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/goswami-2024-asyncdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers</title>
+      <link>//localhost:1313/publication/goswami-2023-lserk/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/goswami-2023-lserk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous discontinuous-Galerkin method for solving PDEs at extreme scales</title>
+      <link>//localhost:1313/publication/goswami-2022-asyncdg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/goswami-2022-asyncdg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

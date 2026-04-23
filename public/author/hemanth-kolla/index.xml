@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hemanth Kolla | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/hemanth-kolla/</link>
+      <atom:link href="//localhost:1313/author/hemanth-kolla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hemanth Kolla</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Hemanth Kolla</title>
+      <link>//localhost:1313/author/hemanth-kolla/</link>
+    </image>
+    
+    <item>
+      <title>An a-posteriori analysis of co-kurtosis PCA based dimensionality reduction using a neural ODE solver</title>
+      <link>//localhost:1313/publication/shiva-2025-cokpca/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/shiva-2025-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A co-kurtosis PCA based dimensionality reduction with nonlinear reconstruction using neural networks</title>
+      <link>//localhost:1313/publication/nayak-2024-cokpca/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/nayak-2024-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A co-kurtosis based dimensionality reduction method for combustion datasets</title>
+      <link>//localhost:1313/publication/jonnalagadda-2023-cokpca/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jonnalagadda-2023-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Lean Premixed Ethylene-Air Flame Stabilization over a Backward Facing Step</title>
+      <link>//localhost:1313/publication/dash-2023-bfs/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2023-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher Order Tensors for DNS Data Analysis and Compression</title>
+      <link>//localhost:1313/publication/kolla-2020-cokpca/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/kolla-2020-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS of a turbulent premixed flame stabilized over a backward facing step</title>
+      <link>//localhost:1313/publication/aditya-2019-bfs/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly detection in scientific data using joint statistical moments</title>
+      <link>//localhost:1313/publication/aditya-2019-cokpca/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS Investigation of Cavity Stabilized Premixed Turbulent Ethylene-Air Flame</title>
+      <link>//localhost:1313/publication/rauch-2018-cavity/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rauch-2018-cavity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using feature importance metrics to detect events of interest in scientific computing applications</title>
+      <link>//localhost:1313/publication/ling-2017-isml/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/ling-2017-isml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

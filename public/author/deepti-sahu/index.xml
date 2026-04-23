@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deepti Sahu | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/deepti-sahu/</link>
+      <atom:link href="//localhost:1313/author/deepti-sahu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deepti Sahu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/deepti-sahu/avatar_hu67c367561d45ae89598c6d960a953f9f_363566_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Deepti Sahu</title>
+      <link>//localhost:1313/author/deepti-sahu/</link>
+    </image>
+    
+    <item>
+      <title>Deepti Sahu</title>
+      <link>//localhost:1313/author/deepti-sahu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/deepti-sahu/</guid>
+      <description>&lt;p&gt;I’ve recently embarked on my MTech journey in CDS, building on my background in chemistry. I’m particularly passionate about exploring multiscale modeling and Reactive Molecular Dynamics. Outside of academics, I’m a lively and fun person, who enjoys dancing, playing badminton, and organizing events.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

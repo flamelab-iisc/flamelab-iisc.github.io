@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mirko R. Bothien | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/mirko-r.-bothien/</link>
+      <atom:link href="//localhost:1313/author/mirko-r.-bothien/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mirko R. Bothien</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Mirko R. Bothien</title>
+      <link>//localhost:1313/author/mirko-r.-bothien/</link>
+    </image>
+    
+    <item>
+      <title>A Reactor-Network Framework to Model Performance and Emissions of a Longitudinally Staged Combustion System for Carbon-Free Fuels</title>
+      <link>//localhost:1313/publication/gopakakrishnan-2024-reheat/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gopakakrishnan-2024-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous ignition and flame propagation in hydrogen/methane wrinkled laminar flames at reheat conditions: Effect of pressure and hydrogen fraction</title>
+      <link>//localhost:1313/publication/rodhiya-2024-reheat/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodhiya-2024-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Numerical Simulation of hydrogen combustion at auto-ignitive conditions: Ignition, stability and turbulent reaction-front velocity</title>
+      <link>//localhost:1313/publication/gruber-2021-reheat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gruber-2021-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct numerical simulation of flame stabilization assisted by autoignition in a reheat gas turbine combustor</title>
+      <link>//localhost:1313/publication/aditya-2019-reheat/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-reheat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

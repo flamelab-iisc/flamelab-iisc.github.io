@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Aditya | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/k.-aditya/</link>
+      <atom:link href="//localhost:1313/author/k.-aditya/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Aditya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>K. Aditya</title>
+      <link>//localhost:1313/author/k.-aditya/</link>
+    </image>
+    
+    <item>
+      <title>Numerical Simulation of a 2D Starting-Plume Cloud-Flow</title>
+      <link>//localhost:1313/publication/aditya-2010-cloud/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2010-cloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

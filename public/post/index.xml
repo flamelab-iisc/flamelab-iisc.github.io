@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/post/</link>
+      <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Latest News</title>
+      <link>//localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>Dr. Aditya has been promoted to Associate Professor</title>
+      <link>//localhost:1313/post/2026_aditya_associate/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2026_aditya_associate/</guid>
+      <description>&lt;p&gt;Dr. Konduri Aditya has been promoted to the post of Associate Professor at the Department of Computational and Data Sciences at IISc Bengaluru.&lt;/p&gt;
+&lt;p&gt;Having joined the institute as Assistant Professor in July 2019, he has now obtained tenure and Associate Professorship. Congratulations!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FLAME lab members get PhD admits at Stanford, Georgia Tech, Purdue</title>
+      <link>//localhost:1313/post/2026_flame_admits/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2026_flame_admits/</guid>
+      <description>&lt;p&gt;Dhruthi, Aswin and Shabarish from our lab have received PhD admission at universities in the US for Fall 2026. Congratulations!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dhruthi will be joining the mechanical engineering department at Stanford University.&lt;/li&gt;
+&lt;li&gt;Aswin will be joining the mechanical engineering department at Georgia Institute of Technology.&lt;/li&gt;
+&lt;li&gt;Shabarish will be joining the mechanical engineering department at Purdue University.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Aditya delivered a talk at GE Aerospace on Machine Learning for Combustion</title>
+      <link>//localhost:1313/post/2026_dr.ka_talk_ge-aerospace/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2026_dr.ka_talk_ge-aerospace/</guid>
+      <description>&lt;p&gt;Dr. Aditya delivered a talk at GE Aerospace, Bengaluru on Machine Learning for Combustion, highlighting the role of data-driven methods in advancing combustion research.&lt;/p&gt;
+&lt;p&gt;GE Aerospace is a leading global aerospace company known for its work in aircraft engines, propulsion technologies, and advanced engineering solutions. The talk focused on the application of machine learning techniques to model complex combustion processes, improve predictive accuracy, and analyze high-dimensional data. It also provided an opportunity to share ongoing research insights and explore potential applications at the intersection of data science and aerospace engineering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Manuscript accepted for presentation at ASME Turbo Expo 2026</title>
+      <link>//localhost:1313/post/2026_asme_turboexpo_acceptance/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2026_asme_turboexpo_acceptance/</guid>
+      <description>&lt;p&gt;Aritra&amp;rsquo;s manuscript on LES of trapped vortex combustors went through peer review and got accepted for presentation at ASME Turbo Expo to be held in Milan, Italy in June 2026.&lt;/p&gt;
+&lt;p&gt;The Turbomachinery Technical Conference &amp;amp; Exposition is the ASME&amp;rsquo;s annual flagship event. A manuscript titled &amp;ldquo;Large-eddy simulations of an ammonia-fired trapped vortex combustor&amp;rdquo; authored by Aritra Roy Choudhury and Konduri Aditya has been accepted for presentation at the conference.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Three manuscripts accepted for presentation at ISOC 2026</title>
+      <link>//localhost:1313/post/2026_isoc_acceptance/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2026_isoc_acceptance/</guid>
+      <description>&lt;p&gt;Three contributed works from the lab went through peer review and got accepted for presentation at the International Symposium on Combustion (ISOC) to be held in Kyoto, Japan in July 2026.&lt;/p&gt;
+&lt;p&gt;The Combustion Institute’s (CI) International Symposium on Combustion (ISOC) is the premier meeting of combustion researchers. The following manuscripts have been accepted for presentation at the symposium:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deepti Sahu, Tadikonda Shiva Sai, Raj Maddipati, Dhruthi Boddapati, Phani Motamarri, Konduri Aditya, &amp;ldquo;Dynamics-based detection of aromatic species and soot nucleation pathways using reactive molecular dynamics&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Manuru Nithin Padiyar, Priyabrat Dash, Konduri Aditya, &amp;ldquo;A graph neural network based chemical mechanism reduction method for combustion applications&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Priyabrat Dash, Mathis Bode, Konduri Aditya, &amp;ldquo;Modeling subgrid scale production rates on complex meshes using graph neural networks&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Aditya delivered an invited talk at ASCML 2026, BITS Goa</title>
+      <link>//localhost:1313/post/2026_aditya_bits-goa-talk/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2026_aditya_bits-goa-talk/</guid>
+      <description>&lt;p&gt;Dr. Aditya delivered an invited talk at the International Conference on Advanced Scientific Computing and Machine Learning (ASCML 2026) held at BITS Pilani,Goa.&lt;/p&gt;
+&lt;p&gt;ASCML 2026, hosted by the Department of Mathematics at BITS Pilani, K.K. Birla Goa Campus, brought together researchers in advanced scientific computing and machine learning. Dr. Aditya delivered a talk on “Scalable Methods for Flow Solvers: Application to Combustion,” highlighting recent advances in computational approaches for complex flow and combustion systems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nithin and Sudhakar win best poster awards at CFDxML, IIT Gandhinagar</title>
+      <link>//localhost:1313/post/2026_iit-gandhinagar/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2026_iit-gandhinagar/</guid>
+      <description>&lt;p&gt;Nithin and Sudhakar received first and second prizes respectively for best poster at CFDxML, IIT Gandhinagar. Congratulations!.&lt;/p&gt;
+&lt;p&gt;At the conference, Nithin secured first place for his poster titled “Chemical Mechanism Reduction for Combustion Applications Using Graph Neural Networks,” while Sudhakar secured second place for his poster titled “Transfer Learning for Machine Learning-Based Subgrid-Scale Prediction in LES of Turbulent Flow.” Dr. Aditya delivered a talk on Machine Learning for Combustion at the International Symposium on AI-Driven CFD 2026 held at IIT Gandhinagar, presenting recent advances in the use of data-driven approaches for combustion research.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prestigious Reliance Foundation PG Scholarship 2026 awarded to Nithin</title>
+      <link>//localhost:1313/post/2026_nithin_rfpg/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2026_nithin_rfpg/</guid>
+      <description>&lt;p&gt;Manuru Nithin Padiyar from our lab has received the prestigious Reliance Foundation Postgraduate Scholarship for 2026. This scholarship provides up to INR 6 lakhs and supports outstanding students in various fields through financial aid and development opportunities. Additional benefits include mentorship, workshops with global experts, and a strong alumni network.&lt;/p&gt;
+&lt;p&gt;Manuru Nithin Padiyar from our lab has been awarded the prestigious Reliance Foundation Postgraduate Scholarship for 2026. This scholarship provides up to INR 6 lakhs over the duration of the degree and supports outstanding students in various fields such as Computer Science, Artificial Intelligence, and Life Sciences. The scholarship values excellence, leadership potential, integrity, community commitment, growth mindset, and courage. Hundred scholars are selected from thousands of applicants all over India based on merit, online tests and a one-on-one interview. In addition to financial aid, scholars benefit from mentorship opportunities, workshops with global experts, and a strong alumni network, fostering a vibrant community of future leaders. Nithin&amp;rsquo;s achievement highlights our lab&amp;rsquo;s commitment to excellence and development in cutting-edge research areas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Aditya delivers talk at Indo-Japanese CFD-based AI and HPC workshop, IIT Kanpur</title>
+      <link>//localhost:1313/post/2025_aditya_iitk_talk/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_aditya_iitk_talk/</guid>
+      <description>&lt;p&gt;Dr. Aditya was invited to deliver a talk, contributing to technical discussions and collaborative sessions aimed at fostering research exchange and long-term academic partnerships between the two countries.&lt;/p&gt;
+&lt;p&gt;The workshop, organized by the Department of Aerospace Engineering at IIT Kanpur in collaboration with leading Japanese institutions, brought together researchers from India and Japan to discuss recent advances at the intersection of Computational Fluid Dynamics (CFD), Artificial Intelligence (AI), and High-Performance Computing (HPC).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FLAME lab members get placed at various companies</title>
+      <link>//localhost:1313/post/2025_flame_placements/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_flame_placements/</guid>
+      <description>&lt;p&gt;Raj, Deepti and Sudhakar from our lab all got placed at various companies. Congratulations!&lt;/p&gt;
+&lt;p&gt;Raj is joining ExxonMobil as a data scientist. Deepti and Sudhakar got placed in data scientist roles at MasterCard and TIAA, respectively, through the institute placement drive.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Neha Yedala receives National Post Doctoral Fellowship</title>
+      <link>//localhost:1313/post/2025_neha_npdf/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_neha_npdf/</guid>
+      <description>&lt;p&gt;Neha Yedala has been awarded the prestigious National Post Doctoral Fellowship (N-PDF), recognizing her strong academic and research achievements. The fellowship supports her continued contributions to advanced research and innovation in her field.&lt;/p&gt;
+&lt;p&gt;Neha&amp;rsquo;s research, titled “Investigation of Ammonia–Hydrogen Auto-Ignition Flames in Sequential Combustor Using Machine Learning-Enhanced Large-Eddy Simulations,” focuses on understanding the complex combustion characteristics of ammonia–hydrogen fuel blends in advanced combustor systems. By integrating high-fidelity Large-Eddy Simulations with machine learning techniques, the work aims to improve predictive capabilities, enhance combustion efficiency, and support the development of cleaner and more sustainable energy technologies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Aditya honoured as Outstanding Young Aerospace Engineer at Texas A&amp;M University</title>
+      <link>//localhost:1313/post/2025_aditya_outstanding-award/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_aditya_outstanding-award/</guid>
+      <description>&lt;p&gt;Dr. Aditya was honoured as Outstanding Young Aerospace Engineer at Texas A&amp;amp;M University.&lt;/p&gt;
+&lt;p&gt;This recognition highlights Dr. Aditya’s contributions to aerospace engineering, particularly in advancing research at the intersection of computational methods, machine learning, and combustion science. The award acknowledges excellence in research, innovation, and impact, and reflects the growing importance of data-driven approaches in modern aerospace applications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FLAME lab members attended ICNC 2025</title>
+      <link>//localhost:1313/post/2025_flame_icnc/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_flame_icnc/</guid>
+      <description>&lt;p&gt;Dr. Aditya, Priyabrat, Aritra and Aswin attended the 20th International Conference on Numerical Combustion, held in Rome, Italy from October 14 to 17, 2025.&lt;/p&gt;
+&lt;p&gt;The International Conference on Numerical Combustion (ICNC) is a biennial conference on numerical combustion sponsored by the Combustion Institute (CI). Dr. Aditya, Priyabrat, Aritra and Aswin provided oral presentations of contributed works from the lab, titled &amp;ldquo;A co-kurtosis based dimensionality reduction for chemical kinetics using neural ODEs&amp;rdquo;, &amp;ldquo;A graph neural network-based framework for superresolution of turbulent reacting flows on complex meshes&amp;rdquo;, &amp;ldquo;Combustion dynamics in trapped vortex combustor: effect of hydrogen blending&amp;rdquo; and &amp;ldquo;An asynchronous discontinuous Galerkin method for combustion simulations&amp;rdquo;, respectively.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FLAME lab students awarded IISc-Siemens Fellowships</title>
+      <link>//localhost:1313/post/2025_siemens_fellowship/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_siemens_fellowship/</guid>
+      <description>&lt;p&gt;N. Surya (Ph.D.), Aswin Kumar A, and Surya Datta Sudhakar (M.Tech Research) have been awarded with IISc-Siemens Technology India Fellowships.&lt;/p&gt;
+&lt;p&gt;Siemens Limited is a leading technology company in India, delivering solutions across industry, infrastructure, digital transformation, transport, and power to drive efficiency and sustainable growth. Aswin Kumar A and Surya Datta Sudhakar (M.Tech Research), along with N Surya (Ph.D.), have been selected for the IISc-Siemens Technology India Fellowships, recognizing their academic excellence and contributions to advanced research on fast solvers for reacting flows.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Aditya delivered a talk at Indo-French workshop on Hydrogen and Ammonia for Green Energy Transition, IIT Bombay</title>
+      <link>//localhost:1313/post/2025_aditya_iitb-talk/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_aditya_iitb-talk/</guid>
+      <description>&lt;p&gt;Dr. Aditya delivered an invited talk at the Indo-French Workshop on Hydrogen and Ammonia for Green Energy Transition held at IIT Bombay.&lt;/p&gt;
+&lt;p&gt;The workshop, titled “Advancements in Hydrogen and Ammonia for Green Energy Transition,” brought together researchers from India and France to discuss developments in hydrogen- and ammonia-based decarbonized combustion.Dr. Aditya presented a talk on “Auto-ignitive Flames in Hydrogen-Fired Reheat Burner: Combustion Physics and Flashback Control.”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Aritra presents paper at IMECE India 2025</title>
+      <link>//localhost:1313/post/2025_flame_imeceindia/</link>
+      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_flame_imeceindia/</guid>
+      <description>&lt;p&gt;Aritra presented his work at ASME&amp;rsquo;s International Mechanical Engineering Congress &amp;amp; Exposition (IMECE) India, held in Hyderabad from September 11 to 13, 2025.&lt;/p&gt;
+&lt;p&gt;The inaugural edition of ASME&amp;rsquo;s International Mechanical Engineering Congress &amp;amp; Exposition (IMECE) India happened in Hyderabad, with researchers coming from various disciplines related to mechanical engineering. Aritra provided an oral presentation titled &amp;ldquo;Effects of Hydrogen Blending in Trapped Vortex Combustor&amp;rdquo;, based on a paper submitted and accepted at the conference through peer review.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FLAME lab members attended the 26th AeSI CFD symposium</title>
+      <link>//localhost:1313/post/2025_flame_aesicfd/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_flame_aesicfd/</guid>
+      <description>&lt;p&gt;FLAME lab members attended the 26th Annual CFD symposium organized by Aeronautical Society of India (AeSI) CFD Division, held in HAL Management Academy, Bangalore from August 11 to 13, 2025.&lt;/p&gt;
+&lt;p&gt;The AeSI CFD symposium is a national forum for CFD researchers, developers, and practitioners, providing an opportunity to review the current state of the art in CFD and its applications, and to exchange ideas among CFD researchers in India. Aritra, Shiva, Sudhakar and Aswin provided oral presentations of their works in the symposium.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shiva awarded TCS PhD Fellowship</title>
+      <link>//localhost:1313/post/2025_tcs_fellowship/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_tcs_fellowship/</guid>
+      <description>&lt;p&gt;Shiva has been awarded a fellowship under the TCS PhD Research Scholar Program.&lt;/p&gt;
+&lt;p&gt;Tata Consultancy Services have devised the TCS Research Scholar Program to improve the research talent base in the country to perform research in areas ranging from computer engineering and science, information systems and technology, and software engineering and other disciplines which utilize computing. Shiva has been selected as a TCS PhD Research Scholar for the 2025 cycle.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FLAME lab members attended the 15th Asia-Pacific Conference on Combustion</title>
+      <link>//localhost:1313/post/2025_flame_aspacc/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_flame_aspacc/</guid>
+      <description>&lt;p&gt;Dr. Aditya, Shiva and Aswin attended the 15th Asia-Pacific Conference on Combustion, held in Singapore from May 18 to 22, 2025.&lt;/p&gt;
+&lt;p&gt;The Asia-Pacific Conference on Combustion (ASPACC) is a regional combustion conference sponsored by the Combustion Institute (CI). The ASPACC is held every two years, and its location rotates among different CI sections in the Asia-Pacific region. Dr. Aditya delivered a keynote lecture titled &amp;ldquo;Machine learning for combustion applications&amp;rdquo;, while Shiva and Aswin provided oral presentations of contributed works from the lab, titled &amp;ldquo;An a-posteriori analysis of cokurtosis PCA based dimensionality reduction using a neural ODE solver&amp;rdquo; and &amp;ldquo;An asynchronous discontinuous Galerkin method for combustion simulations&amp;rdquo;, respectively. It was an enriching experience interacting with peers from academia and industry.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shiva attended the 2025 ACM ASEAN School on HPC and AI</title>
+      <link>//localhost:1313/post/2025_shiva_singapore/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_shiva_singapore/</guid>
+      <description>&lt;p&gt;Shiva engaged in a five-day ACM ASEAN School on the domain of High-Performance Computing and Artificial Intelligence, from March 10 - 14, 2025, which is offered to select participants around the globe. The program included a lecture by Turing Award winner Jack Dongarra. It was hosted by the National Supercomputing Center (NSCC) Singapore.&lt;/p&gt;
+&lt;p&gt;The ACM HPC School on HPC and AI is a highly selective program, held from March 10th to 14th, 2025, in conjunction with the Supercomputing Asia 2025 (SCA25) conference. This intensive five-day school brought together approximately sixty participants from across the globe, offering a unique opportunity to delve into the cutting-edge intersection of high-performance computing and artificial intelligence. The curriculum featured a series of lectures delivered by esteemed invited speakers, experts in their respective fields, covering a wide range of topics. A particularly notable highlight which provided invaluable insights was the lecture delivered by Turing Award laureate Jack Dongarra.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Aditya received the prestigious Dr. APJ Abdul Kalam HPC Award 2025</title>
+      <link>//localhost:1313/post/2025_kalam_award/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_kalam_award/</guid>
+      <description>&lt;p&gt;Named after Dr. A P J Abdul Kalam, India’s esteemed former President, renowned scientist, and Bharat Ratna awardee, these awards honor outstanding contributions to High-Performance Computing (HPC) in India.&lt;/p&gt;
+&lt;p&gt;For his contributions in the development of scalable asynchronous numerical methods and their implementation into massively parallel flow solvers, for developing novel machine-learning based techniques to identify low-dimensional manifolds for involving partial differential equations and accelerate HPC solvers and for application of large-scale simulations in understanding fundamental flow-chemistry interactions in combustion phenomena relevant to gas turbine and scramjet engines.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prestigious Reliance Foundation PG Scholarship 2025 awarded to Deepti</title>
+      <link>//localhost:1313/post/2025_deepti_rfpg/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_deepti_rfpg/</guid>
+      <description>&lt;p&gt;Deepti Sahu from our lab has received the prestigious Reliance Foundation Postgraduate Scholarship for 2025. This scholarship provides up to INR 6 lakhs and supports outstanding students in various fields through financial aid and development opportunities. Additional benefits include mentorship, workshops with global experts, and a strong alumni network.&lt;/p&gt;
+&lt;p&gt;Deepti Sahu from our lab has been awarded the prestigious Reliance Foundation Postgraduate Scholarship for 2025. This scholarship provides up to INR 6 lakhs over the duration of the degree and supports outstanding students in various fields such as Computer Science, Artificial Intelligence, and Life Sciences. The scholarship values excellence, leadership potential, integrity, community commitment, growth mindset, and courage. Hundred scholars are selected from thousands of applicants all over India based on merit, online tests and a one-on-one interview. In addition to financial aid, scholars benefit from mentorship opportunities, workshops with global experts, and a strong alumni network, fostering a vibrant community of future leaders. Deepti&amp;rsquo;s achievement highlights our lab&amp;rsquo;s commitment to excellence and development in cutting-edge research areas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Talk given by Dr. Aditya at the 90th Annual Conference of Indian Mathematical Society</title>
+      <link>//localhost:1313/post/2024_pune_math_ml/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024_pune_math_ml/</guid>
+      <description>&lt;p&gt;A talk was given by Dr. Aditya on &amp;ldquo;Low-dimensional manifolds based on data-driven methods: application to combustion simulations&amp;rdquo; at the 90th Annual Conference of Indian Mathematical Society organized by the Department of Mathematics and Statistics held at Dr. Vishwanath Karad MIT World Peace University, Pune, India.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aswin wins best SRS poster award at IEEE HiPC conference 2024</title>
+      <link>//localhost:1313/post/2024_hipc_aswin/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024_hipc_aswin/</guid>
+      <description>&lt;p&gt;Congratulations to Aswin for winning the best poster award at the Student Research Symposium of the IEEE HiPC conference held on December 18-21, 2024 in Bengaluru.&lt;/p&gt;
+&lt;p&gt;The 31st IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC) is a yearly event that serves as a platform for researchers from all over the world to present their latest work and showcase activities in the high performance computing and data science fields in Asia. In addition to invited talks and oral presentations, the conference features a Student Research Symposium (SRS) where students display posters and hold lightning talks to present their research. The poster entitled &amp;ldquo;Asynchrony-tolerant schemes to enhance scalability of compressible-flow solver&amp;rdquo;, co-authored by Aswin Kumar A, Nagabhushana Rao Vadlamani (IIT Madras) and Konduri Aditya, won the best poster award in the undergraduate category. Another poster from our lab, entitled &amp;ldquo;Building a portable asynchronous PDE solver using Kokkos&amp;rdquo;, co-authored by Ranjan Bhat and Konduri Aditya also featured in the symposium.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Talks given by Dr. Aditya at the 77th Annual Meet of APS DFD and at Texas A&amp;M University</title>
+      <link>//localhost:1313/post/2024_aps_tamu/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024_aps_tamu/</guid>
+      <description>&lt;p&gt;A talk was given by Dr. Aditya at the 77th Annual Meet of APS Division of Fluid Dynamics on &amp;ldquo;Performance evaluation of the scalable asynchronous DG method&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;He was a distinguished speaker for the Aerospace Engineering Seminar Series (AESS) on Thursday, November 21, 2024, at Texas A&amp;amp;M University – College Station.&lt;/p&gt;
+&lt;p&gt;For more info: &lt;a href=&#34;https://meetings.aps.org/Meeting/DFD24/Session/L16.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://meetings.aps.org/Meeting/DFD24/Session/L16.1&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3 students from FLAME lab attended the Indo-German Workshop on Hardware Aware Scientific Computing</title>
+      <link>//localhost:1313/post/2024_indo_german_workshop/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024_indo_german_workshop/</guid>
+      <description>&lt;p&gt;Shiva Sai, Priyabrat Dash, Raj Maddipati attended the Indo-German Workshop on Hardware Aware Scientific Computing (IGWHASC).&lt;/p&gt;
+&lt;p&gt;Raj presented on &amp;ldquo;Novel multi-scale modeling methodology for chemical kinetic modeling of fuel oxidation using atomistic calculations&amp;rdquo;. He was awarded the Best Poster Presentation Award.&lt;/p&gt;
+&lt;p&gt;Shiva presented the poster on &amp;ldquo;An a-posteriori analysis of co-kurtosis PCA based dimensionality reduction using Neural ODE&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Priyabrat presented the poster on &amp;ldquo;Super-Resolution of Turbulent Fields Using Deep Learning, with an emphasis on physics-guided self-supervised models&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Journal article on asynchronous discontinuous Galerkin method is published in Computer Methods in Applied Mechanics and Engineering</title>
+      <link>//localhost:1313/post/skg_cmame_2024/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/skg_cmame_2024/</guid>
+      <description>&lt;p&gt;The paper titled &amp;ldquo;An asynchronous discontinuous Galerkin method for massively parallel PDE solvers&amp;rdquo; co-authored by Shubham K. Goswami and Konduri Aditya, has been published in the journal Computer Methods in Applied Mechanics and Engineering. This paper presents an asynchronous discontinuous Galerkin method along with an extensive theoretical and numerical analysis.&lt;/p&gt;
+&lt;p&gt;The paper titled “An asynchronous discontinuous Galerkin method for massively parallel PDE solvers” co-authored by Shubham K. Goswami and Dr. Konduri Aditya has been published in Computer Methods in Applied Mechanics and Engineering. This paper proposes an asynchronous discontinuous Galerkin method that avoids communication/synchronization at a mathematical level, investigates its numerical properties including conservation, stability, and accuracy, and develops new asynchrony-tolerant numerical fluxes. The theoretical findings are also validated with numerical results from linear/nonlinear problems.&lt;/p&gt;
+&lt;p&gt;For more information, please visit: &lt;a href=&#34;https://doi.org/10.1016/j.cma.2024.117218&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.cma.2024.117218&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lab reunion was held on August 17th, 2024</title>
+      <link>//localhost:1313/post/lab_reunion_2024/</link>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/lab_reunion_2024/</guid>
+      <description>&lt;p&gt;FLAME Lab members and alumni reunited for a day of sports activities and amicable interactions, concluding with a celebratory dinner on August 17th, 2024.&lt;/p&gt;
+&lt;p&gt;On August 17th, 2024, the first FLAME lab reunion was organized, which featured various sports activities such as cricket, table tennis, and foosball. The event was attended by current lab members as well as alumni who had graduated from the lab within these five years. The first reunion honored the successful five years of the lab and provided an opportunity for everyone to reconnect and celebrate their time together. The event was concluded with a lab dinner and group photo session.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shubham defended his PhD thesis</title>
+      <link>//localhost:1313/post/skg_phd_defence/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/skg_phd_defence/</guid>
+      <description>&lt;p&gt;Many congratulations to Shubham for successfully defending his doctoral thesis titled &amp;ldquo;A scalable asynchronous discontinuous Galerkin method for massively parallel flow simulations&amp;rdquo; on August 5th, 2024. He joined the FLAME Lab in August 2019 and was the first PhD student in the lab. His research was focused on the development of asynchronous numerical schemes and demonstrating their scalability at extreme scales.&lt;/p&gt;
+&lt;p&gt;Shubham, the first PhD student at the FLAME Lab, successfully defended his doctoral thesis titled &amp;ldquo;A scalable asynchronous discontinuous Galerkin method for massively parallel flow simulations&amp;rdquo; on August 5th, 2024. The objective of his thesis was to introduce novel asynchronous numerical schemes that avoid communication and synchronization at a mathematical level, develop an asynchronous discontinuous Galerkin method based PDE solver, and demonstrate its scalability for extreme-scale computations. The thesis defense was attended by Professor Praveen Chandrasekhar from TIFR-CAM, along with other faculty members and students. The FLAME Lab extends its congratulations to Shubham on his accomplishment and conveys its best wishes for his future endeavours.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Priyabrat receives SERB travel award for attending TurboExpo 2024</title>
+      <link>//localhost:1313/post/dash-turboexpo/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/dash-turboexpo/</guid>
+      <description>&lt;p&gt;Priyabrat was selected for the DST-SERB international travel support scheme for attending ASME TurboExpo 2024, held at London (UK). He presented the results of a collaborative study aimed at non-invasive identification of recirculation zones from experimental images of a trapped vortex combustor.&lt;/p&gt;
+&lt;p&gt;Priyabrat was selected for the DST-SERB international travel support scheme for attending ASME TurboExpo 2024, held at London (UK). He presented the results of a study conducted in collaboration with researchers from the Departments of Computational and Data Sciences, and Mechanical Engineering at IISc. It was the outcome of a multidisciplinary effort comprising simulations, experiments and machine learning for non-invasively identifying recirculation zones from experimental images of trapped vortex combustors. State-of-the art vision transformer models were used to demonstrate superior performance compared to generative adversarial networks. For more details: &lt;a href=&#34;https://asme-turboexpo.secure-platform.com/a/solicitations/223/sessiongallery/15414/application/127369&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://asme-turboexpo.secure-platform.com/a/solicitations/223/sessiongallery/15414/application/127369&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaborative work with TU Delft was published in Proceedings of the Combustion Institute</title>
+      <link>//localhost:1313/post/shiva_tu_delft/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/shiva_tu_delft/</guid>
+      <description>&lt;p&gt;Our collaborative work with TU Delft, Netherlands on &amp;ldquo;Data-driven identification of precursors of flashback in a lean hydrogen reheat combustor&amp;rdquo; was published in the Proceedings of the Combustion Institute.&lt;/p&gt;
+&lt;p&gt;We propose a data-driven framework to identify precursors of extreme events in turbulent reacting flows. Our framework is composed of two parts. The first consists of the use of a co-kurtosis based approach to identify the components of the thermochemical and flow state which are the most relevant for the onset of flashback. A modularity-based clustering algorithm is then employed to segregate clusters that contain normal and extreme flashbacking states and the clusters located in between these states, which are the precursor states of extreme events. Our work proposes for the first time a data-driven technique to automatically identify precursors of flashback in hydrogen combustion opening the path for such applications on other extreme events in reacting flows.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.proci.2024.105524&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Floris, M., Sai, T.S., Nayak, D., Langella, I., Aditya, K. and Doan, N.A.K., 2024. Data-driven identification of precursors of flashback in a lean hydrogen reheat combustor. Proceedings of the Combustion Institute, 40(1-4), p.105524.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The paper was available online on 26 July 2024.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaborative work by Raj got accepted for publication in the Journal of Engineering for Gas Turbines and Power</title>
+      <link>//localhost:1313/post/raj-journal/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/raj-journal/</guid>
+      <description>&lt;p&gt;Raj&amp;rsquo;s collaborative work with ZHAW, Switzerland and SINTEF Norway got accepted for publication in the Journal of Engineering for Gas Turbines and Power, titled &amp;ldquo;A reactor-network framework to model performance and emissions of a longitudinally-staged combustion system for carbon-free fuels.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Hydrogen and ammonia are considered crucial carbon- free energy carriers optimally suited for seasonal chemical storage and balancing of the energy system. In this context, longitudinally-staged combustion systems represent an attractive technology in power generation for their capability of achieving low NOx emissions while conserving high load and, crucially, fuel flexibility at high thermal efficiency. Such two-stage com- bustion systems have been successfully implemented for natural gas firing of gas turbines and, more recently, have shown signif- icant potential for clean and efficient hydrogen-firing operation. However, optimal operation with ammonia-based fuel mixtures is yet to be established. In a recent numerical modelling study (GT2023-103835), a novel Rich-Quench Lean (RQL) operational concept was proposed to burn a fuel-rich mixture of partially-decomposed ammonia and air (for equivalence ratios φ ∼ 1.1 − 1.2) in the first stage of a longitudinally-staged com- bustion system. Complete oxidation of the remaining (hydrogen) fuel is theoretically ensured by dilution-air addition downstream of the first stage combustor and it is confirmed by predictions from ongoing LES calculations (GT2024-128946). However, any operational concept based on these near-stoichiometric combustion conditions, while minimizing undesired prompt NOx and N2O formation by ammonia oxidation, can potentially result in significant, and certainly unpractical, thermal load on the first stage combustor liner that needs to be mitigated. In the present study, we exploit a newly developed reactors-network model to efficiently investigate the NOx-emissions performance of a longitudinally-staged combustion system fired with natural gas, hydrogen or ammonia. Firstly, the reactors network framework is validated with experimental, computational and other similar reactor network results in the literature. Secondly, the optimal air distribution within the longitudinally-staged combustion system is found for clean (low emissions) and efficient (com- plete fuel conversion) ammonia-firing operation. Thirdly, the consequences of such “ammonia-optimized” air distribution on flame stabilization and NOx emissions in more conventional natural gas- and hydrogen-firing operation are considered. Finally, an optimal air and fuel distribution is suggested for the longitudinally-staged combustion system on the basis that, while still ensuring robust flame stabilization and high turbine inlet temperature, it minimizes NOx emissions for all three fuels considered.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Journal article on physics-guided super-resolution accepted for publication in Physics of Fluids, selected as editor&#39;s pick</title>
+      <link>//localhost:1313/post/dash-pof/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/dash-pof/</guid>
+      <description>&lt;p&gt;Our paper titled &amp;ldquo;A scale-similarity based workflow for the self-supervised reconstruction of small-scales in turbulence using deep learning,&amp;rdquo; has been accepted for publication as a journal article in Physics of Fluids. Co-authored by Priyabrat and Dr. Aditya, this paper presents a physics-guided, self-supervised methodology incorporating the scale-similarity hypothesis to reconstruct small scales in turbulent flow simulations. This work has been selected as an editor&amp;rsquo;s pick as well!&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;A scale-similarity based workflow for the self-supervised reconstruction of small-scales in turbulence using deep learning,&amp;rdquo; has been accepted for publication as a journal article in Physics of Fluids. Co-authored by Priyabrat and Dr. Aditya, this paper presents a physics-guided, self-supervised methodology incorporating the scale-similarity hypothesis to reconstruct small scales in turbulent flow simulations. This work has been selected as an editor&amp;rsquo;s pick as well! For more information: &lt;a href=&#34;https://doi.org/10.1063/5.0216747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1063/5.0216747&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Aditya was part of a best paper award, ASME Turbo Expo Technical Conference 2024</title>
+      <link>//localhost:1313/post/2025_asme_best_paper/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2025_asme_best_paper/</guid>
+      <description>&lt;p&gt;Dr. Aditya was part of a best paper award given at the ASME Turbo Expo Technical Conference 2024.
+The following paper was chosen as one of the Best Papers by the Combustion, Fuel, and Emissions Committee.&lt;/p&gt;
+&lt;p&gt;Rouco Pousada, P., Doan, N.A.K., Aditya, K., Düsing, M., Ciani, A. and Langella, I., 2024, June. Flashback prevention in a hydrogen-fueled reheat combustor by water injection optimized with global sensitivity analysis. In Turbo Expo: Power for Land, Sea, and Air (Vol. 87950, p. V03BT04A003). American Society of Mechanical Engineers. For more information: &lt;a href=&#34;https://doi.org/10.1115/GT2024-127332&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1115/GT2024-127332&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shubham won the Best Poster Award at CHTC 2024, IIT Hyderabad</title>
+      <link>//localhost:1313/post/skg-iith/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/skg-iith/</guid>
+      <description>&lt;p&gt;Congratulations to Shubham for winning the Best Poster Award at the CHTC conference (Topical Meeting on Computations of High-speed Turbulent and Complex Flows), which was held between June 28th and 29th, 2024, at IIT Hyderabad. Shubham, along with co-authors Vidyesh Dapse and Konduri Aditya, received the award for their work titled &amp;ldquo;A scalable asynchronous discontinuous Galerkin method for massively parallel flow simulations.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The Department of Mechanical and Aerospace Engineering (MAE) at IIT Hyderabad is hosting an annual series of Topical Meetings on varied subjects. The first Topical Meeting was held on the theme of Computations of High-Speed, Turbulent, and Complex Flows, and it featured a two-day conference with research talks, pedagogical lectures, and poster presentations. Raj, Shiva, and Shubham from FLAME Lab were among the 30+ students who presented posters. The three posters from FLAME Lab were on the topics of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Raj:&lt;/strong&gt; A novel multiscale modeling methodology for chemical kinetic modeling of fuel oxidation using atomic calculations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shiva:&lt;/strong&gt; An a-posteriori analysis of co-kurtosis PCA-based dimensionality reduction using Neural ODE.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shubham:&lt;/strong&gt; A scalable asynchronous discontinuous Galerkin method for massively parallel flow simulations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Among all the poster presentations, five of them were selected for the best posters, and Shubham was one of the winners. We extend our congratulations to Shubham and all the other winners. The experience was very positive for the three lab students, who were able to showcase their work to the CFD community and receive helpful feedback.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prestigious Reliance Foundation PG Scholarship 2024 awarded to N Surya</title>
+      <link>//localhost:1313/post/surya-rfps/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/surya-rfps/</guid>
+      <description>&lt;p&gt;N Surya from our lab has received the prestigious Reliance Foundation Postgraduate Scholarship for 2024. This scholarship provides up to INR 6 lakhs and supports outstanding students in various fields through financial aid and development opportunities. Additional benefits include mentorship, workshops with global experts, and a strong alumni network.&lt;/p&gt;
+&lt;p&gt;N Surya from our lab has been awarded the prestigious Reliance Foundation Postgraduate Scholarship for 2024. This scholarship provides up to INR 6 lakhs over the duration of the degree and supports outstanding students in various fields such as Computer Science, Artificial Intelligence, and Life Sciences. The scholarship values excellence, leadership potential, integrity, community commitment, growth mindset, and courage. Hundred scholars are selected from thousands of applicants all over India based on merit, online tests and a one-on-one interview. In addition to financial aid, scholars benefit from mentorship opportunities, workshops with global experts, and a strong alumni network, fostering a vibrant community of future leaders. Surya&amp;rsquo;s achievement highlights our lab&amp;rsquo;s commitment to excellence and development in cutting-edge research areas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raj receives SERB international travel grant</title>
+      <link>//localhost:1313/post/raj-serb/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/raj-serb/</guid>
+      <description>&lt;p&gt;Congratulations to Raj for receiving Secured Science and Engineering Research Board (SERB) international travel grant for attending 19th edition of the International Conference on Numerical Combustion, held in Kyoto, Japan.&lt;/p&gt;
+&lt;p&gt;Combustion represents a complex interplay of multiple physics and scales, encompassing the simultaneous occurrence of chemistry and flow physics at varying length and time scales. Consequently, when simulating combustion at a continuum scale, the chemistry is typically provided as input while the flow physics is solved. However, the accuracy of this input is compromised by the inherent limitations of sensitivity analysis. To address this, a groundbreaking approach is presented in this study, wherein the chemistry is extracted from a single atomistic simulation, offering a more precise input for the continuum scale simulation. Our research represents a significant advancement in the field of combustion simulation, offering a novel methodology that bridges the gap between atomistic and continuum scales. Sharing these findings with an international audience will contribute to the collective understanding of combustion science and pave the way for future research directions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shubham won the best presentation award in the Three-Minute Thesis competition in the Open Day 2024 at CDS, IISc</title>
+      <link>//localhost:1313/post/skg-2023-openday/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/skg-2023-openday/</guid>
+      <description>&lt;p&gt;Congratulations to Shubham for winning the best presentation award in the Three-Minute Thesis competition during Open Day 2024 at CDS, IISc.&lt;/p&gt;
+&lt;p&gt;Open Day is a yearly event of the IISc, during which the institute is open to the general public, who visit different departments and where students and faculty showcase their research work. In the Department of Computational and Data Sciences, a three-minute thesis competition was organized on Open Day 2024 (February 24, 2024), where PhD students nearing completion of their studies were required to present their work to a general audience within a three-minute timeframe. A significant number of PhD students from the department participated in this competition. Shubham was awarded the first-place prize for his presentation titled &amp;ldquo;A scalable asynchronous discontinuous Galerkin method for massively parallel PDE solvers.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shubham won the Best SRS Poster Award at the IEEE HiPC Conference 2023</title>
+      <link>//localhost:1313/post/skg-hipc-2023/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/skg-hipc-2023/</guid>
+      <description>&lt;p&gt;Congratulations to Shubham for winning the Best Poster Award in the Students Research Symposium category at the IEEE HiPC 2023 conference, which was held between December 18th and December 21st, 2023, in Goa. Shubham, along with co-authors Vidyesh Dapse and Konduri Aditya, received the award for their work titled &amp;ldquo;Scaling performance of the asynchronous discontinuous-Galerkin method for compressible Euler equations.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The 2023 IEEE 30th International Conference on High Performance Computing, Data, and Analytics (HiPC) is a yearly event that serves as a platform for researchers from all over the world to present their latest work and showcase activities in the high performance computing field in Asia. In addition to invited talks and oral presentations, the conference features a Student Research Symposium (SRS) where students display posters to present their research. We extend our warm congratulations to Shubham for winning the best SRS poster award in the PhD category for his work titled &amp;ldquo;Scaling performance of the asynchronous discontinuous-Galerkin method for compressible Euler equations.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Aritra selected for Prime Minister&#39;s Research Fellowship</title>
+      <link>//localhost:1313/post/arc-pmrf/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/arc-pmrf/</guid>
+      <description>&lt;p&gt;Aritra Roy Choudhury has been awarded the Prime Minister&amp;rsquo;s Research Fellowship (PMRF) under the direct entry scheme, in cycle 11.&lt;/p&gt;
+&lt;p&gt;This fellowship was launched by the Ministry of Human Resource Development under the supervision of the Central Government of India in the budget 2018-2019. This scholarship scheme provide financial support to the meritorious students of Indian Institute of Science (IISc), Indian Institutes of Science Education &amp;amp; Research (IISERs), Indian Institutes of Technology (IITs), National Institute of Technology (NITs) and Central Universities undertaking PhD. Under this scheme, the scholar gets a monthly stipend of ₹70,000 per month for the first two years, ₹75,000 per month for the 3rd year, and ₹80,000 per month in the 4th and 5th year of the program. During the course of the fellowship, researchers are also eligible to a research contingency grant of ₹2 lakh per annum.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Priyabrat selected for Helmholtz Visiting Research Fellowship</title>
+      <link>//localhost:1313/post/dash-helmholtz/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/dash-helmholtz/</guid>
+      <description>&lt;p&gt;Priyabrat was selected for the Helmholtz Visiting Research Fellowship. He visited Juelich Supercomputing Center in Juelich (Germany) for a tenure of three months. His visit initiated a collaboration focused on harnessing graph neural networks to accelerate reacting flow simulations.&lt;/p&gt;
+&lt;p&gt;Priyabrat was awarded the prestigious Helmholtz Visiting Research Fellowship. As part of the fellowship, he spent three months at the Juelich Supercomputing Center in Juelich, Germany. During his visit, he initiated a collaborative research project aimed at developing novel methods to accelerate reacting flow simulations through the application of graph neural networks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shubham, Vidyesh and Dibyajyoti presented their research at IGCM 2023 and EECS Research Symposium</title>
+      <link>//localhost:1313/post/igccm2023/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/igccm2023/</guid>
+      <description>&lt;p&gt;The Indo-German Conference on Computational Mathematics (IGCM) is a bi-national conference providing an interdisciplinary platform for researchers to present and discuss the most recent innovations, trends, and the challenges in the frontier areas of computational mathematics. The EECS Research symposium is an initiative of the Division of EECS at IISc, which provides a forum for presentations by senior research students.&lt;/p&gt;
+&lt;p&gt;Shubham, Vidyesh and Dibyajyoti presented their work in the Indo-German Conference on Computational Mathematics (IGCM) held at Bengaluru. Their presentations spanned across asynchronous numerical methods, high-performance computing and reduced order models for turbulent reacting flows.&lt;/p&gt;
+&lt;!-- - **Shubham:**
+
+- **Vidyesh:**
+
+- **Dibyajyoti:** Characterization of ANN reconstruction for one-dimensional laminar premixed flames in the CoK-PCA framework --&gt;
+&lt;p&gt;Shubham and Dibyajyoti presented insights from their research work in the 14th EECS Research Students Symposium as well.&lt;/p&gt;
+&lt;!-- - **Shubham:**
+
+- **Dibyajyoti:** A co-kurtosis based dimensionality reduction with neural network based reconstruction of chemical kinetics in reacting flows --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Outreach activities by the members of FLAME lab</title>
+      <link>//localhost:1313/post/openday-alumni-kotak/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/openday-alumni-kotak/</guid>
+      <description>&lt;p&gt;We have participated in a series of successful outreach activities aimed at sharing our latest research findings with the community. These activities are designed to promote greater scientific literacy and introduce the general audience regarding the studies being carried out by our lab.&lt;/p&gt;
+&lt;p&gt;Members of our lab have been actively involved in the outreach activities organized by the institute and the department. Some of them are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kotak-IISc Instructional School on AI:&lt;/strong&gt; Priyabrat presented a brief overview of the research work carried out at our lab to a cohort of researchers from nearby academic and industrial establishments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Open Day 2023:&lt;/strong&gt; Vidyesh and Tanaya showcased the research activities of our lab to an audience comprising of students from high-schools till university, researchers from IISc, as well as the general public.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CDS Alumni Meet 2022:&lt;/strong&gt; Shubham, Raj and Dibya outlined their respective research contributions in the poster session of CDS Alumni Meet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Priyabrat selected for Prime Minister&#39;s Research Fellowship</title>
+      <link>//localhost:1313/post/dash-pmrf/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/dash-pmrf/</guid>
+      <description>&lt;p&gt;We congratulate Priyabrat for his selection in the prestigious Prime Minister&amp;rsquo;s Research Fellowship.&lt;/p&gt;
+&lt;p&gt;We congratulate Priyabrat for his selection in the prestigious Prime Minister&amp;rsquo;s Research Fellowship. This award will support his research endeavours for the remainder of his Ph.D. He is the first member of the lab to have been selected for PMRF.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Four papers co-authored by lab members selected for publication in journals</title>
+      <link>//localhost:1313/post/papers-2023/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/papers-2023/</guid>
+      <description>&lt;p&gt;We are proud to announce that four of our co-authored papers have been recently published in reputed journals. Our papers cover a range of topics, showcasing our team&amp;rsquo;s diverse expertise and contributions to cutting-edge research. The titles and corresponding links are mentioned below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.combustflame.2023.112635&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;A co-kurtosis based dimensionality reduction method for combustion datasets&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;Combustion and Flame&lt;/em&gt;, &lt;strong&gt;Authors&lt;/strong&gt;: Anirudh Jonnalagadda, Shubham Kulkarni, Akash Rodhiya, Hemanth Kolla, Konduri Aditya&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jcp.2023.111922&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;Journal of Computational Physics&lt;/em&gt;, &lt;strong&gt;Authors&lt;/strong&gt;: Shubham K Goswami, Vinod J Matthew, Konduri Aditya&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jcp.2023.111906&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Evaluation of finite difference based asynchronous partial differential equations solver for reacting flows&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;Journal of Computational Physics&lt;/em&gt;, &lt;strong&gt;Authors&lt;/strong&gt;: Komal Kumari, Emmet Cleary, Swapnil Desai, Diego A Donzis, Jacqueline H Chen, Konduri Aditya&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1109/TVCG.2022.3209473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Level set restricted Voronoi tessellation for large scale spatial statistical analysis&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/em&gt;, &lt;strong&gt;Authors&lt;/strong&gt;: Tyson Neuroth, Martin Rieth, Konduri Aditya, Myoungkyu Lee, Jacqueline H Chen, Kwan-Liu Ma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are thrilled to have our work recognized by these highly esteemed journals and look forward to continuing our research efforts. Congratulations to our team and collaborators!&lt;/p&gt;
+&lt;!-- A contingent from the lab consisting of Dr. Aditya, Anirudh, Shubham, Raj, Priyabrat and Dibyajyoti attended SIAM CSE&#39;23 held in Amsterdam, The Netherlands from 26th February to 3rd March 2023. They presented their research work on the following themes:
+
+- **Anirudh:** Application of co-kurtosis based reduced order models for combustion datasets
+- **Shubham:** Stability analysis of the asynchronous discontinuous-Galerkin method
+- **Raj:** A multiscale framework for hydrogen combustion: Chemical kinetic modelling via ReaxFF and ab-initio molecular dynamics
+- **Priyabrat:** Reconstruction of unresolved small-scale structures in isotropic turbulence using deep learning
+- **Dibyajyoti:** A co-kurtosis based dimensionality reduction with neural network based reconstruction of chemical kinetics in reacting flows 
+
+We also congratulate Shubham for receiving the **SIAM Student Travel Award** and the **ODAA IISc Student Travel Grant**.
+
+The conference, as well as the city of Amsterdam were an amazing experience filled with learning, networking, and fun! --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lab members presented their work at SIAM CSE 2023, Amsterdam, The Netherlands</title>
+      <link>//localhost:1313/post/siam-cse-23/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/siam-cse-23/</guid>
+      <description>&lt;p&gt;The SIAM Conference on Computational Science and Engineering is a biennial conference facilitating in-depth technical discussions on a wide variety of major computational efforts on large-scale problems in science and engineering, foster the interdisciplinary culture required to meet these large-scale challenges, and promote the training of the next generation of computational scientists.&lt;/p&gt;
+&lt;p&gt;A contingent from the lab consisting of Dr. Aditya, Anirudh, Shubham, Raj, Priyabrat and Dibyajyoti attended SIAM CSE&#39;23 held in Amsterdam, The Netherlands from 26th February to 3rd March 2023. They presented their research work on the following themes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Anirudh:&lt;/strong&gt; Application of co-kurtosis based reduced order models for combustion datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shubham:&lt;/strong&gt; Stability analysis of the asynchronous discontinuous-Galerkin method&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Raj:&lt;/strong&gt; A multiscale framework for hydrogen combustion: Chemical kinetic modelling via ReaxFF and ab-initio molecular dynamics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Priyabrat:&lt;/strong&gt; Reconstruction of unresolved small-scale structures in isotropic turbulence using deep learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dibyajyoti:&lt;/strong&gt; A co-kurtosis based dimensionality reduction with neural network based reconstruction of chemical kinetics in reacting flows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also congratulate Shubham for receiving the &lt;strong&gt;SIAM Student Travel Award&lt;/strong&gt; and the &lt;strong&gt;ODAA IISc Student Travel Grant&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The conference, as well as the city of Amsterdam were an amazing experience filled with learning, networking, and fun!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shubham was awarded the SIAM Student Travel Award and the ODAA Student Travel Grant for attending SIAM-CSE 2023</title>
+      <link>//localhost:1313/post/skg_siam_2023/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/skg_siam_2023/</guid>
+      <description>&lt;p&gt;Congratulations to Shubham for receiving Student Travel Awards by the Society for Industrial and Applied Mathematics (SIAM) and Office of Development and Alumni Affairs (ODAA), Indian Institute of Science (IISc) for attending the SIAM Conference of Computational Science and Engineering (CSE23), which was held between February 26th and March 3rd, 2023, at Amsterdam, the Netherlands.&lt;/p&gt;
+&lt;p&gt;The SIAM Conference on Computational Science and Engineering is a biennial conference facilitating in-depth technical discussions on a wide variety of major computational efforts on large-scale problems in science and engineering, foster the interdisciplinary culture required to meet these large-scale challenges, and promote the training of the next generation of computational scientists. Shubham&amp;rsquo;s work on &amp;ldquo;Stability analysis of the asynchronous discontinuous-Galerkin method&amp;rdquo; was selected for the oral presentation. To attend this conference, he received two travel grants, namely the SIAM Student Travel Award and the ODAA IISc Student Travel Grant.&lt;/p&gt;
+&lt;p&gt;The abstract of the presented work can be found at &lt;a href=&#34;https://meetings.siam.org/sess/dsp_talk.cfm?p=126263&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://meetings.siam.org/sess/dsp_talk.cfm?p=126263&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dibyajyoti and Anirudh win best poster award in IISc Alumni Meet</title>
+      <link>//localhost:1313/post/dibya-alumni/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/dibya-alumni/</guid>
+      <description>&lt;p&gt;Dibyajyoti and Anirudh win best poster award in IISc Alumni Meet&lt;/p&gt;
+&lt;p&gt;Dibyajyoti and Anirudh won the best poster presentation award for showcasing their research work titled - A co-kurtosis based dimensionality reduction with neural network based reconstruction of chemical kinetics in reacting flows at the CDS poster presentation session, IISc Alumni Meet held on December 10, 2022.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anirudh and Shubham presented their work at APS DFD 2022, Indianapolis, US</title>
+      <link>//localhost:1313/post/aps-dfd-22/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/aps-dfd-22/</guid>
+      <description>&lt;p&gt;The 75th Annual Meeting of the American Physical Society&amp;rsquo;s Division of Fluid Dynamics (APS DFD) was conducted to highlight the impact of fluid dynamics research on global challenges, such as education and inequality, water security, climate change, renewable energy, health, and our understanding of the universe.&lt;/p&gt;
+&lt;p&gt;Shubham and Anirudh showcased their work as oral presentations on the following themes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Anirudh:&lt;/strong&gt; A study of the fourth order joint statistical moment for dimensionality reduction of combustion datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shubham:&lt;/strong&gt; A scalable asynchronous discontinuous-Galerkin method for massively parallel PDE solvers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both received positive feedback for their presentations, which is a testament to their dedication and hard work. We are proud of their accomplishments and look forward to seeing the impact of their research on their respective fields.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

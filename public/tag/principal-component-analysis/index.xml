@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal Component Analysis | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/tag/principal-component-analysis/</link>
+      <atom:link href="//localhost:1313/tag/principal-component-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Principal Component Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Principal Component Analysis</title>
+      <link>//localhost:1313/tag/principal-component-analysis/</link>
+    </image>
+    
+    <item>
+      <title>A co-kurtosis PCA based dimensionality reduction with nonlinear reconstruction using neural networks</title>
+      <link>//localhost:1313/publication/nayak-2024-cokpca/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/nayak-2024-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A co-kurtosis based dimensionality reduction method for combustion datasets</title>
+      <link>//localhost:1313/publication/jonnalagadda-2023-cokpca/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jonnalagadda-2023-cokpca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

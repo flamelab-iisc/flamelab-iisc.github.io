@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akonduri | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/akonduri/</link>
+      <atom:link href="//localhost:1313/author/akonduri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Akonduri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Akonduri</title>
+      <link>//localhost:1313/author/akonduri/</link>
+    </image>
+    
+    <item>
+      <title>Konduri Aditya</title>
+      <link>//localhost:1313/author/konduri-aditya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/konduri-aditya/</guid>
+      <description>&lt;p&gt;I work as an Assistant Professor in the Department of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India. Prior to this, I was a Postdoctoral Researcher at the Combustion Research Facility, Sandia National Laboratories, Livermore, CA, United States.&lt;/p&gt;
+&lt;p&gt;My current research includes large scale simulations of turbulent combustion relevant to gas turbine and scramjet engines, design of machine learning methods for anomalous/extreme event detection in scientific phenomena, and development of scalable asynchronous numerical methods and simulation algorithms for solving partial differential equations on massively parallel computing systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

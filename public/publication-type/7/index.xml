@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/publication-type/7/</link>
+      <atom:link href="//localhost:1313/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>7</title>
+      <link>//localhost:1313/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Highly Scalable Asynchronous Computing Method for Partial Differential Equations: A Path Towards Exascale</title>
+      <link>//localhost:1313/publication/konduri-2016-highly/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/konduri-2016-highly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct numerical simulation of starting-plume cloud-flows</title>
+      <link>//localhost:1313/publication/konduri-2009-jnc/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/konduri-2009-jnc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

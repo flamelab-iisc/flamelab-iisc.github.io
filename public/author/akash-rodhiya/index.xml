@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akash Rodhiya | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/akash-rodhiya/</link>
+      <atom:link href="//localhost:1313/author/akash-rodhiya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Akash Rodhiya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/akash-rodhiya/avatar_hucebfaae9251399a3310d245b8c188912_1042081_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Akash Rodhiya</title>
+      <link>//localhost:1313/author/akash-rodhiya/</link>
+    </image>
+    
+    <item>
+      <title>Akash Rodhiya</title>
+      <link>//localhost:1313/author/akash-rodhiya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/akash-rodhiya/</guid>
+      <description>&lt;!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  --&gt;
+&lt;p&gt;My work focuses on Combustion Concepts that are relevent to low emissions, high efficiency and fuel flexibility of stationary gas turbines for power generation. I study the auto-ignition control mode using massively parallel Direct Numerical Simulations. These simulations generate huge data. So, I use different analyzing and visualization techniques to understand the flow physics.&lt;/p&gt;
+&lt;p&gt;Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket
+in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current Position:&lt;/strong&gt; Ph.D. student at New York University, USA&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

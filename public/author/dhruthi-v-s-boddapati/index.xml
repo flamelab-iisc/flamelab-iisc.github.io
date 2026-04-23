@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhruthi V S Boddapati | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/dhruthi-v-s-boddapati/</link>
+      <atom:link href="//localhost:1313/author/dhruthi-v-s-boddapati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dhruthi V S Boddapati</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/dhruthi-v-s-boddapati/avatar_hu258d63c23bc138270569d25db1b1bd6c_343395_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Dhruthi V S Boddapati</title>
+      <link>//localhost:1313/author/dhruthi-v-s-boddapati/</link>
+    </image>
+    
+    <item>
+      <title>Dhruthi V S Boddapati</title>
+      <link>//localhost:1313/author/dhruthi-v-s-boddapati/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/dhruthi-v-s-boddapati/</guid>
+      <description>&lt;p&gt;Hi! I am Dhruthi, an inquisitive second-year M.Tech student working on multiscale modeling. I am keen on exploring new ideas, with molecular dynamics being my current interest. I have a deep passion for science and I truly believe in its potential to benefit society.&lt;/p&gt;
+&lt;p&gt;Beyond academics, I enjoy classical dance, poetry, and playing chess. I am a huge Potterhead who is immensely fascinated by beaches and ice creams.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

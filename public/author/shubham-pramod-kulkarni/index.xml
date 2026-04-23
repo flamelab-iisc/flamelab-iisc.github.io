@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubham Pramod Kulkarni | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/shubham-pramod-kulkarni/</link>
+      <atom:link href="//localhost:1313/author/shubham-pramod-kulkarni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shubham Pramod Kulkarni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/shubham-pramod-kulkarni/avatar_hu04da01cda0c62cac29a9aeb33c7cdc78_51989_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Shubham Pramod Kulkarni</title>
+      <link>//localhost:1313/author/shubham-pramod-kulkarni/</link>
+    </image>
+    
+    <item>
+      <title>Shubham Pramod Kulkarni</title>
+      <link>//localhost:1313/author/shubham-pramod-kulkarni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/shubham-pramod-kulkarni/</guid>
+      <description>&lt;!-- Highly motivated individual, eager to work in the intersection of chemical engineering and computational sciences.  --&gt;
+&lt;p&gt;I was an MTech student in the FLAME lab at CDS, IISc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current Position:&lt;/strong&gt; AI Research Scientist, Sony Tokyo&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

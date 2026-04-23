@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konduri Aditya | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/konduri-aditya/</link>
+      <atom:link href="//localhost:1313/author/konduri-aditya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Konduri Aditya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Konduri Aditya</title>
+      <link>//localhost:1313/author/konduri-aditya/</link>
+    </image>
+    
+    <item>
+      <title>A graph neural network based chemical mechanism reduction method for combustion applications</title>
+      <link>//localhost:1313/publication/nithin-2026-gnnck/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/nithin-2026-gnnck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling subgrid scale production rates on complex meshes using graph neural networks</title>
+      <link>//localhost:1313/publication/dash-2026-sgs/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2026-sgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-resolution of turbulent reacting flows on complex meshes using graph neural networks</title>
+      <link>//localhost:1313/publication/dash-2026-sr/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2026-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy and scalability of asynchronous compressible flow solver for transitional flows</title>
+      <link>//localhost:1313/publication/aswin-2025-async-iitm/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aswin-2025-async-iitm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An a-posteriori analysis of co-kurtosis PCA based dimensionality reduction using a neural ODE solver</title>
+      <link>//localhost:1313/publication/shiva-2025-cokpca/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/shiva-2025-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous discontinuous Galerkin method for combustion simulations</title>
+      <link>//localhost:1313/publication/aswin-2025-async/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aswin-2025-async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchrony-Tolerant Schemes to Enhance Scalability of High-Order Compressible Flow Solver</title>
+      <link>//localhost:1313/publication/aswin-2024-async/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aswin-2024-async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a portable parallel asynchronous PDE solver using Kokkos</title>
+      <link>//localhost:1313/publication/bhat-2024-async/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/bhat-2024-async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flashback Prevention in a Hydrogen-Fueled Reheat Combustor by Water Injection Optimized With Global Sensitivity Analysis</title>
+      <link>//localhost:1313/publication/pablo-2025-reheat/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/pablo-2025-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reactor-Network Framework to Model Performance and Emissions of a Longitudinally Staged Combustion System for Carbon-Free Fuels</title>
+      <link>//localhost:1313/publication/gopakakrishnan-2024-reheat/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gopakakrishnan-2024-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scale-similarity based workflow for self-supervised reconstruction of small-scales in turbulence using deep learning</title>
+      <link>//localhost:1313/publication/dash-2024-sr/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2024-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning Based Model for Identifying Recirculation Zones From Experimental Images of Trapped Vortex Combustors</title>
+      <link>//localhost:1313/publication/dash-2024-vit/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2024-vit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flashback Prevention in a Hydrogen-Fueled Reheat Combustor by Water Injection Optimized With Global Sensitivity Analysis</title>
+      <link>//localhost:1313/publication/pablo-2024-reheat/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/pablo-2024-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A co-kurtosis PCA based dimensionality reduction with nonlinear reconstruction using neural networks</title>
+      <link>//localhost:1313/publication/nayak-2024-cokpca/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/nayak-2024-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous discontinuous Galerkin method for massively parallel PDE solvers</title>
+      <link>//localhost:1313/publication/goswami-2024-asyncdg/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/goswami-2024-asyncdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven identification of precursors of flashback in a lean hydrogen reheat combustor</title>
+      <link>//localhost:1313/publication/floris-2024-cokpca/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/floris-2024-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laminar line source starting plumes and their interaction with energy expulsion events</title>
+      <link>//localhost:1313/publication/uc-2024-plume/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/uc-2024-plume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous ignition and flame propagation in hydrogen/methane wrinkled laminar flames at reheat conditions: Effect of pressure and hydrogen fraction</title>
+      <link>//localhost:1313/publication/rodhiya-2024-reheat/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodhiya-2024-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A co-kurtosis based dimensionality reduction method for combustion datasets</title>
+      <link>//localhost:1313/publication/jonnalagadda-2023-cokpca/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jonnalagadda-2023-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Lean Premixed Ethylene-Air Flame Stabilization over a Backward Facing Step</title>
+      <link>//localhost:1313/publication/dash-2023-bfs/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dash-2023-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of finite difference based asynchronous partial differential equations solver for reacting flows</title>
+      <link>//localhost:1313/publication/kumari-2023-async/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/kumari-2023-async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers</title>
+      <link>//localhost:1313/publication/goswami-2023-lserk/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/goswami-2023-lserk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Level Set Restricted Voronoi Tessellation for Large scale Spatial Statistical Analysis</title>
+      <link>//localhost:1313/publication/neuroth-2023-viz/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/neuroth-2023-viz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous discontinuous-Galerkin method for solving PDEs at extreme scales</title>
+      <link>//localhost:1313/publication/goswami-2022-asyncdg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/goswami-2022-asyncdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Numerical Simulation of hydrogen combustion at auto-ignitive conditions: Ignition, stability and turbulent reaction-front velocity</title>
+      <link>//localhost:1313/publication/gruber-2021-reheat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gruber-2021-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulations of flame structure in a reheat burner: pressure scaling</title>
+      <link>//localhost:1313/publication/rodhiya-2021-reheat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodhiya-2021-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIVA: A Declarative and Reactive Language for in situ Visualization</title>
+      <link>//localhost:1313/publication/wu-2020-viz/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/wu-2020-viz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User-Centered Design Study in Scientific Visualization Targeting Domain Experts</title>
+      <link>//localhost:1313/publication/ye-2020-viz/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/ye-2020-viz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher Order Tensors for DNS Data Analysis and Compression</title>
+      <link>//localhost:1313/publication/kolla-2020-cokpca/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/kolla-2020-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS of a turbulent premixed flame stabilized over a backward facing step</title>
+      <link>//localhost:1313/publication/aditya-2019-bfs/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scalable weakly-synchronous algorithm for solving partial differential equations</title>
+      <link>//localhost:1313/publication/aditya-2019-scalable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly detection in scientific data using joint statistical moments</title>
+      <link>//localhost:1313/publication/aditya-2019-cokpca/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-cokpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct numerical simulation of flame stabilization assisted by autoignition in a reheat gas turbine combustor</title>
+      <link>//localhost:1313/publication/aditya-2019-reheat/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2019-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluid Age-Based Modelling For Turbulent Premixed Combustion In Free-Shear Flows</title>
+      <link>//localhost:1313/publication/richardson-2019-fluid/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/richardson-2019-fluid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regimes of premixed turbulent spontaneous ignition and deflagration under gas-turbine reheat combustion conditions</title>
+      <link>//localhost:1313/publication/savard-2019-reheat/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/savard-2019-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct numerical simulations of premixed and stratified flame propagation in turbulent channel flow</title>
+      <link>//localhost:1313/publication/gruber-2018-channel/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/gruber-2018-channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using feature importance metrics to detect events of interest in scientific computing applications</title>
+      <link>//localhost:1313/publication/ling-2017-isml/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/ling-2017-isml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-order asynchrony-tolerant finite difference schemes for partial differential equations</title>
+      <link>//localhost:1313/publication/aditya-2017-async/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2017-async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Turbulent Schmidt Number</title>
+      <link>//localhost:1313/publication/donzis-2014-scflux/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/donzis-2014-scflux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous finite-difference schemes for partial differential equations</title>
+      <link>//localhost:1313/publication/donzis-2014-async/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/donzis-2014-async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct numerical simulation of starting-plume cloud-flows</title>
+      <link>//localhost:1313/publication/konduri-2009-jnc/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/konduri-2009-jnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of Strouhal Number Effect on Flapping Wing Micro Air Vehicle</title>
+      <link>//localhost:1313/publication/aditya-2007-mav/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aditya-2007-mav/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

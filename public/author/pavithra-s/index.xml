@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pavithra S | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/pavithra-s/</link>
+      <atom:link href="//localhost:1313/author/pavithra-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pavithra S</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/pavithra-s/avatar_hu2b1c09da08f12ef00d4374a94ecd56aa_113615_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pavithra S</title>
+      <link>//localhost:1313/author/pavithra-s/</link>
+    </image>
+    
+    <item>
+      <title>Pavithra S</title>
+      <link>//localhost:1313/author/pavithra-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/pavithra-s/</guid>
+      <description>&lt;p&gt;I am working as Project Associate at FLAME Lab, Department of Computational and Data Sciences, IISc. Prior to joining IISc, I worked at HCL Technologies as an IAM analyst. I hold a Bachelor&amp;rsquo;s Degree in Electronics and Communication from Visvesvaraya Technological University.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nagabhushana Rao Vadlamani | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/nagabhushana-rao-vadlamani/</link>
+      <atom:link href="//localhost:1313/author/nagabhushana-rao-vadlamani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nagabhushana Rao Vadlamani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Nagabhushana Rao Vadlamani</title>
+      <link>//localhost:1313/author/nagabhushana-rao-vadlamani/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy and scalability of asynchronous compressible flow solver for transitional flows</title>
+      <link>//localhost:1313/publication/aswin-2025-async-iitm/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aswin-2025-async-iitm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchrony-Tolerant Schemes to Enhance Scalability of High-Order Compressible Flow Solver</title>
+      <link>//localhost:1313/publication/aswin-2024-async/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/aswin-2024-async/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

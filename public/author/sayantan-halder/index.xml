@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sayantan Halder | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/sayantan-halder/</link>
+      <atom:link href="//localhost:1313/author/sayantan-halder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sayantan Halder</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/sayantan-halder/avatar_hue97d0710638bd5fd518fa30e4aa3a1e3_621291_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sayantan Halder</title>
+      <link>//localhost:1313/author/sayantan-halder/</link>
+    </image>
+    
+    <item>
+      <title>Sayantan Halder</title>
+      <link>//localhost:1313/author/sayantan-halder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/sayantan-halder/</guid>
+      <description>&lt;p&gt;I worked in developing a Discontinuous Galerkin based scalable solver for the Navier Stokes Equations. My interest lies in discontinuous numerical techniques, High Performance Computing and Reinforcement Learning.&lt;/p&gt;
+&lt;p&gt;Outside of academics I have a passion for photography and trekking.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current Position:&lt;/strong&gt; Data Scientist at ZS Associates&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

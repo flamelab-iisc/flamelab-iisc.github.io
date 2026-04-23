@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization;User Centered Design;Visualization;Usability;Task Analysis;Collaboration;Combustion;In Situ Data Visualization;usability Studies;design Studies;qualitative Evaluation;user Interfaces | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/tag/data-visualizationuser-centered-designvisualizationusabilitytask-analysiscollaborationcombustionin-situ-data-visualizationusability-studiesdesign-studiesqualitative-evaluationuser-interfaces/</link>
+      <atom:link href="//localhost:1313/tag/data-visualizationuser-centered-designvisualizationusabilitytask-analysiscollaborationcombustionin-situ-data-visualizationusability-studiesdesign-studiesqualitative-evaluationuser-interfaces/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Visualization;User Centered Design;Visualization;Usability;Task Analysis;Collaboration;Combustion;In Situ Data Visualization;usability Studies;design Studies;qualitative Evaluation;user Interfaces</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Data Visualization;User Centered Design;Visualization;Usability;Task Analysis;Collaboration;Combustion;In Situ Data Visualization;usability Studies;design Studies;qualitative Evaluation;user Interfaces</title>
+      <link>//localhost:1313/tag/data-visualizationuser-centered-designvisualizationusabilitytask-analysiscollaborationcombustionin-situ-data-visualizationusability-studiesdesign-studiesqualitative-evaluationuser-interfaces/</link>
+    </image>
+    
+    <item>
+      <title>A User-Centered Design Study in Scientific Visualization Targeting Domain Experts</title>
+      <link>//localhost:1313/publication/ye-2020-viz/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/ye-2020-viz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

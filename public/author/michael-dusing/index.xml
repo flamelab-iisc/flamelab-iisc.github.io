@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Düsing | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/michael-dusing/</link>
+      <atom:link href="//localhost:1313/author/michael-dusing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Düsing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Michael Düsing</title>
+      <link>//localhost:1313/author/michael-dusing/</link>
+    </image>
+    
+    <item>
+      <title>Flashback Prevention in a Hydrogen-Fueled Reheat Combustor by Water Injection Optimized With Global Sensitivity Analysis</title>
+      <link>//localhost:1313/publication/pablo-2025-reheat/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/pablo-2025-reheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flashback Prevention in a Hydrogen-Fueled Reheat Combustor by Water Injection Optimized With Global Sensitivity Analysis</title>
+      <link>//localhost:1313/publication/pablo-2024-reheat/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/pablo-2024-reheat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

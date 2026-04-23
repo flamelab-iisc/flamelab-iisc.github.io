@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neha Yedala | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/neha-yedala/</link>
+      <atom:link href="//localhost:1313/author/neha-yedala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neha Yedala</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/neha-yedala/avatar_hu04d760231e1e34cac66de6f15a9d72cc_97531_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Neha Yedala</title>
+      <link>//localhost:1313/author/neha-yedala/</link>
+    </image>
+    
+    <item>
+      <title>Neha Yedala</title>
+      <link>//localhost:1313/author/neha-yedala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/neha-yedala/</guid>
+      <description>&lt;p&gt;Hi everyone, I am a National Postdoctoral Fellow (NPDF) working in the FLAME Lab. I completed my Ph.D. at IIT Madras, where I focused on modeling catalytic micro-combustors integrated with thermoelectric devices for energy-to-power conversion. During my postdoctoral work, I aim to deepen my expertise in combustion, strengthen my modeling skills, and explore applications of machine learning in combustion. I believe this combination will equip me for a future academic position or a strong career in industry.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

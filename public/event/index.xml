@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/event/</link>
+      <atom:link href="//localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/media/logo_hueaa0c5b42f5dcc4e693f8f556b757789_30059_300x300_fit_lanczos_3.png</url>
+      <title>Research</title>
+      <link>//localhost:1313/event/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/event/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/event/example/</guid>
+      <description>&lt;!-- ---
+title: Example Event
+
+event: Wowchemy Conference
+event_url: https://example.org
+
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: &#39;94305&#39;
+  country: United States
+
+summary: An example event.
+abstract: &#39;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&#39;
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: &#39;2030-06-01T13:00:00Z&#39;
+date_end: &#39;2030-06-01T15:00:00Z&#39;
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: &#39;2017-01-01T00:00:00Z&#39;
+
+authors: []
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)&#39;
+  focal_point: Right
+
+url_code: &#39;&#39;
+url_pdf: &#39;&#39;
+url_slides: &#39;&#39;
+url_video: &#39;&#39;
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck&#39;s filename without extension.
+#   E.g. `slides = &#34;example-slides&#34;` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = &#34;&#34;`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project&#39;s folder or file name without extension.
+#   E.g. `projects = [&#34;internal-project&#34;]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+---
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

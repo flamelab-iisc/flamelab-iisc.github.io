@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naga Sai Krishna Bandi | FLAME Lab, CDS, IISc</title>
+    <link>//localhost:1313/author/naga-sai-krishna-bandi/</link>
+      <atom:link href="//localhost:1313/author/naga-sai-krishna-bandi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Naga Sai Krishna Bandi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/naga-sai-krishna-bandi/avatar_hu24e725bcc047162ebf107e696b757363_207761_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Naga Sai Krishna Bandi</title>
+      <link>//localhost:1313/author/naga-sai-krishna-bandi/</link>
+    </image>
+    
+    <item>
+      <title>Naga Sai Krishna Bandi</title>
+      <link>//localhost:1313/author/naga-sai-krishna-bandi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/naga-sai-krishna-bandi/</guid>
+      <description>&lt;p&gt;I am a Project Associate at FLAME lab, Department of Computational and Data Sciences, IISc Bangalore, working on combustion and CFD simulations. I completed my B.Tech in Mechanical Engineering in 2024.&lt;/p&gt;
+&lt;p&gt;My interests include design, CAD modeling, and simulation-based analysis. I have worked on multiple projects involving CFD and engineering design, including the development of a portable hybrid vehicle during my undergraduate studies.&lt;/p&gt;
+&lt;p&gt;Outside work, I enjoy mobile gaming and have a strong interest in futuristic automotive design.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
