@@ -7,7 +7,7 @@ The paper titled "ChemXDyn: Dynamics-Informed Species and Reaction Detection Met
 
 
 <!--more-->
-The paper titled "ChemXDyn: Dynamics-Informed Species and Reaction Detection Methodology from Atomistic Simulations" co-authored by Raj Maddipati, Dhruthi Boddapati, Elangannan Arunan, Phani Motamarri and Konduri Aditya has been published in Journal of Chemical Theory and Computation. This paper presents a a dynamics-aware trajectory analysis approach to identify chemically consistent bonded interactions and extract meaningful reaction pathways for combustion applications.
+The paper titled "ChemXDyn: Dynamics-Informed Species and Reaction Detection Methodology from Atomistic Simulations" co-authored by Raj Maddipati, Dhruthi Boddapati, Elangannan Arunan, Phani Motamarri and Konduri Aditya has been published in Journal of Chemical Theory and Computation. This paper presents a dynamics-aware trajectory analysis approach to identify chemically consistent bonded interactions and extract meaningful reaction pathways for combustion applications.
 
 For more information, please visit:
 
