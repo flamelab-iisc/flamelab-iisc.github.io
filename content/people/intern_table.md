@@ -7,7 +7,7 @@ weight: 70
   <h2>Research Interns and External Students</h2>
 </div>
 
-<table style="width: 100%; border-collapse: collapse; font-size: 1.1rem; margin-top: 1rem;">
+<table style="width: 130%; margin-left: -15%; border-collapse: collapse; font-size: 1.1rem; margin-top: 1rem;">
   <thead>
     <tr>
       <th style="width: 130px;"></th>
@@ -49,8 +49,17 @@ weight: 70
         <img src="./intern_photos/default.webp"
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
+      <td style="padding: 8px 20px;">Aparna Reniguntla</td>
+      <td style="padding: 8px 20px;">January 2024 - July 2024</td>
+      <td style="padding: 8px 20px;">MS at TU Delft, NL</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">
+        <img src="./intern_photos/default.webp"
+             style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
+      </td>
       <td style="padding: 8px 20px;">Ruthwik Chivukula</td>
-      <td style="padding: 8px 20px;">2023-2024</td>
+      <td style="padding: 8px 20px;">December 2023 - July 2024</td>
       <td style="padding: 8px 20px;">Ph.D. at Brown University, USA</td>
     </tr>
     <tr>
@@ -59,7 +68,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Akriti Kumari</td>
-      <td style="padding: 8px 20px;">2025-present</td>
+      <td style="padding: 8px 20px;">May 2025 - present</td>
       <td style="padding: 8px 20px;">B.S.+M.S. at IISER Trivandrum</td>
     </tr>
     <tr>
@@ -68,7 +77,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Ankana Pari</td>
-      <td style="padding: 8px 20px;">2025-2025</td>
+      <td style="padding: 8px 20px;">May 2025 - July 2025</td>
       <td style="padding: 8px 20px;">B.Tech. at IIT Kharagpur</td>
     </tr>
     <tr>
@@ -77,7 +86,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Anushka V</td>
-      <td style="padding: 8px 20px;">2025-present</td>
+      <td style="padding: 8px 20px;">May 2025 - present</td>
       <td style="padding: 8px 20px;">B.Tech.+M.Tech. at IIT Madras</td>
     </tr>
     <tr>
@@ -86,7 +95,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Om Inamdar</td>
-      <td style="padding: 8px 20px;">2025-present</td>
+      <td style="padding: 8px 20px;">May 2025 - present</td>
       <td style="padding: 8px 20px;">B.Tech. at IIT Bombay</td>
     </tr>
     <tr>
@@ -95,7 +104,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Ronalyn Sequeira</td>
-      <td style="padding: 8px 20px;">2025-present</td>
+      <td style="padding: 8px 20px;">May 2025 - December 2025</td>
       <td style="padding: 8px 20px;">B.Tech.+M.Tech. at IIT Madras</td>
     </tr>
     <tr>
@@ -104,7 +113,7 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Shabarish Balaji</td>
-      <td style="padding: 8px 20px;">2025-present</td>
+      <td style="padding: 8px 20px;">May 2025 - December 2025</td>
       <td style="padding: 8px 20px;">B.Tech. at IIT Madras</td>
     </tr>
   </tbody>
