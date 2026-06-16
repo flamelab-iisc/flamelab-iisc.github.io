@@ -4,23 +4,43 @@
   
   
   <url>
-    <loc>//localhost:1313/post/2026_aditya_associate/</loc><lastmod>2026-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/post/</loc><lastmod>2026-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/</loc><lastmod>2026-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/post/2026_flame_admits/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>//localhost:1313/publication-type/3/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/publication/nithin-2026-gnnck/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/authors/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>//localhost:1313/tag/fluid-dynamics/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
+    <loc>//localhost:1313/publication/raj-2026-chemxdyn/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/tag/computational-chemistry/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/author/dhruthi-boddapati/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/author/elangannan-arunan/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/author/konduri-aditya/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/</loc><lastmod>2026-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/author/phani-motamarri/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/publication_types/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/publication/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/author/raj-maddipati/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/tags/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/post/2026_aditya_associate/</loc><lastmod>2026-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/post/2026_mbr_jctc/</loc><lastmod>2026-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/post/</loc><lastmod>2026-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/post/2026_flame_admits/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/publication/nithin-2026-gnnck/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/tag/fluid-dynamics/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/tag/machine-learning/</loc><lastmod>2026-04-01T15:41:54+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -31,12 +51,6 @@
     <loc>//localhost:1313/publication/dash-2026-sgs/</loc><lastmod>2026-04-01T15:34:19+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/author/priyabrat-dash/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/publication_types/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/publication/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/tags/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/author/christos-e.-frouzakis/</loc><lastmod>2026-04-01T15:46:18+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -143,8 +157,6 @@
     <loc>//localhost:1313/post/skg_cmame_2024/</loc><lastmod>2024-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/author/mirko-r.-bothien/</loc><lastmod>2025-04-10T19:14:18+05:30</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/author/raj-maddipati/</loc><lastmod>2025-04-10T19:14:16+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/post/lab_reunion_2024/</loc><lastmod>2024-08-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
