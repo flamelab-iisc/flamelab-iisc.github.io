@@ -1,5 +1,5 @@
 ---
-title: Journal article on multi-scale modeling framework is published in Journal of Chemical Theory and Computation
+title: Paper on multi-scale modeling framework is published in Journal of Chemical Theory and Computation
 date: 2026-04-17
 share: false
 ---
