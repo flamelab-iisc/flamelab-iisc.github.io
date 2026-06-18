@@ -46,9 +46,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/pdash07
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=6yOFDLEAAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
 #   link: ttps://github.com/VidyeshDapse/ 
@@ -70,5 +70,5 @@ email: ""
 user_groups:
 - M.Tech Research Students
 ---
-Machine Learning and Mathematics enthusiast with a foundation in Mechanical Engineering. I am currently working on problems related to the characterization and prediction of extreme events in turbulence as well as chemical mechanism optimization using deep learning methods.
+Machine Learning and Mathematics enthusiast with a foundation in Mechanical Engineering. I am currently working on applying machine learning frameworks in the field of combustion applications.
 My interests and hobbies are as erratic as my sleep schedule. If you see me (or don't) around, feel free to talk to me about literally anything.

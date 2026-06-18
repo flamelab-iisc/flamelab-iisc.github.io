@@ -173,5 +173,16 @@ weight: 70
       <td style="padding: 8px 20px;">May 2026 - present</td>
       <td style="padding: 8px 20px;">B.Sc. at IISc Bengaluru</td>
     </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">
+        <span style="display: inline-block; width: 110px; height: 110px; border-radius: 50%; overflow: hidden;">
+          <img src="./intern_photos/raghubirprasad.jpeg"
+               style="width: 100%; height: 130%; object-fit: cover; transform: scale(2.2) translateY(7px) translateX(-10px);">
+        </span>
+      </td>
+      <td style="padding: 8px 20px;">Raghubir Prasad</td>
+      <td style="padding: 8px 20px;">June 2026 - present</td>
+      <td style="padding: 8px 20px;">B.Tech. at BITS Dubai</td>
+    </tr>
   </tbody>
 </table>
