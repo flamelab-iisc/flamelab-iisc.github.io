@@ -64,8 +64,10 @@ weight: 70
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
-        <img src="./intern_photos/default.webp"
-             style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
+        <span style="display: inline-block; width: 110px; height: 110px; border-radius: 50%; overflow: hidden;">
+          <img src="./intern_photos/akritikumari.jpeg"
+               style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.3) translateX(-10px) translateY(10px);">
+        </span>
       </td>
       <td style="padding: 8px 20px;">Akriti Kumari</td>
       <td style="padding: 8px 20px;">May 2025 - present</td>
