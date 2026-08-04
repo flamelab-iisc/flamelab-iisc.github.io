@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Project Associates
+- Alumni - Project Associates
 ---
 I joined FLAME Lab in August 2025 as a Project Assistant. My current work focuses on implementing Navier-Stokes Characteristic Boundary Conditions (NSCBC) for reacting flows, which I utilize to analyze auto-ignition in turbulent reacting flows and flashback phenomena. Additionally, I am exploring the application of Information Theory to better understand the underlying causality in flashback. Beside work, I love sketching, painting, and playing badminton.
 
