@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Project Associates
+- Alumni - Project Associates
 ---
 
 I am a Project Associate at FLAME lab, Department of Computational and Data Sciences, IISc Bangalore, working on combustion and CFD simulations. I completed my B.Tech in Mechanical Engineering in 2024.
