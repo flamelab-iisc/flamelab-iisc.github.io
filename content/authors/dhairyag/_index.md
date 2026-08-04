@@ -29,7 +29,7 @@ education:
   - course: M.Tech (Res) in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
     year: Aug 2026 - Present
-  - course: B.Tech in Aerospace Engineering
+  - course: B.Tech in Mechanical Engineering
     institution: National Institute of Technology, Tiruchirappalli
     year: Nov 2022 - Jun 2026
 
