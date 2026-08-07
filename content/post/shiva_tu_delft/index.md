@@ -2,6 +2,7 @@
 title: Collaborative work with TU Delft was published in Proceedings of the Combustion Institute
 date: 2024-07-26
 share: false
+authors: ["tshiva"]
 ---
 Our collaborative work with TU Delft, Netherlands on "Data-driven identification of precursors of flashback in a lean hydrogen reheat combustor" was published in the Proceedings of the Combustion Institute.
 

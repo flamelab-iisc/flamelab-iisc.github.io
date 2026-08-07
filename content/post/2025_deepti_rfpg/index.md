@@ -2,6 +2,7 @@
 title: Prestigious Reliance Foundation PG Scholarship 2025 awarded to Deepti
 date: 2025-01-01
 share: false
+authors: ["deeptis"]
 ---
 Deepti Sahu from our lab has received the prestigious Reliance Foundation Postgraduate Scholarship for 2025. This scholarship provides up to INR 6 lakhs and supports outstanding students in various fields through financial aid and development opportunities. Additional benefits include mentorship, workshops with global experts, and a strong alumni network.
 

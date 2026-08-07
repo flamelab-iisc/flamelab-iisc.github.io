@@ -2,6 +2,7 @@
 title: Four papers co-authored by lab members selected for publication in journals
 date: 2023-03-04
 share: false
+authors: ["janirudh","shubhamkg","konduri_aditya","vjmatthew"]
 ---
 
 

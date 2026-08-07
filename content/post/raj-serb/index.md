@@ -2,6 +2,7 @@
 title: Raj receives SERB international travel grant
 date: 2024-05-03
 share: false
+authors: ["raj"]
 ---
 Congratulations to Raj for receiving Secured Science and Engineering Research Board (SERB) international travel grant for attending 19th edition of the International Conference on Numerical Combustion, held in Kyoto, Japan.
 

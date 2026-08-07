@@ -2,6 +2,7 @@
 title: Paper on multi-scale modeling framework is published in Journal of Chemical Theory and Computation
 date: 2026-04-17
 share: false
+authors: ["raj","dhruthib"]
 ---
 The paper titled "ChemXDyn: Dynamics-Informed Species and Reaction Detection Methodology from Atomistic Simulations" co-authored by Raj Maddipati, Dhruthi Boddapati, Elangannan Arunan, Phani Motamarri and Konduri Aditya, has been published in the Journal of Chemical Theory and Computation.
 

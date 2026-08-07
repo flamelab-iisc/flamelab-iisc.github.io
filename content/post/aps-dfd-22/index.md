@@ -2,6 +2,7 @@
 title: Anirudh and Shubham presented their work at APS DFD 2022, Indianapolis, US
 date: 2022-11-22
 share: false
+authors: ["janirudh","shubhamkg"]
 ---
 
 The 75th Annual Meeting of the American Physical Society's Division of Fluid Dynamics (APS DFD) was conducted to highlight the impact of fluid dynamics research on global challenges, such as education and inequality, water security, climate change, renewable energy, health, and our understanding of the universe.

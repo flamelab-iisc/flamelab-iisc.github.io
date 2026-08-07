@@ -3,6 +3,7 @@ title: Dr. Aditya delivered a talk at GE Aerospace on Machine Learning for Combu
 
 date: 2026-02-18
 share: false
+authors: ["konduri_aditya"]
 ---
 Dr. Aditya delivered a talk at GE Aerospace, Bengaluru on Machine Learning for Combustion, highlighting the role of data-driven methods in advancing combustion research.
 

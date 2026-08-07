@@ -2,6 +2,7 @@
 title: FLAME lab students awarded IISc-Siemens Fellowships
 date: 2025-10-01
 share: false
+authors: ["nsurya","aswink","sudhakars"]
 ---
 N. Surya (Ph.D.), Aswin Kumar A, and Surya Datta Sudhakar (M.Tech Research) have been awarded with IISc-Siemens Technology India Fellowships.
 

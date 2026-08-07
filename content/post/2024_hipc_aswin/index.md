@@ -2,6 +2,7 @@
 title: Aswin wins best SRS poster award at IEEE HiPC conference 2024
 date: 2024-12-21
 share: false
+authors: ["aswink"]
 ---
 Congratulations to Aswin for winning the best poster award at the Student Research Symposium of the IEEE HiPC conference held on December 18-21, 2024 in Bengaluru.
 

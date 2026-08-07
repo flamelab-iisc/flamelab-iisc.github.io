@@ -2,6 +2,7 @@
 title: Paper on neural ODE solver is published in Combustion Science and Technology
 date: 2026-06-18
 share: false
+authors: ["tshiva"]
 ---
 The paper titled "An a Posteriori Analysis of Cokurtosis PCA‑Based Dimensionality Reduction Using a Neural ODE Solver" co-authored by Tadikonda Shiva Sai, Hemanth Kolla and Konduri Aditya, has been published in Combustion Science and Technology.
 

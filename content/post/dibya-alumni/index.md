@@ -2,6 +2,7 @@
 title: Dibyajyoti and Anirudh win best poster award in IISc Alumni Meet
 date: 2022-12-10
 share: false
+authors: ["jdibya","janirudh"]
 ---
 Dibyajyoti and Anirudh win best poster award in IISc Alumni Meet
 

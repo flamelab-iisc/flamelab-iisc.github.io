@@ -2,6 +2,7 @@
 title: Neha Yedala receives National Post Doctoral Fellowship
 date: 2025-12-01
 share: false
+authors: ["yneha"]
 ---
 Neha Yedala has been awarded the prestigious National Post Doctoral Fellowship (N-PDF), recognizing her strong academic and research achievements. The fellowship supports her continued contributions to advanced research and innovation in her field.
 

@@ -2,6 +2,7 @@
 title: Aritra selected for Prime Minister's Research Fellowship
 date: 2023-10-27
 share: false
+authors: ["aritrarc"]
 ---
 Aritra Roy Choudhury has been awarded the Prime Minister's Research Fellowship (PMRF) under the direct entry scheme, in cycle 11.
 

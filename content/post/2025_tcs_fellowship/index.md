@@ -2,6 +2,7 @@
 title: Shiva awarded TCS PhD Fellowship
 date: 2025-07-01
 share: false
+authors: ["tshiva"]
 ---
 Shiva has been awarded a fellowship under the TCS PhD Research Scholar Program.
 

@@ -2,6 +2,7 @@
 title: Manuscript accepted for presentation at ASME Turbo Expo 2026
 date: 2026-02-15
 share: false
+authors: ["aritrarc"]
 ---
 Aritra's manuscript on LES of trapped vortex combustors went through peer review and got accepted for presentation at ASME Turbo Expo to be held in Milan, Italy in June 2026.
 

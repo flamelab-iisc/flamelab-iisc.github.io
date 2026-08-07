@@ -2,6 +2,7 @@
 title: Lab members presented their work at SIAM CSE 2023, Amsterdam, The Netherlands
 date: 2023-03-04
 share: false
+authors: ["janirudh","shubhamkg","raj","priyabratd","jdibya"]
 ---
 
 The SIAM Conference on Computational Science and Engineering is a biennial conference facilitating in-depth technical discussions on a wide variety of major computational efforts on large-scale problems in science and engineering, foster the interdisciplinary culture required to meet these large-scale challenges, and promote the training of the next generation of computational scientists.

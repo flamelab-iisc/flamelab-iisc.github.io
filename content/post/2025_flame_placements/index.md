@@ -2,6 +2,7 @@
 title: FLAME lab members get placed at various companies
 date: 2025-12-15
 share: false
+authors: ["raj","deeptis","sudhakars"]
 ---
 Raj, Deepti and Sudhakar from our lab all got placed at various companies. Congratulations!
 

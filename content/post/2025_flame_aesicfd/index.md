@@ -2,6 +2,7 @@
 title: FLAME lab members attended the 26th AeSI CFD symposium
 date: 2025-08-11
 share: false
+authors: ["aritrarc","tshiva","sudhakars","aswink"]
 ---
 
 FLAME lab members attended the 26th Annual CFD symposium organized by Aeronautical Society of India (AeSI) CFD Division, held in HAL Management Academy, Bangalore from August 11 to 13, 2025. 

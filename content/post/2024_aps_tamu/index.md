@@ -2,6 +2,7 @@
 title: Talks given by Dr. Aditya at the 77th Annual Meet of APS DFD and at Texas A&M University
 date: 2024-11-30
 share: false
+authors: ["konduri_aditya"]
 ---
 A talk was given by Dr. Aditya at the 77th Annual Meet of APS Division of Fluid Dynamics on "Performance evaluation of the scalable asynchronous DG method".
 

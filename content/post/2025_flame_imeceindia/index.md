@@ -2,6 +2,7 @@
 title: Aritra presents paper at IMECE India 2025
 date: 2025-09-13
 share: false
+authors: ["aritrarc"]
 ---
 
 Aritra presented his work at ASME's International Mechanical Engineering Congress & Exposition (IMECE) India, held in Hyderabad from September 11 to 13, 2025. 

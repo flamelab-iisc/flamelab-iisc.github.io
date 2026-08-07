@@ -2,6 +2,7 @@
 title: Dr. Aditya honoured as Outstanding Young Aerospace Engineer at Texas A&M University
 date: 2025-11-10
 share: false
+authors: ["konduri_aditya"]
 ---
 Dr. Aditya was honoured as Outstanding Young Aerospace Engineer at Texas A&M University.
 

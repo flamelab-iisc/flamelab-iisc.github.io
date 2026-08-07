@@ -2,6 +2,7 @@
 title: Shiva attended the 2025 ACM ASEAN School on HPC and AI
 date: 2025-03-15
 share: false
+authors: ["tshiva"]
 ---
 
 Shiva engaged in a five-day ACM ASEAN School on the domain of High-Performance Computing and Artificial Intelligence, from March 10 - 14, 2025, which is offered to select participants around the globe. The program included a lecture by Turing Award winner Jack Dongarra. It was hosted by the National Supercomputing Center (NSCC) Singapore.

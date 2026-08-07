@@ -2,6 +2,7 @@
 title: FLAME lab members attended the 15th Asia-Pacific Conference on Combustion
 date: 2025-05-22
 share: false
+authors: ["konduri_aditya","tshiva","aswink"]
 ---
 
 Dr. Aditya, Shiva and Aswin attended the 15th Asia-Pacific Conference on Combustion, held in Singapore from May 18 to 22, 2025. 

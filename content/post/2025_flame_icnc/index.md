@@ -2,6 +2,7 @@
 title: FLAME lab members attended ICNC 2025
 date: 2025-10-17
 share: false
+authors: ["konduri_aditya","priyabratd","aritrarc","aswink"]
 ---
 
 Dr. Aditya, Priyabrat, Aritra and Aswin attended the 20th International Conference on Numerical Combustion, held in Rome, Italy from October 14 to 17, 2025. 

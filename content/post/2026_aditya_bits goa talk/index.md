@@ -2,6 +2,7 @@
 title: Dr. Aditya delivered an invited talk at ASCML 2026, BITS Goa
 date: 2026-02-10
 share: false
+authors: ["konduri_aditya"]
 ---
 Dr. Aditya delivered an invited talk at the International Conference on Advanced Scientific Computing and Machine Learning (ASCML 2026) held at BITS Pilani,Goa.
 

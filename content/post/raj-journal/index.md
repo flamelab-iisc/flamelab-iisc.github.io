@@ -2,6 +2,7 @@
 title: Collaborative work by Raj got accepted for publication in the Journal of Engineering for Gas Turbines and Power
 date: 2024-07-16
 share: false
+authors: ["raj"]
 ---
 Raj's collaborative work with ZHAW, Switzerland and SINTEF Norway got accepted for publication in the Journal of Engineering for Gas Turbines and Power, titled "A reactor-network framework to model performance and emissions of a longitudinally-staged combustion system for carbon-free fuels."
 

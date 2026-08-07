@@ -2,6 +2,7 @@
 title: Three manuscripts accepted for presentation at ISOC 2026
 date: 2026-02-15
 share: false
+authors: ["priyabratd", "deeptis", "nithinp"]
 ---
 Three contributed works from the lab went through peer review and got accepted for presentation at the International Symposium on Combustion (ISOC) to be held in Kyoto, Japan in July 2026.
 

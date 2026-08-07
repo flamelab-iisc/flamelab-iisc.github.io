@@ -2,6 +2,7 @@
 title: Dr. Aditya was part of a best paper award, ASME Turbo Expo Technical Conference 2024
 date: 2024-07-01
 share: false
+authors: ["konduri_aditya"]
 ---
 Dr. Aditya was part of a best paper award given at the ASME Turbo Expo Technical Conference 2024.
 The following paper was chosen as one of the Best Papers by the Combustion, Fuel, and Emissions Committee.

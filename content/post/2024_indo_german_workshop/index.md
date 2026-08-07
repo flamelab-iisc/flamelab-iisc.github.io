@@ -2,6 +2,7 @@
 title: 3 students from FLAME lab attended the Indo-German Workshop on Hardware Aware Scientific Computing
 date: 2024-10-30
 share: false
+authors: ["priyabratd","raj","tshiva"]
 ---
 Shiva Sai, Priyabrat Dash, Raj Maddipati attended the Indo-German Workshop on Hardware Aware Scientific Computing (IGWHASC).
 

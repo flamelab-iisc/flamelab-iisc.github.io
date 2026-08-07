@@ -2,6 +2,7 @@
 title: Priyabrat receives SERB travel award for attending TurboExpo 2024
 date: 2024-07-28
 share: false
+authors: ["priyabratd"]
 ---
 Priyabrat was selected for the DST-SERB international travel support scheme for attending ASME TurboExpo 2024, held at London (UK). He presented the results of a collaborative study aimed at non-invasive identification of recirculation zones from experimental images of a trapped vortex combustor.
 

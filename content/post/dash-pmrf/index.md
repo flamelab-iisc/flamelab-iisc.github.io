@@ -2,6 +2,7 @@
 title: Priyabrat selected for Prime Minister's Research Fellowship
 date: 2023-03-22
 share: false
+authors: ["priyabratd"]
 ---
 We congratulate Priyabrat for his selection in the prestigious Prime Minister's Research Fellowship.
 

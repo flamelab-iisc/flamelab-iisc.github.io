@@ -2,6 +2,7 @@
 title: Shubham, Vidyesh and Dibyajyoti presented their research at IGCM 2023 and EECS Research Symposium
 date: 2023-03-31
 share: false
+authors: ["shubhamkg","dvidyesh","jdibya"]
 ---
 
 The Indo-German Conference on Computational Mathematics (IGCM) is a bi-national conference providing an interdisciplinary platform for researchers to present and discuss the most recent innovations, trends, and the challenges in the frontier areas of computational mathematics. The EECS Research symposium is an initiative of the Division of EECS at IISc, which provides a forum for presentations by senior research students.

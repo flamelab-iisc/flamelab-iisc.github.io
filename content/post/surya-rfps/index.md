@@ -2,6 +2,7 @@
 title: Prestigious Reliance Foundation PG Scholarship 2024 awarded to N Surya
 date: 2024-06-13
 share: false
+authors: ["nsurya"]
 ---
 N Surya from our lab has received the prestigious Reliance Foundation Postgraduate Scholarship for 2024. This scholarship provides up to INR 6 lakhs and supports outstanding students in various fields through financial aid and development opportunities. Additional benefits include mentorship, workshops with global experts, and a strong alumni network.
 

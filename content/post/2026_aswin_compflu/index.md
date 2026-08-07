@@ -2,6 +2,7 @@
 title: Paper on asynchronous flow solver published in Computers and Fluids
 date: 2026-06-20
 share: false
+authors: ["aswink"]
 ---
 The paper titled "Accuracy and scalability of asynchronous flow solver for transitional flows" co-authored by Aswin Kumar Arumugam, Shubham Kumar Goswami, Nagabhushana Rao Vadlamani, Konduri Aditya has been published in Computers and Fluids.
 
