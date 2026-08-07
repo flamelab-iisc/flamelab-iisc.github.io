@@ -19,6 +19,12 @@ content:
         brightness: 1.0
 
     - background:
+        media: group_photos/IMG_1623.jpeg
+        position: "90% 65%"
+        fit: "100%"
+        brightness: 1.0
+
+    - background:
         media: group_photos/IMG-20260524-WA0031.jpg
         position: "80% 65%"
         fit: "125%"

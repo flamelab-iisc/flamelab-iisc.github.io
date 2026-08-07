@@ -9633,3 +9633,6 @@ div.chart {
 
 .cta-group {
   justify-content: center; }
+
+#navbar-main .navbar-nav .nav-link {
+  font-size: 1.1rem; }
