@@ -31,7 +31,7 @@ education:
   - course: Ph.D. in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
     year: Aug 2026 - Present
-  - course: B.Tech (Hons) in Mechanical Engineering, Minor in Mathematics
+  - course: B.Tech in Mechanical Engineering
     institution: Indian Institute of Technology, Madras
     year: Nov 2021 - Jun 2025
 
