@@ -56,7 +56,7 @@ social:
   link: https://github.com/AnushkaVenky/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/anushka-venkatesh/
+  link: https://www.linkedin.com/in/anushka-venkatesh-80ab84255?trk=contact-info
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
