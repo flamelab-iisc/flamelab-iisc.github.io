@@ -1,5 +1,5 @@
 ---
-title: Nithin, Priyabrat win runner-up Best Oral Presentation at the AeSI CFD Conference, IIT Madras 
+title: Nithin wins runner-up Best Oral Presentation at the AeSI CFD Conference, IIT Madras 
 date: 2026-08-11
 share: false
 authors: ["nithinp", "priyabratd"]

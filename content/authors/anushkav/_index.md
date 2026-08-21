@@ -1,42 +1,39 @@
 ---
 # Display name
-title: Hridya Adukkadukkam
+title: Anushka Venkatesh
 
 # Username (this should match the folder name)
 authors:
-- hridyaa
+- anuskhav
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Ph.D.
+role: Project Associate
 
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: 
+  url: https://anushkavenky.github.io/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Planetary dynamos
-- Magnetohydrodynamics
-- Numerical methods for PDEs
-- Fluid dynamics
+- Atomistic Simulations
+- Chemical Kinetics
+- Machine Learning
+
 
 education:
   courses:
-  - course: Ph.D. in IISc Mathematics Initiative
-    institution: Indian Institute of Science, Bengaluru
-    year: Aug 2025 - Present
-  - course: M.Sc in Physics
-    institution: Central University of Kerala, Kasaragod
-    year: Aug 2022 - Jul 2024
-  - course: B.Sc in Physics
-    institution: Nehru Arts and Science College, Kanhangad
-    year: Aug 2019 - Jul 2022
+  - course: B.Tech in Mechanical Engineering
+    institution: Indian Institute of Technology, Madras
+    year: Jul 2021 - Jun 2025
+  - course: M.Tech in Computational Engineering
+    institution: Indian Institute of Technology, Madras
+    year: Jul 2025 - Jun 2026
 
 
 
@@ -47,19 +44,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hridyaa@iisc.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:anushkavenkatesh3@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/pdash07
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/VidyeshDapse/ 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AnushkaVenky/
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/hridya-a-8b2455262/
+  link: https://www.linkedin.com/in/anushka-venkatesh/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -73,8 +70,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- Project Associates
 ---
-I am a PhD student in the IMI at IISc, in collaboration with CDS and CEAS. My research interests include numerical simulations of planetary dynamos and rotating flows. Outside research, I enjoy dancing and listening to music.
-
+I work on chemical kinetics for combustion reactions using molecular dynamics simulations. I like maps, and like spending my spare time memorising shapes of current and erstwhile countries. It’s my life’s goal to excel in geoguesser.
+I also like playing tennis and long distance running.
+You can find me in the 4th desk of the flame lab and talk to me about anything and everything.
 

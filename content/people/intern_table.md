@@ -88,8 +88,8 @@ weight: 70
              style="width: 110px; height: 110px; object-fit: cover; border-radius: 50%;">
       </td>
       <td style="padding: 8px 20px;">Anushka V</td>
-      <td style="padding: 8px 20px;">May 2025 - present</td>
-      <td style="padding: 8px 20px;">B.Tech.+M.Tech. at IIT Madras</td>
+      <td style="padding: 8px 20px;">May 2025 - July 2026</td>
+      <td style="padding: 8px 20px;">Project Associate at FLAME Lab, IISc Bengaluru</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
