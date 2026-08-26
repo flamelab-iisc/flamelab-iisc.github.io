@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Associate Professor, Arcot Ramanchandran Young Investigator
+role: Associate Professor, Arcot Ramachandran Young Investigator
 
 # Organizations/Affiliations
 organizations:
