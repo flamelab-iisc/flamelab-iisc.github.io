@@ -2,7 +2,7 @@
 title: Aswin defends his M.Tech (Res) thesis
 date: 2026-08-27
 share: false
-authors = ["kaswin"]
+authors: ["aswink"]
 ---
 Many congratulations to Aswin for successfully defending his masters thesis titled "Asynchronous computing and low-precision approaches towards accelerating flow simulations" on August 27th, 2026.
 
