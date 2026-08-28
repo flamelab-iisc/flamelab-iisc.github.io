@@ -51,7 +51,7 @@ weight: 70
       </td>
       <td style="padding: 8px 20px;">Aparna Reniguntla</td>
       <td style="padding: 8px 20px;">January 2024 - July 2024</td>
-      <td style="padding: 8px 20px;">MS at TU Delft, NL</td>
+      <td style="padding: 8px 20px;">MSc at TU Delft, NL</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
@@ -109,7 +109,7 @@ weight: 70
       </td>
       <td style="padding: 8px 20px;">Ronalyn Sequeira</td>
       <td style="padding: 8px 20px;">May 2025 - December 2025</td>
-      <td style="padding: 8px 20px;">B.Tech.+M.Tech. at IIT Madras</td>
+      <td style="padding: 8px 20px;">SLB</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
@@ -118,7 +118,7 @@ weight: 70
       </td>
       <td style="padding: 8px 20px;">Shabarish Balaji</td>
       <td style="padding: 8px 20px;">May 2025 - December 2025</td>
-      <td style="padding: 8px 20px;">B.Tech. at IIT Madras</td>
+      <td style="padding: 8px 20px;">Ph.D. at Purdue University, USA</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
@@ -173,7 +173,7 @@ weight: 70
       </td>
       <td style="padding: 8px 20px;">Yash Dewangan</td>
       <td style="padding: 8px 20px;">May 2026 - present</td>
-      <td style="padding: 8px 20px;">B.Sc. at IISc Bengaluru</td>
+      <td style="padding: 8px 20px;">B.S.+M.S. at IISc Bengaluru</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
