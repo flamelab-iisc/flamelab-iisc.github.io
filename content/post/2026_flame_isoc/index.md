@@ -1,6 +1,6 @@
 ---
 title: FLAME lab members attended ISoC 2026
-date: 2026-08-07
+date: 2026-07-31
 share: false
 authors: ["konduri_aditya","priyabratd","tshiva","nsurya","deeptis","nithinp"]
 ---
