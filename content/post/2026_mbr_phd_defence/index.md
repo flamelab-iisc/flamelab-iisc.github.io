@@ -1,5 +1,5 @@
 ---
-title: Raj defended his PhD thesis
+title: Raj defends his PhD thesis
 date: 2026-09-18
 share: false
 ---
