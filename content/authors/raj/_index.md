@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- Alumni - Ph.D. Students
 ---
 I am a person who likes to live a simple life but in a fascinating way. I try to be friendly and generous to everyone I meet. I have an outgoing personality and enjoy hanging out with people that aren't self-centred. I kind of love adventures like trekking in Himalayas or long bike ride to hill stations or marathon running etc., thanks to adventure club in IITK.
 
