@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Ph.D.
+role: Data scientist at ExxonMobil
 
 # Organizations/Affiliations
 organizations:
