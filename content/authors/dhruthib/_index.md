@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Data scientist at Lam Research
+role: Graduate student at Stanford
 
 # Organizations/Affiliations
 # organizations:
