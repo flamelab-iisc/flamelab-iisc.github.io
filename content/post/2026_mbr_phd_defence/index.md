@@ -2,6 +2,7 @@
 title: Raj defends his PhD thesis
 date: 2026-09-18
 share: false
+authors: ["raj"]
 ---
 Many congratulations to Raj for successfully defending his doctoral thesis titled "ChemXDyn: Dynamics-aware methodology for chemically accurate species identification and kinetic analysis from atomistic simulations" on September 18th, 2026. He joined the FLAME Lab in October 2020 as the second PhD student in the lab, also co-advised by Dr. Phani Motamarri who heads the MATRIX lab at CDS IISc.
 
