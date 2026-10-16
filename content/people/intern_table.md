@@ -51,7 +51,7 @@ weight: 70
       </td>
       <td style="padding: 8px 20px;">Aparna Reniguntla</td>
       <td style="padding: 8px 20px;">January 2024 - July 2024</td>
-      <td style="padding: 8px 20px;">MSc at TU Delft, NL</td>
+      <td style="padding: 8px 20px;">PhD at TU Delft, NL</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center;">
