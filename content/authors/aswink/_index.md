@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: M.Tech Research
+role: Project Associate
 
 # Organizations/Affiliations
 # organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.Tech (Res) in Computational and Data Sciences
     institution: Indian Institute of Science, Bangalore
-    year: Aug 2024 - Present
+    year: Aug 2024 - Aug 2026
   - course: B.Tech in Aerospace Engineering
     institution: Indian Institute of Technology, Madras
     year: Nov 2020 - Jun 2024
@@ -68,6 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- Project Associates
 - Alumni - M.Tech Research Students
 ---
 I joined the FLAME lab as an M. Tech. (research) student in summer 2024. I work on asynchrony tolerant schemes that can help design highly scalable discontinuous Galerkin method-based solvers for reacting flows. My interests outside of academics include watching cinema and sports.
