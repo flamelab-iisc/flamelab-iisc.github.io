@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- Alumni - Ph.D. Students
 ---
 Hi! I am a PhD student in the Department of Computational and Data Sciences at IISc Bangalore. I am a member of the FLAME lab, supervised by Dr. Konduri Aditya. My work primarily involves numerical simulations of turbulent reacting flows using high-performance computing architecture and the relevant data analysis. Prior to IISc, I had a brief stint as a Management Trainee in Tata Steel.
 
